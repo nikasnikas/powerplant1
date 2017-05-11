@@ -3,6 +3,7 @@
 Server:"fuck1cline/PT" URL="http://sadatek57.dyndns.tv:8000/get.php?username=osama&password=osama&type=m3u"; regex"PT"
 
 
+Server:"fuck1cline/world" URL="http://topiptv.net:5890/get.php?username=junior&password=junior1&type=m3u"; regex"PT"
 
 Server:"fuck1cline/world" URL="http://sadatek57.dyndns.tv:8000/get.php?username=osama&password=osama&type=m3u"; regex""
 
