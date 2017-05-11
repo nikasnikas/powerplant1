@@ -1,0 +1,880 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+
+
+
+
+
+<item>
+<title>[B][COLOR  aqua]VEVO MUSIC[/B][/COLOR]</title>
+<link>http://ignore.me</link>
+<jsonrpc>plugin://plugin.video.youtube/user/VEVO/</jsonrpc>
+<thumbnail>https://www.winxdvd.com/resource/new-fourteen/vevo-icon.png</thumbnail>
+<fanart>http://routenote.com/blog/wp-content/uploads/2015/12/Vevo_MusicEyes-710x434.png</fanart>
+</item>
+
+
+<item>
+<title>[B][COLOR  aqua]MTV MUSIC[/B][/COLOR]</title>
+<link>http://ignore.me</link>
+<jsonrpc>plugin://plugin.video.youtube/user/MTV/</jsonrpc>
+<thumbnail>https://4.bp.blogspot.com/-353tOX6l5pI/V5rBf964bRI/AAAAAAAABLw/dD6_eIOjeNgSIBQOUOJVC3v4lxEbLfSzACLcB/s1600/mtvlogo.png</thumbnail>
+<fanart>https://4.bp.blogspot.com/-353tOX6l5pI/V5rBf964bRI/AAAAAAAABLw/dD6_eIOjeNgSIBQOUOJVC3v4lxEbLfSzACLcB/s1600/mtvlogo.png</fanart>
+</item>
+
+
+
+<item>
+<title>[B][COLOR  aqua]KISS TV[/B][/COLOR]</title>
+<link>rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live</link>
+<thumbnail>http://www.telefivegb.com/wp-content/uploads/2013/05/kisstv.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]DJING IBIZA[/B][/COLOR]</title>
+<link>http://www.djing.com/tv/d-05.m3u8</link>
+<thumbnail>http://www.tvtuga.com/wp-content/uploads/2015/12/djing-ibiza-tv.jpg</thumbnail>
+</item>
+<item>
+<title>[B][COLOR  aqua]DJING ANIMATION[/B][/COLOR]</title>
+<link>http://www.djing.com/tv/a-05.m3u8</link>
+<thumbnail>http://www.primetvweb.com/wp-content/uploads/2016/01/Djing-Animation-TV.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR  aqua]DJING CLASSIC[/B][/COLOR]</title>
+<link>http://www.djing.com/tv/i-05.m3u8</link>
+<thumbnail>http://www.streamytv.net/wp-content/uploads/2015/11/Djing-Classic.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]RADIO MONTE CARLO[/B][/COLOR]</title>
+<link>rtmp://fms.105.net:1935/live/rmc1</link>
+<thumbnail>http://rmc.bfmtv.com/ressources/img/mediaplayer/player-rmcdecouverte_fin.jpg</thumbnail>
+</item>
+<item>
+<title>[B][COLOR  aqua]CAPITAL TV[/B][/COLOR]</title>
+<link>http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/3/32/Capital_TV_logo.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR  aqua]HEARTH[/B][/COLOR]</title>
+<link>http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://www.jumpdesign.co.uk/wp-content/uploads/2014/09/Heart-TV-N-031-600x338.jpg</thumbnail>
+</item>
+<item>
+<title>[B][COLOR  aqua]VIRGIN[/B][/COLOR]</title>
+<link>rtmp://fms.105.net:1935/live/virgin2</link>
+<thumbnail>http://about.virginmedia.com/images/press_releases/VTVA%20logo_1.png</thumbnail>
+</item>
+
+
+<item>
+<title>[B][COLOR  aqua]DANCEFLOOR[/B][/COLOR]</title>
+<link>http://www.djing.com/tv/dancefloor.m3u8</link>
+<thumbnail>http://insidedancefloor-lawebradio.e-monsite.com/medias/images/dancefloor.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[B][COLOR  aqua]MI MUSIC[/B][/COLOR]</title>
+<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?</link>
+<thumbnail>http://g01.a.alicdn.com/kf/HTB18FuIJXXXXXaAXXXXq6xXFXXXl/7021E-MI-music-centre-audio-2-0-active-subwoofer-combination-wooden-card-mobile-phone-TV-computer.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[B][COLOR  aqua]MI MUSIC[/B][/COLOR]</title>
+<link>http://disneyjunior.disney.co.uk/watch?b=mch<link>
+<thumbnail>http://g01.a.alicdn.com/kf/HTB18FuIJXXXXXaAXXXXq6xXFXXXl/7021E-MI-music-centre-audio-2-0-active-subwoofer-combination-wooden-card-mobile-phone-TV-computer.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[B][COLOR  aqua]1HD[/B][/COLOR]</title>
+<link>http://80.250.191.10:1935/live/livestream3/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/2xw3x7O.png</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]4 Music[/B][/COLOR]</title>
+<link>http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/4_music-mobile.3gp.m3u8</link>
+<thumbnail>http://i.imgur.com/w22MZwa.png</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]24 Rock One[/B][/COLOR]</title>
+<link>http://194.116.83.15:80/24RockOne66</link>
+<thumbnail>http://i.imgur.com/hdhYb8J.gif</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<title>[B][COLOR  aqua]538 TV[/B][/COLOR]</title>
+<link>http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_1.m3u8</link>
+<thumbnail>http://i.imgur.com/fDeSf9c.jpg</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]Afro Music[/B][/COLOR]</title>
+<link>http://176.9.55.94:1935/edge/43_135_live/Manifest.m3u8
+</link>
+<thumbnail>http://i.imgur.com/RhTOUr5.png</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]aMazing[/B][/COLOR]</title>
+<link>http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2</link>
+<thumbnail>http://i.imgur.com/JBdeG3h.png</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]Anadolu TV[/B][/COLOR]</title>
+<link>rtmp://anadolutv.radyotvyayini.com/rtplive/anadolutv.sdp</link>
+<thumbnail>http://i.imgur.com/DexYlhY.png</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]Atomic TV[/B][/COLOR]</title>
+<link>rtmp://5.154.185.153/live/live.flv
+</link>
+<thumbnail>http://i.imgur.com/ffe6uzw.jpg</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]Big Pond Music[/B][/COLOR]</title>
+<link>mmsh://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpmusic_high
+</link>
+<thumbnail>http://i.imgur.com/4y8VtzA.png</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]Capital TV HD[/B][/COLOR]</title>
+<link>http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8</link>
+<thumbnail>http://i.imgur.com/27yvrAM.png</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]C Music World TV[/B][/COLOR]</title>
+<link>mmsh://streaming.cmusic.tv/cmusicworld-tv</link>
+<thumbnail>http://i.imgur.com/hdhYb8J.gif</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]CANALE RADIO 51[/B][/COLOR]</title>
+<link>http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/2cx7cJw.png</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]Cantinazo[/B][/COLOR]</title>
+<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8?</link>
+<thumbnail>http://i.imgur.com/cDf94G6.png</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]Radio Capital TV[/B][/COLOR]</title>
+<link>http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8</link>
+<thumbnail>http://i.imgur.com/xsNAbpd.jpg</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]City TV[/B][/COLOR]</title>
+<link>http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/stream.m3u8</link>
+<thumbnail>http://i.imgur.com/lQE8zcX.jpg</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]Clubbing TV[/B][/COLOR]</title>
+<link>http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/clubbingtv-mobile.3gp.m3u8</link>
+<thumbnail>http://i.imgur.com/wDJsB65.png</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR  aqua]Cool HD - 103.7 TV[/B][/COLOR]</title>
+<link>http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/TI04HBY.jpg</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]Deluxe Music[/B][/COLOR]</title>
+<link>http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/94NvaIz.gif</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]Desi Channel[/B][/COLOR]</title>
+<link>http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/bAessP3.jpg</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]DnBTV[/B][/COLOR]</title>
+<link>rtmp://fms1.drumandbasslines.com/DnBTV/ch1
+</link>
+<thumbnail>http://dreadd.org/wp-content/uploads/2016/03/dnblines-tv-logo-140x130.jpg</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]Djing[/B][/COLOR]</title>
+<link>http://cdn.djing.com/tv/05.m3u8</link>
+<thumbnail>http://www.djing.com/newimages/logo.png</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]Djing HD[/B][/COLOR]</title>
+<link>http://www.djing.com/tv/h-05.m3u8</link>
+<thumbnail>http://www.djing.com/newimages/logo.png</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]Djing DJS HD[/B][/COLOR]</title>
+<link>http://www.djing.com/tv/tmp/Hedonist_April_2015_DjingMedium/stream-5-2600000/index.m3u8</link>
+<thumbnail>http://i.imgur.com/jYrYDyA.</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]Djing Animation HD[/B][/COLOR]</title>
+<link>http://www.djing.com/tv/a-05.m3u8</link>
+<thumbnail>http://i.imgur.com/jYrYDyA.png</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]DJING Dancefloor HD [/B][/COLOR]</title>
+<link>http://www.djing.com/tv/d-05.m3u8</link>
+<thumbnail>http://i.imgur.com/jYrYDyA.png</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]DJING Hot Hot Hot HD[/B][/COLOR]</title>
+<link>http://www.djing.com/tv/hothothot.m3u8</link>
+<thumbnail>http://i.imgur.com/jYrYDyA.png</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]DJing Ibiza[/B][/COLOR]</title>
+<link>http://www.djing.com/tv/d-05.m3u8</link>
+<thumbnail>http://i.imgur.com/jYrYDyA.png</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]Djing Underground HD[/B][/COLOR]</title>
+<link>http://www.djing.com/tv/u-05.m3u8</link>
+<thumbnail>http://i.imgur.com/2Vzv0RY.jpg</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]Dream TV HD[/B][/COLOR]</title>
+<link>ttp://212.224.109.101/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8</link>
+<thumbnail>http://i.imgur.com/WgcOsti.gif</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]DSTV[/B][/COLOR]</title>
+<link>rtmp://46.249.95.140/live/livestream</link>
+<thumbnail>http://i.imgur.com/hdhYb8J.gif</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]E 24[/B][/COLOR]</title>
+<link>http://d3ibnxavurfby0.cloudfront.net/bagnetworks/ngrp:e24_all/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/gFAmieU.jpg</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]Electrosound[/B][/COLOR]</title>
+<link>rtmp://www.electrosound.tv:1935/public/stream</link>
+<thumbnail>http://i.imgur.com/hdhYb8J.gif</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]El Pinguino[/B][/COLOR]</title>
+<link>http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8</link>
+<thumbnail>http://i.imgur.com/YQZayfl.png</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]Enorme TV[/B][/COLOR]</title>
+<link>http://ec.playmedia.fr/enorme-tv/live/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/7C3m1JL.jpg</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]EuropaPlus[/B][/COLOR]</title>
+<link>http://hls.europaplus.cdnvideo.ru/sg1/hires_eptv_main.sdp/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/Ynx9P31.png</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]Eska Best Music[/B][/COLOR]</title>
+<link>http://stream.cdn.smcloud.net/best-t/best_360p/chunklist_w1841040336.m3u8</link>
+<thumbnail>http://i.imgur.com/jXGR8SS.jpg</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]Eska Rock[/B][/COLOR]</title>
+<link>rtmp://stream.smcloud.net/tv/eska_rock/eska_rock_480p</link>
+<thumbnail>http://i.imgur.com/SwagJE7.jpg</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]Eska Rock 720p[/B][/COLOR]</title>
+<link>rtmp://stream.smcloud.net/tv/eska_rock/eska_rock_720p</link>
+<thumbnail>http://i.imgur.com/SwagJE7.jpg</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]Wawa TV[/B][/COLOR]</title>
+<link>rtmp://stream.smcloud.net/tv/wawa/wawa_480p</link>
+<thumbnail>http://i.imgur.com/ClCGS4B.jpg</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]Wawa TV 720p[/B][/COLOR]</title>
+<link>rtmp://stream.smcloud.net/tv/wawa/wawa_720p</link>
+<thumbnail>http://i.imgur.com/ClCGS4B.jpg</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]Eska Party[/B][/COLOR]</title>
+<link>rtmp://stream.smcloud.net/tv/eska_party/eska_party_480p</link>
+<thumbnail>http://i.imgur.com/u3cY3Er.jpg</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]Eska Party 720p[/B][/COLOR]</title>
+<link>rtmp://stream.smcloud.net/tv/eska_party/eska_party_720p</link>
+<thumbnail>http://i.imgur.com/u3cY3Er.jpg</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]Vox Music Tv[/B][/COLOR]</title>
+<link>rtmp://stream.cdn.smcloud.net/vox2-p/stream1</link>
+<thumbnail>http://i.imgur.com/TsOO6iF.png</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]VOX Old School TV[/B][/COLOR]</title>
+<link>rtmp://stream.smcloud.net/tv/vox/vox_720p</link>
+<thumbnail>http://i.imgur.com/5l39TV6.png</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]Polo Party TV 720p[/B][/COLOR]</title>
+<link>rtmp://stream.smcloud.net/tv/polo_party/polo_party_720p</link>
+<thumbnail>http://i.imgur.com/m2MuZiV.jpg</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]8 TV[/B][/COLOR]</title>
+<link>rtmp://stream.cdn.smcloud.net/8tv2-t/8tv_480p</link>
+<thumbnail>http://i.imgur.com/qlupVGH.png</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]Hip Hop TV[/B][/COLOR]</title>
+<link>http://stream.cdn.smcloud.net/hiphoptv-p/stream1/chunklist_w219178733.m3u8</link>
+<thumbnail>http://i.imgur.com/wRwZc4l.jpg</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]Gem Kurd[/B][/COLOR]</title>
+<link>http://63.237.48.3/ios/GEM_KURD/GEM_KURD.m3u8</link>
+<thumbnail>http://i.imgur.com/hdhYb8J.gif</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]Hawacom Tv[/B][/COLOR]</title>
+<link>http://mobilestreaming.itworkscdn.com/hawacom/hawacomlive/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/wXlq6JL.gif</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]Heart TV[/B][/COLOR]</title>
+<link>http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on
+</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/0/09/Heart_TV_logo.png</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]Heavy Metal Television[/B][/COLOR]</title>
+<link>rtmp://70.166.98.130:1935/hmtv/myStream</link>
+<thumbnail>http://i.imgur.com/VCfFv7x.jpg</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]Hit TV[/B][/COLOR]</title>
+<link>rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live</link>
+<thumbnail>http://i.imgur.com/8f9Y8L9.jpg</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]Ibiza Global[/B][/COLOR]</title>
+<link>http://server10.streaming-pro.com:1937/live/ibgtvlive/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/eBcekYJ.png</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]Indies Live[/B][/COLOR]</title>
+<link>http://ec.playmedia.fr/indies-live/live/playlist.m3u8</link>
+<thumbnail>http://nasdy.website/indieslive/wp-content/uploads/sites/47/2016/08/logo_il-2.png</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]Klipkar TV[/B][/COLOR]</title>
+<link>http://live.wowza.kpnstreaming.nl/omropfryslanlive/OFstream01.smil/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/HwAQnHu.jpg</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]Kronehit[/B][/COLOR]</title>
+<link>http://bitcdn-kronehit-live.bitmovin.com/hls/1500k/bitcodin.m3u8</link>
+<thumbnail>http://i.imgur.com/i1ggG2b.jpg</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]M1[/B][/COLOR]</title>
+<link>http://auth.torrent-tv.ru/h/503/1/2/dUFBK3pSN3VwbFJIZWloWTk2WEZERk1qMzFHV2lWbkFJLytUS3YzYUJxbWpxcG53Um1KNEFBT241d0o3MTFWdA</link>
+<thumbnail>http://i.imgur.com/hdhYb8J.gif</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]M2O TV[/B][/COLOR]</title>
+<link>http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://i.imgur.com/JGeeWeu.jpg</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]M6 Music[/B][/COLOR]</title>
+<link>http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
+</link>
+<thumbnail>http://i.imgur.com/ikBVYWV.png</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]MAD[/B][/COLOR]</title>
+<link>http://144.76.2.213:1935/live/livestream/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/TFeqY7n.png</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]Melody Channel[/B][/COLOR]</title>
+<link>http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/Y05EFlx.jpg</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]MIMUSICA HD[/B][/COLOR]</title>
+<link>http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8</link>
+<thumbnail>http://i.imgur.com/ZW7aKCx.jpg</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]Mifa TV[/B][/COLOR]</title>
+<link>http://63.237.48.23/ios/GEM_MIFA/GEM_MIFA.m3u8</link>
+<thumbnail>http://i.imgur.com/9Q8O3P8.png</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]Radio Monte Carlo Tv[/B][/COLOR]</title>
+<link>rtmp://fms.105.net/live/rmc1</link>
+<thumbnail>http://i.imgur.com/gxJyOmp.png</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]Music Box TV[/B][/COLOR]</title>
+<link>rtmp://212.26.132.86/live/mb_ua</link>
+<thumbnail>http://i.imgur.com/wRIykw2.png</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]Muz TV[/B][/COLOR]</title>
+<link>http://85.132.78.6:1935/live/muztv.stream/younessiptv.m3u8
+</link>
+<thumbnail>http://i.imgur.com/8m3xQF8.png</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]Muzz One[/B][/COLOR]</title>
+<link>http://live.muzzone.cdnvideo.ru/muzzone/muzzone.sdp/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/pddDcQs.png</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]MTV AM[/B][/COLOR]</title>
+<link>http://mtvam.ru/hlsam/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/QQVTbsL.jpg</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]Nebiset[/B][/COLOR]</title>
+<link>http://hls.nebiset.tv/nebiset.m3u8</link>
+<thumbnail>http://i.imgur.com/poVXHBE.png</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]NR1 Turk[/B][/COLOR]</title>
+<link>rtmp://mn-l.mncdn.com/birnumaramedya_live/nr1tv.sdp</link>
+<thumbnail>http://i.imgur.com/FKIXCGs.jpg</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]NRJ HITS[/B][/COLOR]</title>
+<link>rtsp://5.196.138.6:1935/live/nrjbelgique_360p</link>
+<thumbnail>http://i.imgur.com/I8hEcLc.jpg</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]NRJ HITS 720p[/B][/COLOR]</title>
+<link>http://5.196.138.6:1935/live/nrjbelgique_720p/chunklist_w1913418838.m3u8</link>
+<thumbnail>http://i.imgur.com/I8hEcLc.jpg</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]Ocko Gold[/B][/COLOR]</title>
+<link>http://ocko-live.service.cdn.cra.cz/playlist/live/ocko_gold/live_hq.m3u8</link>
+<thumbnail>http://i.imgur.com/xbo5eq2.jpg</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]OCKO[/B][/COLOR]</title>
+<link>http://ocko-live.service.cdn.cra.cz/playlist/live/ocko/live_lq.m3u8</link>
+<thumbnail>http://i.imgur.com/jJr5Acl.png</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]OCKO Express[/B][/COLOR]</title>
+<link>http://ocko-live.service.cdn.cra.cz/playlist/live/ocko_expres/live_hq.m3u8</link>
+<thumbnail>http://i.imgur.com/ZdtMCAi.png</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]OneTV [/B][/COLOR]</title>
+<link>http://server5.stweb.tv/radioone/live/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/iNCYeo5.jpg</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]ONE BY[/B][/COLOR]</title>
+<link>http://rtmp.one.by:1200</link>
+<thumbnail>http://i.imgur.com/hdhYb8J.gif</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]ONE BY HD[/B][/COLOR]</title>
+<link>http://rtmp.one.by:1300</link>
+<thumbnail>http://i.imgur.com/hdhYb8J.gif</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]ONE BY UHD[/B][/COLOR]</title>
+<link>http://rtmp.one.by:1400</link>
+<thumbnail>http://fuckteams.esy.es/FOTOS/fundo.jpg</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]Promo DJ TV[/B][/COLOR]</title>
+<link>http://hls.cdn.promodj.com/hls/live/pdjlive.m3u8</link>
+<thumbnail>http://i.imgur.com/dlq6k92.png</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR  aqua]radioutv[/B][/COLOR]</title>
+<link>http://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/mp4:radioutv2/.m3u8</link>
+<thumbnail>https://i.imgur.com/8Q8vVM3.jpg</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]PBN Music[/B][/COLOR]</title>
+<link>http://live.wmncdn.net/pbnmusic/b437d1e185b4c95b08b9c830a9d97cff.sdp/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/yX8CKx3.png</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]PMC[/B][/COLOR]</title>
+<link>http://63.237.48.23/ios/PMC/PMC.m3u8</link>
+<thumbnail>https://i.imgur.com/ta120hC.jpg</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]Power TV HD[/B][/COLOR]</title>
+<link>http://cdn2.powergroup.com.tr/powertv/_definst_/powertv.smil/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/8AqHwCg.png</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]Quiero Musica En Mi Idioma[/B][/COLOR]</title>
+<link>mms://200.42.92.6:1755/qmusica</link>
+<thumbnail>https://i.imgur.com/sL6UGVg.jpg</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]RTL TV 102.5[/B][/COLOR]</title>
+<link>http://origin-rtl-radio-stream.4mecloud.it/live-video/radiovisione/ngrp:radiovisione/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/0TJ0OBW.png</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]RADIO 105 TV[/B][/COLOR]</title>
+<link>rtmp://fms.105.net/live/105Test1</link>
+<thumbnail>https://i.imgur.com/gcVw4Ty.jpg</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]Radio Italia Tv[/B][/COLOR]</title>
+<link>http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8</link>
+<thumbnail>https://i.imgur.com/CiHWIRw.png</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]Radio Musichie Luna TV Partenopeo[/B][/COLOR]</title>
+<link>mmsh://83.216.165.134/rltv?MSWMExt=.asf</link>
+<thumbnail>https://i.imgur.com/KPdIE5M.png</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]Radio America Guayaquil[/B][/COLOR]</title>
+<link>http://audiohostingecuador.com:1935/radioamericaguayaquil/radioamericaguayaquil/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/F23k4yO.png</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]Radio Javan[/B][/COLOR]</title>
+<link>http://63.237.48.3/ios/PNG/PNG.m3u8</link>
+<thumbnail>https://i.imgur.com/4b5eZPc.png</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]RADIO U TV[/B][/COLOR]</title>
+<link>http://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/mp4:radioutv2/.m3u8</link>
+<thumbnail>https://i.imgur.com/dUDn2tV.png</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]Retro TV[/B][/COLOR]</title>
+<link>rtmp://stream.mediawork.cz/retrotv/retrotvHQ1
+</link>
+<thumbnail>https://i.imgur.com/bFBUWfJ.jpg</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]Radionarbo TV RTV38[/B][/COLOR]</title>
+<link>http://splive-lh.akamaihd.net/i/livertv38_1@396529/master.m3u8</link>
+<thumbnail>https://i.imgur.com/Deht1qf.png</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]Radio Deejay[/B][/COLOR]</title>
+<link>http://radiodeejay-lh.akamaihd.net/i/RadioDeejay_Live_1@189857/master.m3u8</link>
+<thumbnail>https://i.imgur.com/hdhYb8J.gif</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]RomaTV[/B][/COLOR]</title>
+<link>http://185.46.161.3/hls/sd.m3u8</link>
+<thumbnail>http://www.digital-news.it/files-admin/Simone/1437576511-roma-tv.jpg</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]RU TV[/B][/COLOR]</title>
+<link>http://live.rmg.cdnvideo.ru/rmg/rmg.sdp/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/nQrGtu1.png</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]Russian Music Box[/B][/COLOR]</title>
+<link>http://musicbox.cdnvideo.ru/musicbox/musicbox.sdp/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/qnlq9tb.gif</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]Si TV[/B][/COLOR]</title>
+<link>http://hd.worldkast.com:1935/8436/8436/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/YlB6wt4.jpg</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]Slam TV[/B][/COLOR]</title>
+<link>http://hls2.slamfm.nl/content/slamtv/slamtv_1.m3u8</link>
+<thumbnail>https://i.imgur.com/hdyc8zy.jpg</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]Spirit TV[/B][/COLOR]</title>
+<link>http://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/smil:spirit_all.smil/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/b8zuHLt.jpg</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]Telemusica HD[/B][/COLOR]</title>
+<link>http://186.155.200.118:1935/live/telemusica/playlist.m3u8</link>
+<thumbnail>http://telemusica.tv/images/logotelemusicahit.png</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]TRT Musik[/B][/COLOR]</title>
+<link>http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8</link>
+<thumbnail>https://i.imgur.com/xkClwlf.png</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]SMO Positive Channel[/B][/COLOR]</title>
+<link>http://199.217.118.90:1935/smotv/stream/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/nJ6FRxb.jpg</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]Spirit TV[/B][/COLOR]</title>
+<link>http://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/smil:spirit_all.smil/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/hdhYb8J.gif</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]The Beat 104.1 FM Barbados[/B][/COLOR]</title>
+<link>http://starcom.videocdn.scaleengine.net/starcom-iphone/play/thebeat.smil/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/HFmAVoB.png</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]Trendy Channel[/B][/COLOR]</title>
+<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/TC_LOGO.png/245px-TC_LOGO.png</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]Virgin TV Radio[/B][/COLOR]</title>
+<link>http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8</link>
+<thumbnail>https://i.imgur.com/Xa8HafG.jpg</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]Visual Radio TV[/B][/COLOR]</title>
+<link>http://wms.shared.streamshow.it/visualradio/visualradio_mobile/playlist.m3u</link>
+<thumbnail>https://i.imgur.com/hdhYb8J.gif</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]Zougla[/B][/COLOR]</title>
+<link>http://zouglahd-f.akamaihd.net/i/zougla_1@56341/index_700_av-b.m3u8</link>
+<thumbnail>http://i.imgur.com/kkRVhiu.jpg</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]ZFM[/B][/COLOR]</title>
+<link>rtmp://kippingmultimediaal.nl:1935/live/ZFM1</link>
+<thumbnail>https://i.imgur.com/hdhYb8J.gif</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR  aqua]Celine Dion Live in Las Vegas vod 20 min[/B][/COLOR]</title>
+<link>https://vod.livestream.com/events/000000000049ef80/9f0b8629-c01c-4a4f-b0de-dd42191d1bf6_4000.m3u8?token=0_5886afc8_8f1edcf4f1172e78bdf0d0811d9c130bd0c196c2&start=479&end=1699</link>
+<thumbnail>http://i.imgur.com/lJ1yI5B.jpg</thumbnail>
+<fanart>http://fuckteams.esy.es/FOTOS/fundo.jpg</fanart>
+</item>
