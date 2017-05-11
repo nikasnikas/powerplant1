@@ -70,24 +70,12 @@
 
 
 
-
-<item>
-<title>[COLOR aqua][B]MOVIES[/B] [/COLOR] </title>
-<link>http://ignora.me</link>
-<externallink>http://pluribus_unum.net23.net/filmes/MOVIES.xml</externallink>
-<fanart>https://unpent-horns.000webhostapp.com/fotos/filmes.png</fanart>
-<thumbnail>https://unpent-horns.000webhostapp.com/fotos/filmes.png</thumbnail>
-<info>movies</info>
-</item>
-
-
-
 <item>
 <title>[COLOR aqua][B]DOCUMENTARIES[/B] [/COLOR] </title>
 <link>http://ignorame</link>
 <fanart>https://unpent-horns.000webhostapp.com/fotos/Docus1.png</fanart>
 <thumbnail>https://unpent-horns.000webhostapp.com/fotos/Docus1.png</thumbnail>
-<externallink>http://pluribus_unum.net23.net/DOCUS.xml</externallink>
+<externallink>https://raw.githubusercontent.com/nikasnikas/powerplant1/master/docus</externallink>
 </item>
 
 
