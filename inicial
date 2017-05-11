@@ -96,7 +96,7 @@
 <item>  
 <title>[COLOR aqua][B]MUSIC CHANNELS[/B][/COLOR]</title>
 <link>http://ignorame</link>
-<externallink>http://pluribus_unum.net23.net/MUSIC.xml</externallink>
+<externallink>https://raw.githubusercontent.com/nikasnikas/powerplant1/master/music</externallink>
 <fanart>https://unpent-horns.000webhostapp.com/fotos/MUSICA.png</fanart>
 <thumbnail>https://unpent-horns.000webhostapp.com/fotos/MUSICA.png</thumbnail>
 </item>
@@ -116,7 +116,7 @@
 <item>  
 <title>[COLOR aqua][B]WEBCAMS[/B][/COLOR]</title>
 <link>http://ignorame</link>
-<externallink>http://pluribus_unum.net23.net/WEBCAMS.xml</externallink>
+<externallink>https://raw.githubusercontent.com/nikasnikas/powerplant1/master/webcam</externallink>
 <fanart>https://unpent-horns.000webhostapp.com/fotos/new.png</fanart>
 <thumbnail>https://unpent-horns.000webhostapp.com/fotos/new.png</thumbnail>
 </item>
