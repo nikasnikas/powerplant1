@@ -1,1 +1,69 @@
 
+<item>
+<title>[COLOR aqua][B]PT PREMIUM[/B] [/COLOR]</title>
+<link>$doregex[makelist2]</link>
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <title>[COLOR white]tuga_[/COLOR][COLOR red ][makelist2.param1][/COLOR]</title>
+ <link>$doregex[makelist]</link>
+ <thumbnail>https://unpent-horns.000webhostapp.com/fotos/IPTV.png</thumbnail>
+ <fanart>https://unpent-horns.000webhostapp.com/fotos/IPTV.png</fanart>
+ ]]></listrepeat>
+<expres>Server:"(.*?)" URL="(.*?)"; regex"(.*?)"</expres>
+<page>http://pluribus_unum.net23.net/servidoresweb.xml</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[COLOR white]tuga_[COLOR lred][makelist.param1][/COLOR]</title>
+ <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR lawngreen] tuga_[/COLOR] [makelist.param1]</link>
+ <thumbnail>https://unpent-horns.000webhostapp.com/fotos/IPTV.png</thumbnail>
+ <fanart>https://unpent-horns.000webhostapp.com/fotos/IPTV.png</fanart>
+ ]]></listrepeat>
+<expres>#EXTINF:-1,[makelist2.param3](.*?)\n(.*)</expres>
+<page>[makelist2.param2]</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+<thumbnail>https://unpent-horns.000webhostapp.com/fotos/IPTV.png</thumbnail>
+ <fanart>https://unpent-horns.000webhostapp.com/fotos/IPTV.png</fanart>
+</item>
+
+
+<item>
+<title>[COLOR aqua][B]PT PREMIUM 1[/B] [/COLOR] </title>
+<link>http://ignorame</link>
+<fanart>https://unpent-horns.000webhostapp.com/fotos/IPTV.png</fanart>
+<thumbnail>https://unpent-horns.000webhostapp.com/fotos/IPTV.png</thumbnail>
+<externallink>http://pluribus_unum.net23.net/F4M/PT1</externallink>
+</item>
+
+
+<item>
+<title>[COLOR aqua][B]PT PREMIUM 2[/B] [/COLOR] </title>
+<link>http://ignorame</link>
+<fanart>https://unpent-horns.000webhostapp.com/fotos/IPTV.png</fanart>
+<thumbnail>https://unpent-horns.000webhostapp.com/fotos/IPTV.png</thumbnail>
+<externallink>http://pluribus_unum.net23.net/F4M/PT2</externallink>
+</item>
+
+
+<item>
+<title>[COLOR aqua][B]PT[/B] [/COLOR] </title>
+<linkhttp://ignorame</link>
+<fanart>https://unpent-horns.000webhostapp.com/fotos/IPTV.png</fanart>
+<thumbnail>https://unpent-horns.000webhostapp.com/fotos/IPTV.png</thumbnail>
+<externallink>http://pluribus_unum.net23.net/F4M/PT3</externallink>
+</item>
+
+
+<item>
+<title>[COLOR aqua][B]PT[/B] [/COLOR] </title>
+<linkhttp://ignorame</link>
+<fanart>https://unpent-horns.000webhostapp.com/fotos/IPTV.png</fanart>
+<thumbnail>https://unpent-horns.000webhostapp.com/fotos/IPTV.png</thumbnail>
+<externallink>http://pluribus_unum.net23.net/F4M/PT4</externallink>
+</item>
