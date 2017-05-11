@@ -1,1 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+
+
+
+<item>
+<title>[COLOR aqua][B]WORLD DAILY SERVERS IPTV[/B] [/COLOR]</title>title>
+<thumbnail>https://unpent-horns.000webhostapp.com/fotos/IPTV.png</thumbnail>
+ <fanart>https://unpent-horns.000webhostapp.com/fotos/IPTV.png</fanart>
+<link$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title> [COLOR white][makelist.param2][/COLOR] ( [makelist.param1] ) </title>
+<link>NA</link>
+<externallink>[makelist.param1][DE]$$TSDOWNLOADER$$</externallink>
+]]></listrepeat>
+<expres>>(http:\/\/(.*?)\/.*?get.php.*?)&lt;</expres>
+<page>http://www.m3uliste.pw/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR aqua][B]IPTV PREMIUM[/B] [/COLOR] </title>
+<link>http://ignorame</link>
+<fanart>https://unpent-horns.000webhostapp.com/fotos/IPTV.png</fanart>
+<thumbnail>https://unpent-horns.000webhostapp.com/fotos/IPTV.png</thumbnail>
+<externallink>http://pluribus_unum.net23.net/0.TUGASUBMENU.xml</externallink>
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR aqua][B]SPORTS AGENDA[/B] [/COLOR] </title>
+<link>http://ignorame</link>
+<fanart>https://unpent-horns.000webhostapp.com/fotos/AGENDA.png</fanart>
+<thumbnail>https://unpent-horns.000webhostapp.com/fotos/AGENDA.png</thumbnail>
+<externallink>http://pluribus_unum.net23.net/sports/AGENDASPORTS.xml</externallink>
+</item>
+
+
+
+<item>
+<title>[COLOR aqua][B]SPORTS[/B] [/COLOR] </title>
+<link>http://ignorame</link>
+<fanart>https://unpent-horns.000webhostapp.com/fotos/desporto.png</fanart>
+<thumbnail>https://unpent-horns.000webhostapp.com/fotos/desporto.png</thumbnail>
+<externallink>http://pluribus_unum.net23.net/sports/SPORTS.xml</externallink>
+</item>
+
+
+
+<item>
+<title>[COLOR aqua][B]REPLAYS[/B] [/COLOR] </title>
+<link>http://ignorame</link>
+<fanart>https://unpent-horns.000webhostapp.com/fotos/replays.png</fanart>
+<thumbnail>https://unpent-horns.000webhostapp.com/fotos/replays.png</thumbnail>
+<externallink>http://pluribus_unum.net23.net/replays/replays.xml</externallink>
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR aqua][B]MOVIES[/B] [/COLOR] </title>
+<link>http://ignora.me</link>
+<externallink>http://pluribus_unum.net23.net/filmes/MOVIES.xml</externallink>
+<fanart>https://unpent-horns.000webhostapp.com/fotos/filmes.png</fanart>
+<thumbnail>https://unpent-horns.000webhostapp.com/fotos/filmes.png</thumbnail>
+<info>movies</info>
+</item>
+
+
+
+<item>
+<title>[COLOR aqua][B]DOCUMENTARIES[/B] [/COLOR] </title>
+<link>http://ignorame</link>
+<fanart>https://unpent-horns.000webhostapp.com/fotos/Docus1.png</fanart>
+<thumbnail>https://unpent-horns.000webhostapp.com/fotos/Docus1.png</thumbnail>
+<externallink>http://pluribus_unum.net23.net/DOCUS.xml</externallink>
+</item>
+
+
+
+<item>
+<title>[COLOR aqua][B]DESENHOS ANIMADOS[/COLOR][/B]</title>
+<link>_</link>
+<externallink>http://pluribus_unum.net23.net/miudos/miudosfilmesseries</externallink>
+<fanart>https://s20.postimg.org/8k0oycpx9/4kid.jpg</fanart>
+<thumbnail>http://www.gazetadopovo.com.br/blogs/wp-content/uploads/sites/73/import/overgame_111211-624x635.jpg</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR aqua][B]YOUTUBE[/COLOR][/B]</title>
+<link_</link>
+<jsonrpc>plugin://plugin.video.youtube</jsonrpc>
+<fanart>https://unpent-horns.000webhostapp.com/fotos/YOUTUBE.png</fanart>
+<thumbnail>https://unpent-horns.000webhostapp.com/fotos/YOUTUBE.png</thumbnail>
+</item>
+
+
+
+<item>  
+<title>[COLOR aqua][B]MUSIC CHANNELS[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://pluribus_unum.net23.net/MUSIC.xml</externallink>
+<fanart>https://unpent-horns.000webhostapp.com/fotos/MUSICA.png</fanart>
+<thumbnail>https://unpent-horns.000webhostapp.com/fotos/MUSICA.png</thumbnail>
+</item>
+
+
+
+<item>  
+<title>[COLOR aqua][B]RADIO ONLINE[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://pluribus_unum.net23.net/radios/RADIOS.xml</externallink>
+<fanart>https://u.cubeupload.com/UVVA30.png</fanart>
+<thumbnail>https://u.cubeupload.com/UVVA30.png</thumbnail>
+</item>
+
+
+
+<item>  
+<title>[COLOR aqua][B]WEBCAMS[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://pluribus_unum.net23.net/WEBCAMS.xml</externallink>
+<fanart>https://unpent-horns.000webhostapp.com/fotos/new.png</fanart>
+<thumbnail>https://unpent-horns.000webhostapp.com/fotos/new.png</thumbnail>
+</item>
+
+
+
+
+
+
+
+
 
