@@ -2,8 +2,11 @@
 
 Server:"fuck1cline/PT" URL="http://sadatek57.dyndns.tv:8000/get.php?username=osama&password=osama&type=m3u"; regex"PT"
 
+Server:"fuck1cline/world" URL="http://smartiptvspain.mine.nu:980/get.php?username=rese&password=rese&type=m3u"; regex"PT"
+
 Server:"fuck1cline/world" URL="http://sadatek57.dyndns.tv:8000/get.php?username=osama&password=osama&type=m3u"; regex""
 
 Server:"fuck1cline/world" URL="http://clientportal.link:8080/get.php?username=renzo&password=renzo&type=m3u"; regex""
 
+Server:"fuck1cline/world" URL="http://smartiptvspain.mine.nu:980/get.php?username=rese&password=rese&type=m3u"; regex""
 
