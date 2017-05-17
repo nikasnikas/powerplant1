@@ -1,7 +1,7 @@
 
 <item>
 <title>[COLOR aqua][B]PT[/B] [/COLOR]</title>
-<link>$doregex[makelist2]</link>
+<link$doregex[makelist2]</link>
 
 <regex>
 <name>makelist2</name>
