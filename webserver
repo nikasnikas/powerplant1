@@ -13,3 +13,6 @@ Server:"fuck1cline/world" URL="http://clientportal.link:8080/get.php?username=re
 Server:"fuck1cline/world" URL="http://smartiptvspain.mine.nu:980/get.php?username=rese&password=rese&type=m3u"; regex""
 
 Server:"fuck1cline/world" URL="iptvsensation.ddns.net:6500/get.php?username=James1&password=zkdZbEUp2X&type=m3u"; regex""
+
+Server:"fuck1cline/world" URL="http://clients.clientportal.link:8080/get.php?username=xflake&password=N28I0k5nIx&type=m3u"; regex""
+http://clients.clientportal.link:8080/live/xflake/N28I0k5nIx/9468.ts
