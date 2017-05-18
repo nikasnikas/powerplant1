@@ -14,10 +14,12 @@ Server:"fuck1cline/world" URL="http://smartiptvspain.mine.nu:980/get.php?usernam
 
 Server:"fuck1cline/world" URL="iptvsensation.ddns.net:6500/get.php?username=James1&password=zkdZbEUp2X&type=m3u"; regex""
 
-Server:"fuck1cline/world" URL="http://localhd.tv:8081/get.php?username=tvsat&password=youtube&type=m3u"; regex""
-http://clients.clientportal.link:8080/live/xflake/N28I0k5nIx/9468.ts
+Server:"fuck1cline/world" URL="http://149.56.16.58:25461/get.php?username=igsautomacao@gmail.com&password=imf3rS5kGs&type=m3u"; regex""
+http://clients.clientporthttp://149.56.16.58:25461al.link:8080/live/xflake/N28I0k5nIx/9468.ts
 http://clientportal.link:8080/live/cran/cran/9465.ts
 
 http://ksportiptv.com:1557/live/metti/metti/3001.ts
 
 http://localhd.tv:8081/live/tvsat/youtube/1716.ts
+
+http://149.56.16.58:25461/live/igsautomacao@gmail.com/imf3rS5kGs/2604.ts
