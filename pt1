@@ -34,12 +34,37 @@
 </item>
 
 <item>
-<title>** BTV HD **</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1022.ts&amp;streamtype=TSDOWNLOADER&amp;name=** BTV HD **</link>
+<title>** SPTV+HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1099.ts&amp;streamtype=TSDOWNLOADER&amp;name=** BTV HD **</link>
 </item>
 <item>
-<title>** TVC1 HD **</title>
+<title>** SPTV1 HD **</title>
 <link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1098.ts&amp;streamtype=TSDOWNLOADER&amp;name=** TVC1 HD **</link>
+</item>
+
+<item>
+<title>** SPTV2 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1097.ts&amp;streamtype=TSDOWNLOADER&amp;name=** TVC2 HD **</link>
+</item>
+
+<item>
+<title>** SPTV3 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1096.ts&amp;streamtype=TSDOWNLOADER&amp;name=** TVC3 HD **</link>
+</item>
+
+<item>
+<title>** SPTV4 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1095.ts&amp;streamtype=TSDOWNLOADER&amp;name=** TVC4 HD **</link>
+</item>
+
+<item>
+<title>** SPTV5 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1094.ts&amp;streamtype=TSDOWNLOADER&amp;name=** TVS HD **</link>
+</item>
+
+<item>
+<title>** TVC1 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1111.ts&amp;streamtype=TSDOWNLOADER&amp;name=** TVC1 HD **</link>
 </item>
 
 <item>
