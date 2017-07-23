@@ -3,35 +3,6 @@
 
 <items>
 
-<item>
-<title>** SPORT·TV+ **</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1099.ts&amp;streamtype=TSDOWNLOADER&amp;name=** SPORT·TV+ **</link>
-</item>
-
-<item>
-<title>** SPORT·TV1 HD **</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1098.ts&amp;streamtype=TSDOWNLOADER&amp;name=** SPORT·TV1 HD **</link>
-</item>
-
-<item>
-<title>** SPORT·TV2 HD **</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1097.ts&amp;streamtype=TSDOWNLOADER&amp;name=** SPORT·TV2 HD **</link>
-</item>
-
-<item>
-<title>** SPORT·TV3 HD **</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1096.ts&amp;streamtype=TSDOWNLOADER&amp;name=** SPORT·TV3 HD **</link>
-</item>
-
-<item>
-<title>** SPORT·TV4 HD **</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1095.ts&amp;streamtype=TSDOWNLOADER&amp;name=** SPORT·TV4 HD **</link>
-</item>
-
-<item>
-<title>** SPORT·TV5 HD **</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1094.ts&amp;streamtype=TSDOWNLOADER&amp;name=** SPORT·TV5 HD **</link>
-</item>
 
 <item>
 <title>** SPTV+HD **</title>
