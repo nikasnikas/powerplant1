@@ -2,6 +2,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <items>
+
 <item>
 <title>** TVC1 HD **</title>
 <link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1111.ts&amp;streamtype=TSDOWNLOADER&amp;name=** TVC1 HD **</link>
@@ -501,12 +502,6 @@
 <title>** Baby TV **</title>
 <link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1018.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Baby TV **</link>
 </item>
-
-<item>
-<title>** Baby First **</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1017.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Baby First **</link>
-</item>
-
 
 <item>
 <title>** Globo RJ HD **</title>
@@ -1587,6 +1582,7 @@
 <title>** Shoptime **</title>
 <link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1621.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Shoptime **</link>
 </item>
+
 
 
 
