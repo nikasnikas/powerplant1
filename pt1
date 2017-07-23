@@ -1,5 +1,4033 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+<item>
+<title>** RTP 1 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/893.ts&amp;streamtype=TSDOWNLOADER&amp;name=** RTP 1 HD **</link>
+</item>
+
+<item>
+<title>** RTP 1 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/894.ts&amp;streamtype=TSDOWNLOADER&amp;name=** RTP 1 **</link>
+</item>
+
+<item>
+<title>** RTP 2 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/892.ts&amp;streamtype=TSDOWNLOADER&amp;name=** RTP 2 **</link>
+</item>
+
+<item>
+<title>** RTP 3 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1732.ts&amp;streamtype=TSDOWNLOADER&amp;name=** RTP 3 **</link>
+</item>
+
+<item>
+<title>** SIC HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/890.ts&amp;streamtype=TSDOWNLOADER&amp;name=** SIC HD **</link>
+</item>
+
+<item>
+<title>** SIC **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/891.ts&amp;streamtype=TSDOWNLOADER&amp;name=** SIC **</link>
+</item>
+
+<item>
+<title>** TVI HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/887.ts&amp;streamtype=TSDOWNLOADER&amp;name=** TVI HD **</link>
+</item>
+
+<item>
+<title>** TVI **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/889.ts&amp;streamtype=TSDOWNLOADER&amp;name=** TVI **</link>
+</item>
+
+<item>
+<title>** TVI 24 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/884.ts&amp;streamtype=TSDOWNLOADER&amp;name=** TVI 24 **</link>
+</item>
+
+<item>
+<title>** TVI FicÃ§Ã£o **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/878.ts&amp;streamtype=TSDOWNLOADER&amp;name=** TVI FicÃ§Ã£o **</link>
+</item>
+
+<item>
+<title>** TVI Reality **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/877.ts&amp;streamtype=TSDOWNLOADER&amp;name=** TVI Reality **</link>
+</item>
+
+<item>
+<title>** TVI REALITY CAMERA **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1849.ts&amp;streamtype=TSDOWNLOADER&amp;name=** TVI REALITY CAMERA **</link>
+</item>
+
+<item>
+<title>** SIC Caras HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/879.ts&amp;streamtype=TSDOWNLOADER&amp;name=** SIC Caras HD **</link>
+</item>
+
+<item>
+<title>** SIC Mulher **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/881.ts&amp;streamtype=TSDOWNLOADER&amp;name=** SIC Mulher **</link>
+</item>
+
+<item>
+<title>** SIC Radical **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/880.ts&amp;streamtype=TSDOWNLOADER&amp;name=** SIC Radical **</link>
+</item>
+
+<item>
+<title>** SIC NotÃ­cias **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/886.ts&amp;streamtype=TSDOWNLOADER&amp;name=** SIC NotÃ­cias **</link>
+</item>
+
+<item>
+<title>** CMTV HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/882.ts&amp;streamtype=TSDOWNLOADER&amp;name=** CMTV HD **</link>
+</item>
+
+<item>
+<title>** CMTV **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1771.ts&amp;streamtype=TSDOWNLOADER&amp;name=** CMTV **</link>
+</item>
+
+<item>
+<title>** Euro-News **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1492.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Euro-News **</link>
+</item>
+
+<item>
+<title>** TPA Internacional **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/835.ts&amp;streamtype=TSDOWNLOADER&amp;name=** TPA Internacional **</link>
+</item>
+
+<item>
+<title>** Porto Canal HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/875.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Porto Canal HD **</link>
+</item>
+
+<item>
+<title>** RTP ACORES **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1847.ts&amp;streamtype=TSDOWNLOADER&amp;name=** RTP ACORES **</link>
+</item>
+
+<item>
+<title>** RTP MemÃ³ria **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/876.ts&amp;streamtype=TSDOWNLOADER&amp;name=** RTP MemÃ³ria **</link>
+</item>
+
+<item>
+<title>** RTP Madeira **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1494.ts&amp;streamtype=TSDOWNLOADER&amp;name=** RTP Madeira **</link>
+</item>
+
+<item>
+<title>** RTP AFRICA **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1848.ts&amp;streamtype=TSDOWNLOADER&amp;name=** RTP AFRICA **</link>
+</item>
+
+<item>
+<title>** AR TV **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/872.ts&amp;streamtype=TSDOWNLOADER&amp;name=** AR TV **</link>
+</item>
+
+<item>
+<title>** ---- INFANTIL  ---- **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/871.ts&amp;streamtype=TSDOWNLOADER&amp;name=** ---- INFANTIL  ---- **</link>
+</item>
+
+<item>
+<title>** Panda **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/865.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Panda **</link>
+</item>
+
+<item>
+<title>** Panda Biggs **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/864.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Panda Biggs **</link>
+</item>
+
+<item>
+<title>** Cartoon_Network **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/900.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Cartoon_Network **</link>
+</item>
+
+<item>
+<title>** Nickelodeon PT **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1147.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Nickelodeon PT **</link>
+</item>
+
+<item>
+<title>** Baby First **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/870.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Baby First **</link>
+</item>
+
+<item>
+<title>** JimJam **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/866.ts&amp;streamtype=TSDOWNLOADER&amp;name=** JimJam **</link>
+</item>
+
+<item>
+<title>** Baby TV **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/869.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Baby TV **</link>
+</item>
+
+<item>
+<title>** SIC K **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/863.ts&amp;streamtype=TSDOWNLOADER&amp;name=** SIC K **</link>
+</item>
+
+<item>
+<title>** Disney_Channel **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/868.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Disney_Channel **</link>
+</item>
+
+<item>
+<title>** Disney_Junior **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/867.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Disney_Junior **</link>
+</item>
+
+<item>
+<title>** ___Desporto___ **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1144.ts&amp;streamtype=TSDOWNLOADER&amp;name=** ___Desporto___ **</link>
+</item>
+
+<item>
+<title>** A Bola Tv **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/896.ts&amp;streamtype=TSDOWNLOADER&amp;name=** A Bola Tv **</link>
+</item>
+
+<item>
+<title>** SPORTV + HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1146.ts&amp;streamtype=TSDOWNLOADER&amp;name=** SPORTV + HD **</link>
+</item>
+
+<item>
+<title>** SPORT TV 1 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/170.ts&amp;streamtype=TSDOWNLOADER&amp;name=** SPORT TV 1 HD **</link>
+</item>
+
+<item>
+<title>** SPORT TV 1 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1187.ts&amp;streamtype=TSDOWNLOADER&amp;name=** SPORT TV 1 **</link>
+</item>
+
+<item>
+<title>** SPORT TV 1 LOW **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1856.ts&amp;streamtype=TSDOWNLOADER&amp;name=** SPORT TV 1 LOW **</link>
+</item>
+
+<item>
+<title>** SPORT TV 2 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/169.ts&amp;streamtype=TSDOWNLOADER&amp;name=** SPORT TV 2 HD **</link>
+</item>
+
+<item>
+<title>** SPORT TV 2 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1502.ts&amp;streamtype=TSDOWNLOADER&amp;name=** SPORT TV 2 **</link>
+</item>
+
+<item>
+<title>** SPORT TV 2 LOW **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1855.ts&amp;streamtype=TSDOWNLOADER&amp;name=** SPORT TV 2 LOW **</link>
+</item>
+
+<item>
+<title>** SPORT TV 3 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/168.ts&amp;streamtype=TSDOWNLOADER&amp;name=** SPORT TV 3 HD **</link>
+</item>
+
+<item>
+<title>** SPORT TV 3 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1503.ts&amp;streamtype=TSDOWNLOADER&amp;name=** SPORT TV 3 **</link>
+</item>
+
+<item>
+<title>** SPORT TV 3 LOW **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1854.ts&amp;streamtype=TSDOWNLOADER&amp;name=** SPORT TV 3 LOW **</link>
+</item>
+
+<item>
+<title>** SPORT TV 4 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/167.ts&amp;streamtype=TSDOWNLOADER&amp;name=** SPORT TV 4 HD **</link>
+</item>
+
+<item>
+<title>** SPORT TV 4 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1504.ts&amp;streamtype=TSDOWNLOADER&amp;name=** SPORT TV 4 **</link>
+</item>
+
+<item>
+<title>** SPORT TV 4 LOW **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1853.ts&amp;streamtype=TSDOWNLOADER&amp;name=** SPORT TV 4 LOW **</link>
+</item>
+
+<item>
+<title>** SPORT TV 5 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/287.ts&amp;streamtype=TSDOWNLOADER&amp;name=** SPORT TV 5 HD **</link>
+</item>
+
+<item>
+<title>** SPORT TV 5 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1505.ts&amp;streamtype=TSDOWNLOADER&amp;name=** SPORT TV 5 **</link>
+</item>
+
+<item>
+<title>** SPORT TV 5 LOW **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1852.ts&amp;streamtype=TSDOWNLOADER&amp;name=** SPORT TV 5 LOW **</link>
+</item>
+
+<item>
+<title>** BENFICA TV HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/288.ts&amp;streamtype=TSDOWNLOADER&amp;name=** BENFICA TV HD **</link>
+</item>
+
+<item>
+<title>** Benfica TV **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1495.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Benfica TV **</link>
+</item>
+
+<item>
+<title>** Benfica Tv Low **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1496.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Benfica Tv Low **</link>
+</item>
+
+<item>
+<title>** SPORTING TV HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/897.ts&amp;streamtype=TSDOWNLOADER&amp;name=** SPORTING TV HD **</link>
+</item>
+
+<item>
+<title>** Eurosport HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/860.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Eurosport HD **</link>
+</item>
+
+<item>
+<title>** Eurosport 2 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/861.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Eurosport 2 **</link>
+</item>
+
+<item>
+<title>** Fight Network HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1176.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Fight Network HD **</link>
+</item>
+
+<item>
+<title>** Kombat Sport **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/856.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Kombat Sport **</link>
+</item>
+
+<item>
+<title>** Motors TV **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/855.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Motors TV **</link>
+</item>
+
+<item>
+<title>** Real Madrid TV **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/857.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Real Madrid TV **</link>
+</item>
+
+<item>
+<title>** Toros TV **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/839.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Toros TV **</link>
+</item>
+
+<item>
+<title>** MotorVision **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/854.ts&amp;streamtype=TSDOWNLOADER&amp;name=** MotorVision **</link>
+</item>
+
+<item>
+<title>** ___Entretenimento___ **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1145.ts&amp;streamtype=TSDOWNLOADER&amp;name=** ___Entretenimento___ **</link>
+</item>
+
+<item>
+<title>** TVCINE 1 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/166.ts&amp;streamtype=TSDOWNLOADER&amp;name=** TVCINE 1 HD **</link>
+</item>
+
+<item>
+<title>** TVCine 1 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1181.ts&amp;streamtype=TSDOWNLOADER&amp;name=** TVCine 1 **</link>
+</item>
+
+<item>
+<title>** TVCINE 2 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/165.ts&amp;streamtype=TSDOWNLOADER&amp;name=** TVCINE 2 HD **</link>
+</item>
+
+<item>
+<title>** TVCine 2 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1180.ts&amp;streamtype=TSDOWNLOADER&amp;name=** TVCine 2 **</link>
+</item>
+
+<item>
+<title>** TVCINE 3 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/164.ts&amp;streamtype=TSDOWNLOADER&amp;name=** TVCINE 3 HD **</link>
+</item>
+
+<item>
+<title>** TVCine 3 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1179.ts&amp;streamtype=TSDOWNLOADER&amp;name=** TVCine 3 **</link>
+</item>
+
+<item>
+<title>** TVCINE 4 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/163.ts&amp;streamtype=TSDOWNLOADER&amp;name=** TVCINE 4 HD **</link>
+</item>
+
+<item>
+<title>** TVCine 4 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1182.ts&amp;streamtype=TSDOWNLOADER&amp;name=** TVCine 4 **</link>
+</item>
+
+<item>
+<title>** TVCINE 5 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/161.ts&amp;streamtype=TSDOWNLOADER&amp;name=** TVCINE 5 HD **</link>
+</item>
+
+<item>
+<title>** TVCine 5 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1177.ts&amp;streamtype=TSDOWNLOADER&amp;name=** TVCine 5 **</link>
+</item>
+
+<item>
+<title>** AXN.HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/158.ts&amp;streamtype=TSDOWNLOADER&amp;name=** AXN.HD **</link>
+</item>
+
+<item>
+<title>** AXN.BLACK HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/159.ts&amp;streamtype=TSDOWNLOADER&amp;name=** AXN.BLACK HD **</link>
+</item>
+
+<item>
+<title>** AXN. WHITE HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/160.ts&amp;streamtype=TSDOWNLOADER&amp;name=** AXN. WHITE HD **</link>
+</item>
+
+<item>
+<title>** FOX-HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/157.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FOX-HD **</link>
+</item>
+
+<item>
+<title>** FOX.LIFE HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/154.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FOX.LIFE HD **</link>
+</item>
+
+<item>
+<title>** FOX COMEDY HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/153.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FOX COMEDY HD **</link>
+</item>
+
+<item>
+<title>** FOX CRIME HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/155.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FOX CRIME HD **</link>
+</item>
+
+<item>
+<title>** FOX MOVIES HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/156.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FOX MOVIES HD **</link>
+</item>
+
+<item>
+<title>** HOLLYWOOD HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/400.ts&amp;streamtype=TSDOWNLOADER&amp;name=** HOLLYWOOD HD **</link>
+</item>
+
+<item>
+<title>** AMC HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/409.ts&amp;streamtype=TSDOWNLOADER&amp;name=** AMC HD **</link>
+</item>
+
+<item>
+<title>** CINEMUNDO **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/612.ts&amp;streamtype=TSDOWNLOADER&amp;name=** CINEMUNDO **</link>
+</item>
+
+<item>
+<title>** SYFY HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/407.ts&amp;streamtype=TSDOWNLOADER&amp;name=** SYFY HD **</link>
+</item>
+
+<item>
+<title>** Crime Investigation **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1178.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Crime Investigation **</link>
+</item>
+
+<item>
+<title>** SUNDANCE HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1850.ts&amp;streamtype=TSDOWNLOADER&amp;name=** SUNDANCE HD **</link>
+</item>
+
+<item>
+<title>** CBS REALITY **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/812.ts&amp;streamtype=TSDOWNLOADER&amp;name=** CBS REALITY **</link>
+</item>
+
+<item>
+<title>** ---- DOCUMENTARIOS ---- **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/853.ts&amp;streamtype=TSDOWNLOADER&amp;name=** ---- DOCUMENTARIOS ---- **</link>
+</item>
+
+<item>
+<title>** Discovery_Channel **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/898.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Discovery_Channel **</link>
+</item>
+
+<item>
+<title>** Discovery HD ShowCase **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/852.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Discovery HD ShowCase **</link>
+</item>
+
+<item>
+<title>** National Geographic_Channel **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/847.ts&amp;streamtype=TSDOWNLOADER&amp;name=** National Geographic_Channel **</link>
+</item>
+
+<item>
+<title>** Nat Geo_Wild **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/848.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Nat Geo_Wild **</link>
+</item>
+
+<item>
+<title>** Odisseia **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/845.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Odisseia **</link>
+</item>
+
+<item>
+<title>** A&E **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1175.ts&amp;streamtype=TSDOWNLOADER&amp;name=** A&E **</link>
+</item>
+
+<item>
+<title>** MCS Extreme **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/850.ts&amp;streamtype=TSDOWNLOADER&amp;name=** MCS Extreme **</link>
+</item>
+
+<item>
+<title>** MCS LifeStyle **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/849.ts&amp;streamtype=TSDOWNLOADER&amp;name=** MCS LifeStyle **</link>
+</item>
+
+<item>
+<title>** CaÃ§a e Pesca **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/844.ts&amp;streamtype=TSDOWNLOADER&amp;name=** CaÃ§a e Pesca **</link>
+</item>
+
+<item>
+<title>** CaÃ§aVision **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/843.ts&amp;streamtype=TSDOWNLOADER&amp;name=** CaÃ§aVision **</link>
+</item>
+
+<item>
+<title>** Travel Channel **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/846.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Travel Channel **</link>
+</item>
+
+<item>
+<title>** 24 Kitchen HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/842.ts&amp;streamtype=TSDOWNLOADER&amp;name=** 24 Kitchen HD **</link>
+</item>
+
+<item>
+<title>** Food_Network **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1491.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Food_Network **</link>
+</item>
+
+<item>
+<title>** TLC_ **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1089.ts&amp;streamtype=TSDOWNLOADER&amp;name=** TLC_ **</link>
+</item>
+
+<item>
+<title>** E! Entertainment **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/841.ts&amp;streamtype=TSDOWNLOADER&amp;name=** E! Entertainment **</link>
+</item>
+
+<item>
+<title>** DOG TV **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1490.ts&amp;streamtype=TSDOWNLOADER&amp;name=** DOG TV **</link>
+</item>
+
+<item>
+<title>** Canal Q **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/873.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Canal Q **</link>
+</item>
+
+<item>
+<title>** ---- MUSICA ---- **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/832.ts&amp;streamtype=TSDOWNLOADER&amp;name=** ---- MUSICA ---- **</link>
+</item>
+
+<item>
+<title>** MTV Portugal **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/829.ts&amp;streamtype=TSDOWNLOADER&amp;name=** MTV Portugal **</link>
+</item>
+
+<item>
+<title>** AFRO MUSIC **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1506.ts&amp;streamtype=TSDOWNLOADER&amp;name=** AFRO MUSIC **</link>
+</item>
+
+<item>
+<title>** VH1 SHUFFLE **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/899.ts&amp;streamtype=TSDOWNLOADER&amp;name=** VH1 SHUFFLE **</link>
+</item>
+
+<item>
+<title>** MCM Pop **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/831.ts&amp;streamtype=TSDOWNLOADER&amp;name=** MCM Pop **</link>
+</item>
+
+<item>
+<title>** MCM TOP **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1851.ts&amp;streamtype=TSDOWNLOADER&amp;name=** MCM TOP **</link>
+</item>
+
+<item>
+<title>** VH1 Classic **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/828.ts&amp;streamtype=TSDOWNLOADER&amp;name=** VH1 Classic **</link>
+</item>
+
+<item>
+<title>** Trace Tv **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/830.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Trace Tv **</link>
+</item>
+
+<item>
+<title>** Globo RJ HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1586.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Globo RJ HD **</link>
+</item>
+
+<item>
+<title>** Globo RJ **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1752.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Globo RJ **</link>
+</item>
+
+<item>
+<title>** Globo SP **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/111.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Globo SP **</link>
+</item>
+
+<item>
+<title>** Globo Rbs **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1484.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Globo Rbs **</link>
+</item>
+
+<item>
+<title>** Globo MG **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1653.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Globo MG **</link>
+</item>
+
+<item>
+<title>** Globo TV Anhanguera GoiÃ¢nia **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2409.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Globo TV Anhanguera GoiÃ¢nia **</link>
+</item>
+
+<item>
+<title>** Globo BrasÃ­lia **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1751.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Globo BrasÃ­lia **</link>
+</item>
+
+<item>
+<title>** Globo SP Alternativo **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2951.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Globo SP Alternativo **</link>
+</item>
+
+<item>
+<title>** Globo TV Tem Bauru **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2383.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Globo TV Tem Bauru **</link>
+</item>
+
+<item>
+<title>** Globo TV Tem Sorocaba **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2421.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Globo TV Tem Sorocaba **</link>
+</item>
+
+<item>
+<title>** Globo Portugal **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/283.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Globo Portugal **</link>
+</item>
+
+<item>
+<title>** Globo Premium **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/226.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Globo Premium **</link>
+</item>
+
+<item>
+<title>** Globo PT **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1763.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Globo PT **</link>
+</item>
+
+<item>
+<title>** Record HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1694.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Record HD **</link>
+</item>
+
+<item>
+<title>** Record **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/252.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Record **</link>
+</item>
+
+<item>
+<title>** Record Portugal **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/289.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Record Portugal **</link>
+</item>
+
+<item>
+<title>** SBT HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1961.ts&amp;streamtype=TSDOWNLOADER&amp;name=** SBT HD **</link>
+</item>
+
+<item>
+<title>** Sbt **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/373.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Sbt **</link>
+</item>
+
+<item>
+<title>** Band HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1744.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Band HD **</link>
+</item>
+
+<item>
+<title>** Band **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/372.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Band **</link>
+</item>
+
+<item>
+<title>** Rede TV HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1862.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Rede TV HD **</link>
+</item>
+
+<item>
+<title>** Rede Tv **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/297.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Rede Tv **</link>
+</item>
+
+<item>
+<title>** TV Cultura **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2422.ts&amp;streamtype=TSDOWNLOADER&amp;name=** TV Cultura **</link>
+</item>
+
+<item>
+<title>** Canal Brasil **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/237.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Canal Brasil **</link>
+</item>
+
+<item>
+<title>** TV Gazeta HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1929.ts&amp;streamtype=TSDOWNLOADER&amp;name=** TV Gazeta HD **</link>
+</item>
+
+<item>
+<title>** TV Brasil **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1928.ts&amp;streamtype=TSDOWNLOADER&amp;name=** TV Brasil **</link>
+</item>
+
+<item>
+<title>** Globo News HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1590.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Globo News HD **</link>
+</item>
+
+<item>
+<title>** Globo News **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/227.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Globo News **</link>
+</item>
+
+<item>
+<title>** Band News **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/239.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Band News **</link>
+</item>
+
+<item>
+<title>** Record News **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/290.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Record News **</link>
+</item>
+
+<item>
+<title>** Band Sports HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1600.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Band Sports HD **</link>
+</item>
+
+<item>
+<title>** Band Sports **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/370.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Band Sports **</link>
+</item>
+
+<item>
+<title>** SporTV HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1583.ts&amp;streamtype=TSDOWNLOADER&amp;name=** SporTV HD **</link>
+</item>
+
+<item>
+<title>** SporTV **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/109.ts&amp;streamtype=TSDOWNLOADER&amp;name=** SporTV **</link>
+</item>
+
+<item>
+<title>** SporTV Alternativo **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1691.ts&amp;streamtype=TSDOWNLOADER&amp;name=** SporTV Alternativo **</link>
+</item>
+
+<item>
+<title>** SporTV 2 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1619.ts&amp;streamtype=TSDOWNLOADER&amp;name=** SporTV 2 HD **</link>
+</item>
+
+<item>
+<title>** SporTv 2 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/402.ts&amp;streamtype=TSDOWNLOADER&amp;name=** SporTv 2 **</link>
+</item>
+
+<item>
+<title>** SporTV 2 Alternativo **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1692.ts&amp;streamtype=TSDOWNLOADER&amp;name=** SporTV 2 Alternativo **</link>
+</item>
+
+<item>
+<title>** SporTV 3 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1620.ts&amp;streamtype=TSDOWNLOADER&amp;name=** SporTV 3 HD **</link>
+</item>
+
+<item>
+<title>** SporTV 3 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/366.ts&amp;streamtype=TSDOWNLOADER&amp;name=** SporTV 3 **</link>
+</item>
+
+<item>
+<title>** SporTV 3 Alternativo **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1693.ts&amp;streamtype=TSDOWNLOADER&amp;name=** SporTV 3 Alternativo **</link>
+</item>
+
+<item>
+<title>** FOX Sports HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1589.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FOX Sports HD **</link>
+</item>
+
+<item>
+<title>** Fox Sports **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/368.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Fox Sports **</link>
+</item>
+
+<item>
+<title>** FOX Sports Alternativo **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1700.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FOX Sports Alternativo **</link>
+</item>
+
+<item>
+<title>** Fox Sports 2 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1499.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Fox Sports 2 HD **</link>
+</item>
+
+<item>
+<title>** Fox Sports 2 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/367.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Fox Sports 2 **</link>
+</item>
+
+<item>
+<title>** Fox Sports 2 Alternativo **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2952.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Fox Sports 2 Alternativo **</link>
+</item>
+
+<item>
+<title>** ESPN Brasil HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1588.ts&amp;streamtype=TSDOWNLOADER&amp;name=** ESPN Brasil HD **</link>
+</item>
+
+<item>
+<title>** ESPN Brasil **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/369.ts&amp;streamtype=TSDOWNLOADER&amp;name=** ESPN Brasil **</link>
+</item>
+
+<item>
+<title>** ESPN Brasil Alternativo **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1690.ts&amp;streamtype=TSDOWNLOADER&amp;name=** ESPN Brasil Alternativo **</link>
+</item>
+
+<item>
+<title>** ESPN HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1602.ts&amp;streamtype=TSDOWNLOADER&amp;name=** ESPN HD **</link>
+</item>
+
+<item>
+<title>** ESPN **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/232.ts&amp;streamtype=TSDOWNLOADER&amp;name=** ESPN **</link>
+</item>
+
+<item>
+<title>** ESPN Alternativo **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1718.ts&amp;streamtype=TSDOWNLOADER&amp;name=** ESPN Alternativo **</link>
+</item>
+
+<item>
+<title>** ESPN + HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1603.ts&amp;streamtype=TSDOWNLOADER&amp;name=** ESPN + HD **</link>
+</item>
+
+<item>
+<title>** ESPN + **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/408.ts&amp;streamtype=TSDOWNLOADER&amp;name=** ESPN + **</link>
+</item>
+
+<item>
+<title>** Esporte Interativo HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/394.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Esporte Interativo HD **</link>
+</item>
+
+<item>
+<title>** Esporte Interativo **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2381.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Esporte Interativo **</link>
+</item>
+
+<item>
+<title>** Ei Maxx HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1675.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Ei Maxx HD **</link>
+</item>
+
+<item>
+<title>** EI Maxx **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/365.ts&amp;streamtype=TSDOWNLOADER&amp;name=** EI Maxx **</link>
+</item>
+
+<item>
+<title>** Ei Maxx 2 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1676.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Ei Maxx 2 HD **</link>
+</item>
+
+<item>
+<title>** EI Maxx 2 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/364.ts&amp;streamtype=TSDOWNLOADER&amp;name=** EI Maxx 2 **</link>
+</item>
+
+<item>
+<title>** Combate HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1601.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Combate HD **</link>
+</item>
+
+<item>
+<title>** Combate **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/110.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Combate **</link>
+</item>
+
+<item>
+<title>** Combate Alternativo **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1766.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Combate Alternativo **</link>
+</item>
+
+<item>
+<title>** NBA TV **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2407.ts&amp;streamtype=TSDOWNLOADER&amp;name=** NBA TV **</link>
+</item>
+
+<item>
+<title>** Multishow HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1616.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Multishow HD **</link>
+</item>
+
+<item>
+<title>** Multishow **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/212.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Multishow **</link>
+</item>
+
+<item>
+<title>** Comedy Central **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/93.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Comedy Central **</link>
+</item>
+
+<item>
+<title>** TruTv **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/180.ts&amp;streamtype=TSDOWNLOADER&amp;name=** TruTv **</link>
+</item>
+
+<item>
+<title>** MTV **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/128.ts&amp;streamtype=TSDOWNLOADER&amp;name=** MTV **</link>
+</item>
+
+<item>
+<title>** Vh1 Megahits **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/794.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Vh1 Megahits **</link>
+</item>
+
+<item>
+<title>** Play Tv **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1493.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Play Tv **</link>
+</item>
+
+<item>
+<title>** Music Box Brazil **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/355.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Music Box Brazil **</link>
+</item>
+
+<item>
+<title>** Prime Box Brazil **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1781.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Prime Box Brazil **</link>
+</item>
+
+<item>
+<title>** Viva HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1630.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Viva HD **</link>
+</item>
+
+<item>
+<title>** Viva **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1860.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Viva **</link>
+</item>
+
+<item>
+<title>** Woohoo **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1702.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Woohoo **</link>
+</item>
+
+<item>
+<title>** GNT HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/362.ts&amp;streamtype=TSDOWNLOADER&amp;name=** GNT HD **</link>
+</item>
+
+<item>
+<title>** GNT **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1713.ts&amp;streamtype=TSDOWNLOADER&amp;name=** GNT **</link>
+</item>
+
+<item>
+<title>** Mais Globosat **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/122.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Mais Globosat **</link>
+</item>
+
+<item>
+<title>** BIS HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1740.ts&amp;streamtype=TSDOWNLOADER&amp;name=** BIS HD **</link>
+</item>
+
+<item>
+<title>** BIS **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/428.ts&amp;streamtype=TSDOWNLOADER&amp;name=** BIS **</link>
+</item>
+
+<item>
+<title>** OFF HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/398.ts&amp;streamtype=TSDOWNLOADER&amp;name=** OFF HD **</link>
+</item>
+
+<item>
+<title>** OFF **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2624.ts&amp;streamtype=TSDOWNLOADER&amp;name=** OFF **</link>
+</item>
+
+<item>
+<title>** TLC **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/360.ts&amp;streamtype=TSDOWNLOADER&amp;name=** TLC **</link>
+</item>
+
+<item>
+<title>** Food Network **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/374.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Food Network **</link>
+</item>
+
+<item>
+<title>** Animal Planet HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1861.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Animal Planet HD **</link>
+</item>
+
+<item>
+<title>** Animal Planet **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/94.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Animal Planet **</link>
+</item>
+
+<item>
+<title>** Discovery Channel HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1611.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Discovery Channel HD **</link>
+</item>
+
+<item>
+<title>** Discovery-Channel **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1497.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Discovery-Channel **</link>
+</item>
+
+<item>
+<title>** Discovery Turbo HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1612.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Discovery Turbo HD **</link>
+</item>
+
+<item>
+<title>** Discovery Turbo **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/183.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Discovery Turbo **</link>
+</item>
+
+<item>
+<title>** Discovery H&H HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1610.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Discovery H&H HD **</link>
+</item>
+
+<item>
+<title>** Discovery H&H **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/359.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Discovery H&H **</link>
+</item>
+
+<item>
+<title>** Discovery Civilization **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/234.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Discovery Civilization **</link>
+</item>
+
+<item>
+<title>** Discovery Science **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/233.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Discovery Science **</link>
+</item>
+
+<item>
+<title>** Discovery World HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1779.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Discovery World HD **</link>
+</item>
+
+<item>
+<title>** H2 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1598.ts&amp;streamtype=TSDOWNLOADER&amp;name=** H2 HD **</link>
+</item>
+
+<item>
+<title>** H2 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/222.ts&amp;streamtype=TSDOWNLOADER&amp;name=** H2 **</link>
+</item>
+
+<item>
+<title>** National Geografic HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1749.ts&amp;streamtype=TSDOWNLOADER&amp;name=** National Geografic HD **</link>
+</item>
+
+<item>
+<title>** National Geographic **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/392.ts&amp;streamtype=TSDOWNLOADER&amp;name=** National Geographic **</link>
+</item>
+
+<item>
+<title>** A&E BR **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1487.ts&amp;streamtype=TSDOWNLOADER&amp;name=** A&E BR **</link>
+</item>
+
+<item>
+<title>** History HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1627.ts&amp;streamtype=TSDOWNLOADER&amp;name=** History HD **</link>
+</item>
+
+<item>
+<title>** History Channel **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/172.ts&amp;streamtype=TSDOWNLOADER&amp;name=** History Channel **</link>
+</item>
+
+<item>
+<title>** NatGeo Wild **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/375.ts&amp;streamtype=TSDOWNLOADER&amp;name=** NatGeo Wild **</link>
+</item>
+
+<item>
+<title>** ID -  InvestigaÃ§Ã£o Discovery HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1613.ts&amp;streamtype=TSDOWNLOADER&amp;name=** ID -  InvestigaÃ§Ã£o Discovery HD **</link>
+</item>
+
+<item>
+<title>** ID - Investigation Discovery **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/393.ts&amp;streamtype=TSDOWNLOADER&amp;name=** ID - Investigation Discovery **</link>
+</item>
+
+<item>
+<title>** E! BR **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1712.ts&amp;streamtype=TSDOWNLOADER&amp;name=** E! BR **</link>
+</item>
+
+<item>
+<title>** Arte 1 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1704.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Arte 1 **</link>
+</item>
+
+<item>
+<title>** Rede Brasil **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1780.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Rede Brasil **</link>
+</item>
+
+<item>
+<title>** Lifetime **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1725.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Lifetime **</link>
+</item>
+
+<item>
+<title>** Fish Tv **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1488.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Fish Tv **</link>
+</item>
+
+<item>
+<title>** Canal Rural **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1489.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Canal Rural **</link>
+</item>
+
+<item>
+<title>** Novo tempo **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2408.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Novo tempo **</link>
+</item>
+
+<item>
+<title>** Tv CanÃ§Ã£o Nova **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/304.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Tv CanÃ§Ã£o Nova **</link>
+</item>
+
+<item>
+<title>** Rede FamÃ­lia **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1784.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Rede FamÃ­lia **</link>
+</item>
+
+<item>
+<title>** RIT **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2626.ts&amp;streamtype=TSDOWNLOADER&amp;name=** RIT **</link>
+</item>
+
+<item>
+<title>** RBI TV **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2627.ts&amp;streamtype=TSDOWNLOADER&amp;name=** RBI TV **</link>
+</item>
+
+<item>
+<title>** NBR **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1843.ts&amp;streamtype=TSDOWNLOADER&amp;name=** NBR **</link>
+</item>
+
+<item>
+<title>** TV CÃ¢mara **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1783.ts&amp;streamtype=TSDOWNLOADER&amp;name=** TV CÃ¢mara **</link>
+</item>
+
+<item>
+<title>** TV Senado **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1785.ts&amp;streamtype=TSDOWNLOADER&amp;name=** TV Senado **</link>
+</item>
+
+<item>
+<title>** Telecine Premium HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1631.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Telecine Premium HD **</link>
+</item>
+
+<item>
+<title>** Telecine Premium **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/805.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Telecine Premium **</link>
+</item>
+
+<item>
+<title>** Telecine Premium Alternativo **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1683.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Telecine Premium Alternativo **</link>
+</item>
+
+<item>
+<title>** Telecine Pipoca HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1596.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Telecine Pipoca HD **</link>
+</item>
+
+<item>
+<title>** Telecine Pipoca **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/804.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Telecine Pipoca **</link>
+</item>
+
+<item>
+<title>** Telecine Pipoca Alternativo **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1686.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Telecine Pipoca Alternativo **</link>
+</item>
+
+<item>
+<title>** Telecine Action HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1584.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Telecine Action HD **</link>
+</item>
+
+<item>
+<title>** Telecine Action **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/806.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Telecine Action **</link>
+</item>
+
+<item>
+<title>** Telecine Action Alternativo **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1682.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Telecine Action Alternativo **</link>
+</item>
+
+<item>
+<title>** Telecine Fun HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1624.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Telecine Fun HD **</link>
+</item>
+
+<item>
+<title>** Telecine Fun **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/803.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Telecine Fun **</link>
+</item>
+
+<item>
+<title>** Telecine Fun Alternativo **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1685.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Telecine Fun Alternativo **</link>
+</item>
+
+<item>
+<title>** Telecine Touch HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1626.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Telecine Touch HD **</link>
+</item>
+
+<item>
+<title>** Telecine Touch **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/807.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Telecine Touch **</link>
+</item>
+
+<item>
+<title>** Telecine Touch Alternativo **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1684.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Telecine Touch Alternativo **</link>
+</item>
+
+<item>
+<title>** Telecine Cult **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/808.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Telecine Cult **</link>
+</item>
+
+<item>
+<title>** Telecine Cult Alternativo **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1687.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Telecine Cult Alternativo **</link>
+</item>
+
+<item>
+<title>** FOX HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1582.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FOX HD **</link>
+</item>
+
+<item>
+<title>** Fox **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/260.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Fox **</link>
+</item>
+
+<item>
+<title>** FOX Alternativo **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1689.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FOX Alternativo **</link>
+</item>
+
+<item>
+<title>** Fox Premium 1 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1500.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Fox Premium 1 **</link>
+</item>
+
+<item>
+<title>** Fox Premium 2 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1635.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Fox Premium 2 **</link>
+</item>
+
+<item>
+<title>** FOX LIFE HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1711.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FOX LIFE HD **</link>
+</item>
+
+<item>
+<title>** Fox Life **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/391.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Fox Life **</link>
+</item>
+
+<item>
+<title>** FX HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1604.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FX HD **</link>
+</item>
+
+<item>
+<title>** FX Alternativo **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1688.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FX Alternativo **</link>
+</item>
+
+<item>
+<title>** FX **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/113.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FX **</link>
+</item>
+
+<item>
+<title>** HBO HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1585.ts&amp;streamtype=TSDOWNLOADER&amp;name=** HBO HD **</link>
+</item>
+
+<item>
+<title>** HBO **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/390.ts&amp;streamtype=TSDOWNLOADER&amp;name=** HBO **</link>
+</item>
+
+<item>
+<title>** HBO Alternativo **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1677.ts&amp;streamtype=TSDOWNLOADER&amp;name=** HBO Alternativo **</link>
+</item>
+
+<item>
+<title>** HBO 2 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1594.ts&amp;streamtype=TSDOWNLOADER&amp;name=** HBO 2 HD **</link>
+</item>
+
+<item>
+<title>** HBO2 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/387.ts&amp;streamtype=TSDOWNLOADER&amp;name=** HBO2 **</link>
+</item>
+
+<item>
+<title>** HBO 2 Alternativo **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1678.ts&amp;streamtype=TSDOWNLOADER&amp;name=** HBO 2 Alternativo **</link>
+</item>
+
+<item>
+<title>** HBO Signature HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1608.ts&amp;streamtype=TSDOWNLOADER&amp;name=** HBO Signature HD **</link>
+</item>
+
+<item>
+<title>** HBO Signature **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1485.ts&amp;streamtype=TSDOWNLOADER&amp;name=** HBO Signature **</link>
+</item>
+
+<item>
+<title>** HBO Signature Alternativo **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1681.ts&amp;streamtype=TSDOWNLOADER&amp;name=** HBO Signature Alternativo **</link>
+</item>
+
+<item>
+<title>** HBO Family HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1606.ts&amp;streamtype=TSDOWNLOADER&amp;name=** HBO Family HD **</link>
+</item>
+
+<item>
+<title>** HBO Family **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/219.ts&amp;streamtype=TSDOWNLOADER&amp;name=** HBO Family **</link>
+</item>
+
+<item>
+<title>** HBO Family Alternativo **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1679.ts&amp;streamtype=TSDOWNLOADER&amp;name=** HBO Family Alternativo **</link>
+</item>
+
+<item>
+<title>** HBO Plus HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1607.ts&amp;streamtype=TSDOWNLOADER&amp;name=** HBO Plus HD **</link>
+</item>
+
+<item>
+<title>** HBO Plus **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/357.ts&amp;streamtype=TSDOWNLOADER&amp;name=** HBO Plus **</link>
+</item>
+
+<item>
+<title>** HBO Plus Alternativo **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1680.ts&amp;streamtype=TSDOWNLOADER&amp;name=** HBO Plus Alternativo **</link>
+</item>
+
+<item>
+<title>** Max Prime **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/214.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Max Prime **</link>
+</item>
+
+<item>
+<title>** Max Prime Alternativo **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1698.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Max Prime Alternativo **</link>
+</item>
+
+<item>
+<title>** Max UP **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/213.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Max UP **</link>
+</item>
+
+<item>
+<title>** Max Up Alternativo **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1699.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Max Up Alternativo **</link>
+</item>
+
+<item>
+<title>** Max **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/215.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Max **</link>
+</item>
+
+<item>
+<title>** MAX Alternativo **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1697.ts&amp;streamtype=TSDOWNLOADER&amp;name=** MAX Alternativo **</link>
+</item>
+
+<item>
+<title>** TNT HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1595.ts&amp;streamtype=TSDOWNLOADER&amp;name=** TNT HD **</link>
+</item>
+
+<item>
+<title>** TNT **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/380.ts&amp;streamtype=TSDOWNLOADER&amp;name=** TNT **</link>
+</item>
+
+<item>
+<title>** TNT Alternativo **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1696.ts&amp;streamtype=TSDOWNLOADER&amp;name=** TNT Alternativo **</link>
+</item>
+
+<item>
+<title>** TNT SÃ©ries HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1623.ts&amp;streamtype=TSDOWNLOADER&amp;name=** TNT SÃ©ries HD **</link>
+</item>
+
+<item>
+<title>** TNT SÃ©ries **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/798.ts&amp;streamtype=TSDOWNLOADER&amp;name=** TNT SÃ©ries **</link>
+</item>
+
+<item>
+<title>** MegaPix HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1615.ts&amp;streamtype=TSDOWNLOADER&amp;name=** MegaPix HD **</link>
+</item>
+
+<item>
+<title>** MegaPix **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/112.ts&amp;streamtype=TSDOWNLOADER&amp;name=** MegaPix **</link>
+</item>
+
+<item>
+<title>** MegaPix Alternativo **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1720.ts&amp;streamtype=TSDOWNLOADER&amp;name=** MegaPix Alternativo **</link>
+</item>
+
+<item>
+<title>** AXN HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1599.ts&amp;streamtype=TSDOWNLOADER&amp;name=** AXN HD **</link>
+</item>
+
+<item>
+<title>** AXN **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/188.ts&amp;streamtype=TSDOWNLOADER&amp;name=** AXN **</link>
+</item>
+
+<item>
+<title>** AXN Alternativo **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1695.ts&amp;streamtype=TSDOWNLOADER&amp;name=** AXN Alternativo **</link>
+</item>
+
+<item>
+<title>** Universal Channel HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1501.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Universal Channel HD **</link>
+</item>
+
+<item>
+<title>** Universal Channel **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/265.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Universal Channel **</link>
+</item>
+
+<item>
+<title>** Warner Channel HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1597.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Warner Channel HD **</link>
+</item>
+
+<item>
+<title>** Warner Channel **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/266.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Warner Channel **</link>
+</item>
+
+<item>
+<title>** Space HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1587.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Space HD **</link>
+</item>
+
+<item>
+<title>** Space **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/98.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Space **</link>
+</item>
+
+<item>
+<title>** Space Alternativo **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1709.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Space Alternativo **</link>
+</item>
+
+<item>
+<title>** Cinemax **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/236.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Cinemax **</link>
+</item>
+
+<item>
+<title>** Cinemax Alternativo **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1768.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Cinemax Alternativo **</link>
+</item>
+
+<item>
+<title>** Paramount HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1617.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Paramount HD **</link>
+</item>
+
+<item>
+<title>** Paramount **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/211.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Paramount **</link>
+</item>
+
+<item>
+<title>** Paramount Alternativo **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1701.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Paramount Alternativo **</link>
+</item>
+
+<item>
+<title>** Sony HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1618.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Sony HD **</link>
+</item>
+
+<item>
+<title>** Sony **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/186.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Sony **</link>
+</item>
+
+<item>
+<title>** Sony Alternativo **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1710.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Sony Alternativo **</link>
+</item>
+
+<item>
+<title>** Syfy **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/103.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Syfy **</link>
+</item>
+
+<item>
+<title>** TCM **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/173.ts&amp;streamtype=TSDOWNLOADER&amp;name=** TCM **</link>
+</item>
+
+<item>
+<title>** Studio Universal **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/174.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Studio Universal **</link>
+</item>
+
+<item>
+<title>** Disney Channel **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1486.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Disney Channel **</link>
+</item>
+
+<item>
+<title>** Gloob **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/378.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Gloob **</link>
+</item>
+
+<item>
+<title>** Cartoon Network **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/377.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Cartoon Network **</link>
+</item>
+
+<item>
+<title>** Boomerang **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/187.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Boomerang **</link>
+</item>
+
+<item>
+<title>** Discovery Kids **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/426.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Discovery Kids **</link>
+</item>
+
+<item>
+<title>** Disney Jr **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/181.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Disney Jr **</link>
+</item>
+
+<item>
+<title>** Disney XD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/277.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Disney XD **</link>
+</item>
+
+<item>
+<title>** Nickelodeon **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/126.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Nickelodeon **</link>
+</item>
+
+<item>
+<title>** TBS HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1765.ts&amp;streamtype=TSDOWNLOADER&amp;name=** TBS HD **</link>
+</item>
+
+<item>
+<title>** TBS **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1621.ts&amp;streamtype=TSDOWNLOADER&amp;name=** TBS **</link>
+</item>
+
+<item>
+<title>** Nick Jr **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/286.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Nick Jr **</link>
+</item>
+
+<item>
+<title>** Tooncast **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/127.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Tooncast **</link>
+</item>
+
+<item>
+<title>** PFC **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/210.ts&amp;streamtype=TSDOWNLOADER&amp;name=** PFC **</link>
+</item>
+
+<item>
+<title>** Premiere Clubes HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/204.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Premiere Clubes HD **</link>
+</item>
+
+<item>
+<title>** Premiere Clubes **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1930.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Premiere Clubes **</link>
+</item>
+
+<item>
+<title>** Premiere Clubes Alternativo **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1705.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Premiere Clubes Alternativo **</link>
+</item>
+
+<item>
+<title>** Premiere 2 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1717.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Premiere 2 HD **</link>
+</item>
+
+<item>
+<title>** Premiere 2 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/259.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Premiere 2 **</link>
+</item>
+
+<item>
+<title>** Premiere 2 Alternativo **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1657.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Premiere 2 Alternativo **</link>
+</item>
+
+<item>
+<title>** Premiere 3 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1721.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Premiere 3 HD **</link>
+</item>
+
+<item>
+<title>** Premiere 3 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/269.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Premiere 3 **</link>
+</item>
+
+<item>
+<title>** Premiere 3 Alternativo **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1658.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Premiere 3 Alternativo **</link>
+</item>
+
+<item>
+<title>** Premiere 4 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1722.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Premiere 4 HD **</link>
+</item>
+
+<item>
+<title>** Premiere 4 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/270.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Premiere 4 **</link>
+</item>
+
+<item>
+<title>** Premiere 4 Alternativo **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1659.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Premiere 4 Alternativo **</link>
+</item>
+
+<item>
+<title>** Premiere 5 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1723.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Premiere 5 HD **</link>
+</item>
+
+<item>
+<title>** Premiere 5 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/271.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Premiere 5 **</link>
+</item>
+
+<item>
+<title>** Premiere 5 Alternativo **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1660.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Premiere 5 Alternativo **</link>
+</item>
+
+<item>
+<title>** Premiere 6 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/208.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Premiere 6 **</link>
+</item>
+
+<item>
+<title>** Premiere 7 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/207.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Premiere 7 **</link>
+</item>
+
+<item>
+<title>** Premiere 8 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/206.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Premiere 8 **</link>
+</item>
+
+<item>
+<title>** Premiere 9 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/205.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Premiere 9 **</link>
+</item>
+
+<item>
+<title>** HistÃ³ria **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/851.ts&amp;streamtype=TSDOWNLOADER&amp;name=** HistÃ³ria **</link>
+</item>
+
+<item>
+<title>** REDLIGHT HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/246.ts&amp;streamtype=TSDOWNLOADER&amp;name=** REDLIGHT HD **</link>
+</item>
+
+<item>
+<title>** SexyHot **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/247.ts&amp;streamtype=TSDOWNLOADER&amp;name=** SexyHot **</link>
+</item>
+
+<item>
+<title>** Playboy **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/306.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Playboy **</link>
+</item>
+
+<item>
+<title>** BRAZZERS HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/419.ts&amp;streamtype=TSDOWNLOADER&amp;name=** BRAZZERS HD **</link>
+</item>
+
+<item>
+<title>** HOT HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/149.ts&amp;streamtype=TSDOWNLOADER&amp;name=** HOT HD **</link>
+</item>
+
+<item>
+<title>** Venus **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1655.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Venus **</link>
+</item>
+
+<item>
+<title>** EROXXX **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/411.ts&amp;streamtype=TSDOWNLOADER&amp;name=** EROXXX **</link>
+</item>
+
+
+
+<item>
+<title>** FR: TF1 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1270.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: TF1 **</link>
+</item>
+
+<item>
+<title>** FR: France O HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1255.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: France O HD **</link>
+</item>
+
+<item>
+<title>** FR: France 2 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1269.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: France 2 HD **</link>
+</item>
+
+<item>
+<title>** FR: France 3 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1268.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: France 3 HD **</link>
+</item>
+
+<item>
+<title>** FR: France 4 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1259.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: France 4 HD **</link>
+</item>
+
+<item>
+<title>** FR: France 5 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1266.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: France 5 HD **</link>
+</item>
+
+<item>
+<title>** FR: A la Carte 1 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1230.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: A la Carte 1 **</link>
+</item>
+
+<item>
+<title>** FR: A la Carte 2 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1229.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: A la Carte 2 **</link>
+</item>
+
+<item>
+<title>** FR: A la Carte 3 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1228.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: A la Carte 3 **</link>
+</item>
+
+<item>
+<title>** FR: A la Carte 4 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1227.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: A la Carte 4 **</link>
+</item>
+
+<item>
+<title>** FR: A la Carte 5 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1226.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: A la Carte 5 **</link>
+</item>
+
+<item>
+<title>** FR: A la Carte 6 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1225.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: A la Carte 6 **</link>
+</item>
+
+<item>
+<title>** FR: France 24 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1210.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: France 24 **</link>
+</item>
+
+<item>
+<title>** FR: TV5Monde **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1194.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: TV5Monde **</link>
+</item>
+
+<item>
+<title>** FR: BFM Tv **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1258.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: BFM Tv **</link>
+</item>
+
+<item>
+<title>** FR: Canal   Cinema HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1250.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: Canal   Cinema HD **</link>
+</item>
+
+<item>
+<title>** FR: Canal Decale HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1247.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: Canal Decale HD **</link>
+</item>
+
+<item>
+<title>** FR: Canal Family HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1248.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: Canal Family HD **</link>
+</item>
+
+<item>
+<title>** FR: CinÃ© Premier **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1245.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: CinÃ© Premier **</link>
+</item>
+
+<item>
+<title>** FR: CinÃ© Classic **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1242.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: CinÃ© Classic **</link>
+</item>
+
+<item>
+<title>** FR: CinÃ© Emotion HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1243.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: CinÃ© Emotion HD **</link>
+</item>
+
+<item>
+<title>** FR: CinÃ© Frisson HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1244.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: CinÃ© Frisson HD **</link>
+</item>
+
+<item>
+<title>** FR: CinÃ© Premier HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1246.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: CinÃ© Premier HD **</link>
+</item>
+
+<item>
+<title>** FR: Comedie Plus **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1235.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: Comedie Plus **</link>
+</item>
+
+<item>
+<title>** FR: HD1 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1254.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: HD1 **</link>
+</item>
+
+<item>
+<title>** FR: M6 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1265.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: M6 HD **</link>
+</item>
+
+<item>
+<title>** FR: Syfy HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1233.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: Syfy HD **</link>
+</item>
+
+<item>
+<title>** FR: CinÃ© FX **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1216.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: CinÃ© FX **</link>
+</item>
+
+<item>
+<title>** FR: Action **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1237.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: Action **</link>
+</item>
+
+<item>
+<title>** FR: beIN Sport 1 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1222.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: beIN Sport 1 **</link>
+</item>
+
+<item>
+<title>** FR: beIN Sport 2 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1221.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: beIN Sport 2 **</link>
+</item>
+
+<item>
+<title>** FR: beIN Sport 3 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1220.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: beIN Sport 3 **</link>
+</item>
+
+<item>
+<title>** FR : EUROSPORT **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1192.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR : EUROSPORT **</link>
+</item>
+
+<item>
+<title>** FR: L'equipe 21 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1207.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: L'equipe 21 **</link>
+</item>
+
+<item>
+<title>** FR: ITÃ©lÃ© **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1257.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: ITÃ©lÃ© **</link>
+</item>
+
+<item>
+<title>** FR: SFR Sport 1 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1199.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: SFR Sport 1 **</link>
+</item>
+
+<item>
+<title>** FR: SFR Sport 2 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1198.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: SFR Sport 2 **</link>
+</item>
+
+<item>
+<title>** FR: SFR Sport 3 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1197.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: SFR Sport 3 **</link>
+</item>
+
+<item>
+<title>** FR: Canal   Sport HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1249.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: Canal   Sport HD **</link>
+</item>
+
+<item>
+<title>** FR: Disney Junior **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1214.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: Disney Junior **</link>
+</item>
+
+<item>
+<title>** FR: Disney CineMagic **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1238.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: Disney CineMagic **</link>
+</item>
+
+<item>
+<title>** FR: Disney Channel **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1215.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: Disney Channel **</link>
+</item>
+
+<item>
+<title>** FR: Nicklodeon Junior **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1203.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: Nicklodeon Junior **</link>
+</item>
+
+<item>
+<title>** FR: NRJ 12 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1261.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: NRJ 12 **</link>
+</item>
+
+<item>
+<title>** FR: Cartoon Network **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1217.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: Cartoon Network **</link>
+</item>
+
+<item>
+<title>** FR: Boomerang HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1218.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: Boomerang HD **</link>
+</item>
+
+<item>
+<title>** FR: Disney XD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1213.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: Disney XD **</link>
+</item>
+
+<item>
+<title>** FR: RTS Un **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1201.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: RTS Un **</link>
+</item>
+
+<item>
+<title>** FR: RTS Deux **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1202.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: RTS Deux **</link>
+</item>
+
+<item>
+<title>** FR: RTL9 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1236.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: RTL9 HD **</link>
+</item>
+
+<item>
+<title>** FR: W9 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1262.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: W9 **</link>
+</item>
+
+<item>
+<title>** FR: Voyage **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1193.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: Voyage **</link>
+</item>
+
+<item>
+<title>** FR: Toute l'Histoire **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1195.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: Toute l'Histoire **</link>
+</item>
+
+<item>
+<title>** FR: Gulli HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1209.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: Gulli HD **</link>
+</item>
+
+<item>
+<title>** FR: ENORME TV **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1189.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: ENORME TV **</link>
+</item>
+
+<item>
+<title>** FR: Teva HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1196.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: Teva HD **</link>
+</item>
+
+<item>
+<title>** FR: ChÃ©rie 25 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1252.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: ChÃ©rie 25 **</link>
+</item>
+
+<item>
+<title>** FR: Canal **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1267.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: Canal **</link>
+</item>
+
+<item>
+<title>** FR: CStar **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1256.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: CStar **</link>
+</item>
+
+<item>
+<title>** FR: Boing **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1219.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: Boing **</link>
+</item>
+
+<item>
+<title>** FR: Arte **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1264.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: Arte **</link>
+</item>
+
+<item>
+<title>** FR : LA CHAINE NORMADE **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1191.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR : LA CHAINE NORMADE **</link>
+</item>
+
+<item>
+<title>** FR : TVPI **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1190.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR : TVPI **</link>
+</item>
+
+<item>
+<title>** FR: 13 Eme Rue HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1234.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: 13 Eme Rue HD **</link>
+</item>
+
+<item>
+<title>** FR: 6ter HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1253.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: 6ter HD **</link>
+</item>
+
+<item>
+<title>** FR: AB1 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1224.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: AB1 HD **</link>
+</item>
+
+<item>
+<title>** FR: D8 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1263.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: D8 **</link>
+</item>
+
+<item>
+<title>** FR: Animaux **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1223.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: Animaux **</link>
+</item>
+
+<item>
+<title>** FR: Discovery Science **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1231.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: Discovery Science **</link>
+</item>
+
+<item>
+<title>** FR: National Geographic **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1204.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: National Geographic **</link>
+</item>
+
+<item>
+<title>** FR: Planete CI HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1232.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: Planete CI HD **</link>
+</item>
+
+<item>
+<title>** FR: OCS CHOC HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1240.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: OCS CHOC HD **</link>
+</item>
+
+<item>
+<title>** FR: OCS City **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1239.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: OCS City **</link>
+</item>
+
+<item>
+<title>** FR: OCS MAX HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1241.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: OCS MAX HD **</link>
+</item>
+
+<item>
+<title>** FR: Serie Club **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1200.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: Serie Club **</link>
+</item>
+
+<item>
+<title>** FR: Foot 24 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1211.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: Foot 24 **</link>
+</item>
+
+<item>
+<title>** FR: MTV Base **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1206.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: MTV Base **</link>
+</item>
+
+<item>
+<title>** FR: M6 MUSIC **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1188.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: M6 MUSIC **</link>
+</item>
+
+<item>
+<title>** FR: MTV Music **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1205.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: MTV Music **</link>
+</item>
+
+<item>
+<title>** FR: LCI **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1260.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: LCI **</link>
+</item>
+
+<item>
+<title>** FR: InfoSport **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1208.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: InfoSport **</link>
+</item>
+
+<item>
+<title>** FR: Eurosport **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1212.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FR: Eurosport **</link>
+</item>
+
+<item>
+<title>** ES : ANTENA 3 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1469.ts&amp;streamtype=TSDOWNLOADER&amp;name=** ES : ANTENA 3 HD **</link>
+</item>
+
+<item>
+<title>** ES: LA 1 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1476.ts&amp;streamtype=TSDOWNLOADER&amp;name=** ES: LA 1 HD **</link>
+</item>
+
+<item>
+<title>** ES: LA 2 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1475.ts&amp;streamtype=TSDOWNLOADER&amp;name=** ES: LA 2 **</link>
+</item>
+
+<item>
+<title>** ES CUATRO HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1481.ts&amp;streamtype=TSDOWNLOADER&amp;name=** ES CUATRO HD **</link>
+</item>
+
+<item>
+<title>** ES: TELECINCO HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1472.ts&amp;streamtype=TSDOWNLOADER&amp;name=** ES: TELECINCO HD **</link>
+</item>
+
+<item>
+<title>** ES: LASEXTA HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1474.ts&amp;streamtype=TSDOWNLOADER&amp;name=** ES: LASEXTA HD **</link>
+</item>
+
+<item>
+<title>** ES: BEIN SPORT HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1478.ts&amp;streamtype=TSDOWNLOADER&amp;name=** ES: BEIN SPORT HD **</link>
+</item>
+
+<item>
+<title>** ES: Bein Laliga HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1479.ts&amp;streamtype=TSDOWNLOADER&amp;name=** ES: Bein Laliga HD **</link>
+</item>
+
+<item>
+<title>** ES : TV5 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1436.ts&amp;streamtype=TSDOWNLOADER&amp;name=** ES : TV5 **</link>
+</item>
+
+<item>
+<title>** ES: UFC NETWORK **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1430.ts&amp;streamtype=TSDOWNLOADER&amp;name=** ES: UFC NETWORK **</link>
+</item>
+
+<item>
+<title>** ES: F1 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1477.ts&amp;streamtype=TSDOWNLOADER&amp;name=** ES: F1 HD **</link>
+</item>
+
+<item>
+<title>** ES: MOTOGP HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1473.ts&amp;streamtype=TSDOWNLOADER&amp;name=** ES: MOTOGP HD **</link>
+</item>
+
+<item>
+<title>** ES DEPORTE 1 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1456.ts&amp;streamtype=TSDOWNLOADER&amp;name=** ES DEPORTE 1 HD **</link>
+</item>
+
+<item>
+<title>** ES DEPORTE 2 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1455.ts&amp;streamtype=TSDOWNLOADER&amp;name=** ES DEPORTE 2 HD **</link>
+</item>
+
+<item>
+<title>** ES : EUROSPORT **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1464.ts&amp;streamtype=TSDOWNLOADER&amp;name=** ES : EUROSPORT **</link>
+</item>
+
+<item>
+<title>** ES: REAL MADRID TV **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1465.ts&amp;streamtype=TSDOWNLOADER&amp;name=** ES: REAL MADRID TV **</link>
+</item>
+
+<item>
+<title>** ES FOX HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1450.ts&amp;streamtype=TSDOWNLOADER&amp;name=** ES FOX HD **</link>
+</item>
+
+<item>
+<title>** ES FOX LIFE HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1449.ts&amp;streamtype=TSDOWNLOADER&amp;name=** ES FOX LIFE HD **</link>
+</item>
+
+<item>
+<title>** ES TNT HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1439.ts&amp;streamtype=TSDOWNLOADER&amp;name=** ES TNT HD **</link>
+</item>
+
+<item>
+<title>** ES AMC HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1462.ts&amp;streamtype=TSDOWNLOADER&amp;name=** ES AMC HD **</link>
+</item>
+
+<item>
+<title>** ES AXN HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1461.ts&amp;streamtype=TSDOWNLOADER&amp;name=** ES AXN HD **</link>
+</item>
+
+<item>
+<title>** ES AXN WHITE HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1460.ts&amp;streamtype=TSDOWNLOADER&amp;name=** ES AXN WHITE HD **</link>
+</item>
+
+<item>
+<title>** ES HOLLYWOOD HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1447.ts&amp;streamtype=TSDOWNLOADER&amp;name=** ES HOLLYWOOD HD **</link>
+</item>
+
+<item>
+<title>** ES DCINE HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1457.ts&amp;streamtype=TSDOWNLOADER&amp;name=** ES DCINE HD **</link>
+</item>
+
+<item>
+<title>** ES SERIES HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1441.ts&amp;streamtype=TSDOWNLOADER&amp;name=** ES SERIES HD **</link>
+</item>
+
+<item>
+<title>** ES : NEOX **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1466.ts&amp;streamtype=TSDOWNLOADER&amp;name=** ES : NEOX **</link>
+</item>
+
+<item>
+<title>** ES : NOVA **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1432.ts&amp;streamtype=TSDOWNLOADER&amp;name=** ES : NOVA **</link>
+</item>
+
+<item>
+<title>** ES DISNEY CHANNEL HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1453.ts&amp;streamtype=TSDOWNLOADER&amp;name=** ES DISNEY CHANNEL HD **</link>
+</item>
+
+<item>
+<title>** ES DISNEY JR **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1452.ts&amp;streamtype=TSDOWNLOADER&amp;name=** ES DISNEY JR **</link>
+</item>
+
+<item>
+<title>** ES DISNEY XD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1451.ts&amp;streamtype=TSDOWNLOADER&amp;name=** ES DISNEY XD **</link>
+</item>
+
+<item>
+<title>** ES NICKELODEON HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1443.ts&amp;streamtype=TSDOWNLOADER&amp;name=** ES NICKELODEON HD **</link>
+</item>
+
+<item>
+<title>** ES NICK JR **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1444.ts&amp;streamtype=TSDOWNLOADER&amp;name=** ES NICK JR **</link>
+</item>
+
+<item>
+<title>** ES PANDA **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1442.ts&amp;streamtype=TSDOWNLOADER&amp;name=** ES PANDA **</link>
+</item>
+
+<item>
+<title>** ES BABY TV **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1459.ts&amp;streamtype=TSDOWNLOADER&amp;name=** ES BABY TV **</link>
+</item>
+
+<item>
+<title>** ES DISCOVERY CHANNEL **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1454.ts&amp;streamtype=TSDOWNLOADER&amp;name=** ES DISCOVERY CHANNEL **</link>
+</item>
+
+<item>
+<title>** ES NAT GEO WILD HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1446.ts&amp;streamtype=TSDOWNLOADER&amp;name=** ES NAT GEO WILD HD **</link>
+</item>
+
+<item>
+<title>** ES National Geographic HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1445.ts&amp;streamtype=TSDOWNLOADER&amp;name=** ES National Geographic HD **</link>
+</item>
+
+<item>
+<title>** ES HISTORY **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1448.ts&amp;streamtype=TSDOWNLOADER&amp;name=** ES HISTORY **</link>
+</item>
+
+<item>
+<title>** ES CAZA Y PESCA HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1458.ts&amp;streamtype=TSDOWNLOADER&amp;name=** ES CAZA Y PESCA HD **</link>
+</item>
+
+<item>
+<title>** ES : CAZA Y PESCA **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1434.ts&amp;streamtype=TSDOWNLOADER&amp;name=** ES : CAZA Y PESCA **</link>
+</item>
+
+<item>
+<title>** ES : DW **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1468.ts&amp;streamtype=TSDOWNLOADER&amp;name=** ES : DW **</link>
+</item>
+
+<item>
+<title>** ES : ANIME TV **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1470.ts&amp;streamtype=TSDOWNLOADER&amp;name=** ES : ANIME TV **</link>
+</item>
+
+<item>
+<title>** ES : 13 TV **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1471.ts&amp;streamtype=TSDOWNLOADER&amp;name=** ES : 13 TV **</link>
+</item>
+
+<item>
+<title>** ES : EURONEWS **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1437.ts&amp;streamtype=TSDOWNLOADER&amp;name=** ES : EURONEWS **</link>
+</item>
+
+<item>
+<title>** ES :RT ESPAÃ‘OL **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1435.ts&amp;streamtype=TSDOWNLOADER&amp;name=** ES :RT ESPAÃ‘OL **</link>
+</item>
+
+<item>
+<title>** ES Series Xtra HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1440.ts&amp;streamtype=TSDOWNLOADER&amp;name=** ES Series Xtra HD **</link>
+</item>
+
+<item>
+<title>** ES TOROS  HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1438.ts&amp;streamtype=TSDOWNLOADER&amp;name=** ES TOROS  HD **</link>
+</item>
+
+<item>
+<title>** IT: Rai 1 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1905.ts&amp;streamtype=TSDOWNLOADER&amp;name=** IT: Rai 1 HD **</link>
+</item>
+
+<item>
+<title>** IT: Rai 2 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1904.ts&amp;streamtype=TSDOWNLOADER&amp;name=** IT: Rai 2 HD **</link>
+</item>
+
+<item>
+<title>** IT: Rai 3 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1903.ts&amp;streamtype=TSDOWNLOADER&amp;name=** IT: Rai 3 HD **</link>
+</item>
+
+<item>
+<title>** IT: Rai 4 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1902.ts&amp;streamtype=TSDOWNLOADER&amp;name=** IT: Rai 4 HD **</link>
+</item>
+
+<item>
+<title>** IT: Rai 5 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1901.ts&amp;streamtype=TSDOWNLOADER&amp;name=** IT: Rai 5 HD **</link>
+</item>
+
+<item>
+<title>** IT: Premium Action  24 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1914.ts&amp;streamtype=TSDOWNLOADER&amp;name=** IT: Premium Action  24 HD **</link>
+</item>
+
+<item>
+<title>** IT: Premium Cinema HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1913.ts&amp;streamtype=TSDOWNLOADER&amp;name=** IT: Premium Cinema HD **</link>
+</item>
+
+<item>
+<title>** IT: Premium Comedy HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1912.ts&amp;streamtype=TSDOWNLOADER&amp;name=** IT: Premium Comedy HD **</link>
+</item>
+
+<item>
+<title>** IT: Premium Crime HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1911.ts&amp;streamtype=TSDOWNLOADER&amp;name=** IT: Premium Crime HD **</link>
+</item>
+
+<item>
+<title>** IT: Premium Disney Channel **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1910.ts&amp;streamtype=TSDOWNLOADER&amp;name=** IT: Premium Disney Channel **</link>
+</item>
+
+<item>
+<title>** IT: Premium Emotion HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1909.ts&amp;streamtype=TSDOWNLOADER&amp;name=** IT: Premium Emotion HD **</link>
+</item>
+
+<item>
+<title>** IT: Premium Energy HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1908.ts&amp;streamtype=TSDOWNLOADER&amp;name=** IT: Premium Energy HD **</link>
+</item>
+
+<item>
+<title>** IT: Sky Atlantic HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1889.ts&amp;streamtype=TSDOWNLOADER&amp;name=** IT: Sky Atlantic HD **</link>
+</item>
+
+<item>
+<title>** IT: Sky Cinema  24 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1888.ts&amp;streamtype=TSDOWNLOADER&amp;name=** IT: Sky Cinema  24 HD **</link>
+</item>
+
+<item>
+<title>** IT: SKY CINEMA 1 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1887.ts&amp;streamtype=TSDOWNLOADER&amp;name=** IT: SKY CINEMA 1 HD **</link>
+</item>
+
+<item>
+<title>** IT: Sky Cinema Classic HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1886.ts&amp;streamtype=TSDOWNLOADER&amp;name=** IT: Sky Cinema Classic HD **</link>
+</item>
+
+<item>
+<title>** IT: Sky Cinema Comedy HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1885.ts&amp;streamtype=TSDOWNLOADER&amp;name=** IT: Sky Cinema Comedy HD **</link>
+</item>
+
+<item>
+<title>** IT: Sky Cinema Cult HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1884.ts&amp;streamtype=TSDOWNLOADER&amp;name=** IT: Sky Cinema Cult HD **</link>
+</item>
+
+<item>
+<title>** IT: Sky Cinema Family HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1883.ts&amp;streamtype=TSDOWNLOADER&amp;name=** IT: Sky Cinema Family HD **</link>
+</item>
+
+<item>
+<title>** IT: Sky Cinema Hits HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1882.ts&amp;streamtype=TSDOWNLOADER&amp;name=** IT: Sky Cinema Hits HD **</link>
+</item>
+
+<item>
+<title>** IT: Sky Cinema Max HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1881.ts&amp;streamtype=TSDOWNLOADER&amp;name=** IT: Sky Cinema Max HD **</link>
+</item>
+
+<item>
+<title>** IT: Sky Sport 1 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1880.ts&amp;streamtype=TSDOWNLOADER&amp;name=** IT: Sky Sport 1 HD **</link>
+</item>
+
+<item>
+<title>** IT: Sky Sport 2 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1879.ts&amp;streamtype=TSDOWNLOADER&amp;name=** IT: Sky Sport 2 HD **</link>
+</item>
+
+<item>
+<title>** IT: Sky Sport 24 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1878.ts&amp;streamtype=TSDOWNLOADER&amp;name=** IT: Sky Sport 24 HD **</link>
+</item>
+
+<item>
+<title>** IT: Sky Sport 3 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1877.ts&amp;streamtype=TSDOWNLOADER&amp;name=** IT: Sky Sport 3 HD **</link>
+</item>
+
+<item>
+<title>** IT: Sky Super Tennis HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1876.ts&amp;streamtype=TSDOWNLOADER&amp;name=** IT: Sky Super Tennis HD **</link>
+</item>
+
+<item>
+<title>** IT: Sky Supercalcio HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1875.ts&amp;streamtype=TSDOWNLOADER&amp;name=** IT: Sky Supercalcio HD **</link>
+</item>
+
+<item>
+<title>** IT: SKY TG24 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1874.ts&amp;streamtype=TSDOWNLOADER&amp;name=** IT: SKY TG24 HD **</link>
+</item>
+
+<item>
+<title>** IT: Canale 21 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1922.ts&amp;streamtype=TSDOWNLOADER&amp;name=** IT: Canale 21 **</link>
+</item>
+
+<item>
+<title>** IT: Canale Dieci **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1921.ts&amp;streamtype=TSDOWNLOADER&amp;name=** IT: Canale Dieci **</link>
+</item>
+
+<item>
+<title>** IT: CBL Classic **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1920.ts&amp;streamtype=TSDOWNLOADER&amp;name=** IT: CBL Classic **</link>
+</item>
+
+<item>
+<title>** IT: Class CNBC **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1919.ts&amp;streamtype=TSDOWNLOADER&amp;name=** IT: Class CNBC **</link>
+</item>
+
+<item>
+<title>** IT: Class TV **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1918.ts&amp;streamtype=TSDOWNLOADER&amp;name=** IT: Class TV **</link>
+</item>
+
+<item>
+<title>** IT: Dee Jay TV **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1917.ts&amp;streamtype=TSDOWNLOADER&amp;name=** IT: Dee Jay TV **</link>
+</item>
+
+<item>
+<title>** IT: History Lab **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1916.ts&amp;streamtype=TSDOWNLOADER&amp;name=** IT: History Lab **</link>
+</item>
+
+<item>
+<title>** IT: OTTO 8 FM TV **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1915.ts&amp;streamtype=TSDOWNLOADER&amp;name=** IT: OTTO 8 FM TV **</link>
+</item>
+
+<item>
+<title>** IT: Primo Canale **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1907.ts&amp;streamtype=TSDOWNLOADER&amp;name=** IT: Primo Canale **</link>
+</item>
+
+<item>
+<title>** IT: Radionorba TV **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1906.ts&amp;streamtype=TSDOWNLOADER&amp;name=** IT: Radionorba TV **</link>
+</item>
+
+<item>
+<title>** IT: Rai Gulp **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1900.ts&amp;streamtype=TSDOWNLOADER&amp;name=** IT: Rai Gulp **</link>
+</item>
+
+<item>
+<title>** IT: Rai Movie **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1899.ts&amp;streamtype=TSDOWNLOADER&amp;name=** IT: Rai Movie **</link>
+</item>
+
+<item>
+<title>** IT: RAI NEWS 24 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1898.ts&amp;streamtype=TSDOWNLOADER&amp;name=** IT: RAI NEWS 24 **</link>
+</item>
+
+<item>
+<title>** IT: Rai Premium **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1897.ts&amp;streamtype=TSDOWNLOADER&amp;name=** IT: Rai Premium **</link>
+</item>
+
+<item>
+<title>** IT: Rai Scuola **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1896.ts&amp;streamtype=TSDOWNLOADER&amp;name=** IT: Rai Scuola **</link>
+</item>
+
+<item>
+<title>** IT: Rai Sport 1 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1895.ts&amp;streamtype=TSDOWNLOADER&amp;name=** IT: Rai Sport 1 **</link>
+</item>
+
+<item>
+<title>** IT: Rai Sport 2 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1894.ts&amp;streamtype=TSDOWNLOADER&amp;name=** IT: Rai Sport 2 **</link>
+</item>
+
+<item>
+<title>** IT: Rai Storia **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1893.ts&amp;streamtype=TSDOWNLOADER&amp;name=** IT: Rai Storia **</link>
+</item>
+
+<item>
+<title>** IT: Rai Yoyo **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1892.ts&amp;streamtype=TSDOWNLOADER&amp;name=** IT: Rai Yoyo **</link>
+</item>
+
+<item>
+<title>** IT: Rete55 Sport **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1891.ts&amp;streamtype=TSDOWNLOADER&amp;name=** IT: Rete55 Sport **</link>
+</item>
+
+<item>
+<title>** IT: Ricicla TV **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1890.ts&amp;streamtype=TSDOWNLOADER&amp;name=** IT: Ricicla TV **</link>
+</item>
+
+<item>
+<title>** IT: Super TV **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1873.ts&amp;streamtype=TSDOWNLOADER&amp;name=** IT: Super TV **</link>
+</item>
+
+<item>
+<title>** IT: Tele Luna **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1872.ts&amp;streamtype=TSDOWNLOADER&amp;name=** IT: Tele Luna **</link>
+</item>
+
+<item>
+<title>** IT: Tele Mantova **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1871.ts&amp;streamtype=TSDOWNLOADER&amp;name=** IT: Tele Mantova **</link>
+</item>
+
+<item>
+<title>** IT: TELE TICINO **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1870.ts&amp;streamtype=TSDOWNLOADER&amp;name=** IT: TELE TICINO **</link>
+</item>
+
+<item>
+<title>** IT: TeleBoario **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1869.ts&amp;streamtype=TSDOWNLOADER&amp;name=** IT: TeleBoario **</link>
+</item>
+
+<item>
+<title>** IT: Telecitta **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1868.ts&amp;streamtype=TSDOWNLOADER&amp;name=** IT: Telecitta **</link>
+</item>
+
+<item>
+<title>** IT: Tg Com 24 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1867.ts&amp;streamtype=TSDOWNLOADER&amp;name=** IT: Tg Com 24 **</link>
+</item>
+
+<item>
+<title>** IT: TG Norba 24 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1866.ts&amp;streamtype=TSDOWNLOADER&amp;name=** IT: TG Norba 24 **</link>
+</item>
+
+<item>
+<title>** IT: TRM TV **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1865.ts&amp;streamtype=TSDOWNLOADER&amp;name=** IT: TRM TV **</link>
+</item>
+
+<item>
+<title>** IT: TSN 2 Italy **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1864.ts&amp;streamtype=TSDOWNLOADER&amp;name=** IT: TSN 2 Italy **</link>
+</item>
+
+<item>
+<title>** IT: TV 2000 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1863.ts&amp;streamtype=TSDOWNLOADER&amp;name=** IT: TV 2000 **</link>
+</item>
+
+<item>
+<title>** UK : BBC 1 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1345.ts&amp;streamtype=TSDOWNLOADER&amp;name=** UK : BBC 1 HD **</link>
+</item>
+
+<item>
+<title>** UK: BBC 2 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1344.ts&amp;streamtype=TSDOWNLOADER&amp;name=** UK: BBC 2 HD **</link>
+</item>
+
+<item>
+<title>** UK: BBC 3 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1343.ts&amp;streamtype=TSDOWNLOADER&amp;name=** UK: BBC 3 HD **</link>
+</item>
+
+<item>
+<title>** UK: BBC 4 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1342.ts&amp;streamtype=TSDOWNLOADER&amp;name=** UK: BBC 4 HD **</link>
+</item>
+
+<item>
+<title>** UK: BBC NEWS **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1341.ts&amp;streamtype=TSDOWNLOADER&amp;name=** UK: BBC NEWS **</link>
+</item>
+
+<item>
+<title>** UK: SKY SPORTS 1HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1312.ts&amp;streamtype=TSDOWNLOADER&amp;name=** UK: SKY SPORTS 1HD **</link>
+</item>
+
+<item>
+<title>** UK: SKY SPORTS 2HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1311.ts&amp;streamtype=TSDOWNLOADER&amp;name=** UK: SKY SPORTS 2HD **</link>
+</item>
+
+<item>
+<title>** UK: SKY SPORTS 3HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1310.ts&amp;streamtype=TSDOWNLOADER&amp;name=** UK: SKY SPORTS 3HD **</link>
+</item>
+
+<item>
+<title>** UK: SKY SPORTS 4HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1309.ts&amp;streamtype=TSDOWNLOADER&amp;name=** UK: SKY SPORTS 4HD **</link>
+</item>
+
+<item>
+<title>** UK: SKY SPORTS 5HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1308.ts&amp;streamtype=TSDOWNLOADER&amp;name=** UK: SKY SPORTS 5HD **</link>
+</item>
+
+<item>
+<title>** UK: SKY SPORTS F1 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1307.ts&amp;streamtype=TSDOWNLOADER&amp;name=** UK: SKY SPORTS F1 HD **</link>
+</item>
+
+<item>
+<title>** UK: RACING **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1313.ts&amp;streamtype=TSDOWNLOADER&amp;name=** UK: RACING **</link>
+</item>
+
+<item>
+<title>** UK: BT Sport 1 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1328.ts&amp;streamtype=TSDOWNLOADER&amp;name=** UK: BT Sport 1 HD **</link>
+</item>
+
+<item>
+<title>** UK: BT Sport 2 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1327.ts&amp;streamtype=TSDOWNLOADER&amp;name=** UK: BT Sport 2 HD **</link>
+</item>
+
+<item>
+<title>** UK: BT Sport 3 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1326.ts&amp;streamtype=TSDOWNLOADER&amp;name=** UK: BT Sport 3 HD **</link>
+</item>
+
+<item>
+<title>** UK: EUROSPORT 1 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1353.ts&amp;streamtype=TSDOWNLOADER&amp;name=** UK: EUROSPORT 1 **</link>
+</item>
+
+<item>
+<title>** UK: Sky_Movies_Comedy **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1305.ts&amp;streamtype=TSDOWNLOADER&amp;name=** UK: Sky_Movies_Comedy **</link>
+</item>
+
+<item>
+<title>** UK: Sky Movies Modern Greats **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1304.ts&amp;streamtype=TSDOWNLOADER&amp;name=** UK: Sky Movies Modern Greats **</link>
+</item>
+
+<item>
+<title>** UK: Sky Movies Premiere **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1303.ts&amp;streamtype=TSDOWNLOADER&amp;name=** UK: Sky Movies Premiere **</link>
+</item>
+
+<item>
+<title>** UK: Sky Movies ScFi-Horror **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1302.ts&amp;streamtype=TSDOWNLOADER&amp;name=** UK: Sky Movies ScFi-Horror **</link>
+</item>
+
+<item>
+<title>** UK: Sky Movies Select **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1301.ts&amp;streamtype=TSDOWNLOADER&amp;name=** UK: Sky Movies Select **</link>
+</item>
+
+<item>
+<title>** UK: Sky Movies Showcase **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1300.ts&amp;streamtype=TSDOWNLOADER&amp;name=** UK: Sky Movies Showcase **</link>
+</item>
+
+<item>
+<title>** UK: Sky Movies Thriller **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1299.ts&amp;streamtype=TSDOWNLOADER&amp;name=** UK: Sky Movies Thriller **</link>
+</item>
+
+<item>
+<title>** UK: Disney XD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1318.ts&amp;streamtype=TSDOWNLOADER&amp;name=** UK: Disney XD **</link>
+</item>
+
+<item>
+<title>** UK: Disney Junior **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1319.ts&amp;streamtype=TSDOWNLOADER&amp;name=** UK: Disney Junior **</link>
+</item>
+
+<item>
+<title>** UK: Disney Channel **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1320.ts&amp;streamtype=TSDOWNLOADER&amp;name=** UK: Disney Channel **</link>
+</item>
+
+<item>
+<title>** UK: National Geographic **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1316.ts&amp;streamtype=TSDOWNLOADER&amp;name=** UK: National Geographic **</link>
+</item>
+
+<item>
+<title>** UK: Discovery Shed **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1322.ts&amp;streamtype=TSDOWNLOADER&amp;name=** UK: Discovery Shed **</link>
+</item>
+
+<item>
+<title>** UK: Discovery history **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1324.ts&amp;streamtype=TSDOWNLOADER&amp;name=** UK: Discovery history **</link>
+</item>
+
+<item>
+<title>** UK: E! **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1339.ts&amp;streamtype=TSDOWNLOADER&amp;name=** UK: E! **</link>
+</item>
+
+<item>
+<title>** UK: Discovery Investigation **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1323.ts&amp;streamtype=TSDOWNLOADER&amp;name=** UK: Discovery Investigation **</link>
+</item>
+
+<item>
+<title>** UK: HEART TV **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1351.ts&amp;streamtype=TSDOWNLOADER&amp;name=** UK: HEART TV **</link>
+</item>
+
+<item>
+<title>** UK: ITV 1 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1336.ts&amp;streamtype=TSDOWNLOADER&amp;name=** UK: ITV 1 **</link>
+</item>
+
+<item>
+<title>** UK: ITV2 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1333.ts&amp;streamtype=TSDOWNLOADER&amp;name=** UK: ITV2 **</link>
+</item>
+
+<item>
+<title>** UK: ITV 3 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1335.ts&amp;streamtype=TSDOWNLOADER&amp;name=** UK: ITV 3 **</link>
+</item>
+
+<item>
+<title>** UK: ITV4 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1338.ts&amp;streamtype=TSDOWNLOADER&amp;name=** UK: ITV4 **</link>
+</item>
+
+<item>
+<title>** UK: ITV BE **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1334.ts&amp;streamtype=TSDOWNLOADER&amp;name=** UK: ITV BE **</link>
+</item>
+
+<item>
+<title>** UK: CAPITAL TV **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1350.ts&amp;streamtype=TSDOWNLOADER&amp;name=** UK: CAPITAL TV **</link>
+</item>
+
+<item>
+<title>** UK: Premier Sport **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1314.ts&amp;streamtype=TSDOWNLOADER&amp;name=** UK: Premier Sport **</link>
+</item>
+
+<item>
+<title>** UK: TCM HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1349.ts&amp;streamtype=TSDOWNLOADER&amp;name=** UK: TCM HD **</link>
+</item>
+
+<item>
+<title>** UK: RTE TWO HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1329.ts&amp;streamtype=TSDOWNLOADER&amp;name=** UK: RTE TWO HD **</link>
+</item>
+
+<item>
+<title>** UK: Sky news HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1348.ts&amp;streamtype=TSDOWNLOADER&amp;name=** UK: Sky news HD **</link>
+</item>
+
+<item>
+<title>** UK: Tv Radio 105 network **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1347.ts&amp;streamtype=TSDOWNLOADER&amp;name=** UK: Tv Radio 105 network **</link>
+</item>
+
+<item>
+<title>** DE: RTL HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1422.ts&amp;streamtype=TSDOWNLOADER&amp;name=** DE: RTL HD **</link>
+</item>
+
+<item>
+<title>** DE: RTL 2 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1424.ts&amp;streamtype=TSDOWNLOADER&amp;name=** DE: RTL 2 HD **</link>
+</item>
+
+<item>
+<title>** DE: RTL LIVING HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1421.ts&amp;streamtype=TSDOWNLOADER&amp;name=** DE: RTL LIVING HD **</link>
+</item>
+
+<item>
+<title>** DE: RTL NITRO **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1420.ts&amp;streamtype=TSDOWNLOADER&amp;name=** DE: RTL NITRO **</link>
+</item>
+
+<item>
+<title>** DE: RTL PASSION **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1419.ts&amp;streamtype=TSDOWNLOADER&amp;name=** DE: RTL PASSION **</link>
+</item>
+
+<item>
+<title>** DE: ORF 1 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1363.ts&amp;streamtype=TSDOWNLOADER&amp;name=** DE: ORF 1 HD **</link>
+</item>
+
+<item>
+<title>** DE: ORF 2 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1428.ts&amp;streamtype=TSDOWNLOADER&amp;name=** DE: ORF 2 HD **</link>
+</item>
+
+<item>
+<title>** DE : ABN KIDS **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1381.ts&amp;streamtype=TSDOWNLOADER&amp;name=** DE : ABN KIDS **</link>
+</item>
+
+<item>
+<title>** DE : BADEN TV **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1380.ts&amp;streamtype=TSDOWNLOADER&amp;name=** DE : BADEN TV **</link>
+</item>
+
+<item>
+<title>** DE : DAS ERSTE **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1379.ts&amp;streamtype=TSDOWNLOADER&amp;name=** DE : DAS ERSTE **</link>
+</item>
+
+<item>
+<title>** DE : ELECTROSOUND **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1378.ts&amp;streamtype=TSDOWNLOADER&amp;name=** DE : ELECTROSOUND **</link>
+</item>
+
+<item>
+<title>** DE : NDR **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1377.ts&amp;streamtype=TSDOWNLOADER&amp;name=** DE : NDR **</link>
+</item>
+
+<item>
+<title>** DE : SKY ACTION **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1415.ts&amp;streamtype=TSDOWNLOADER&amp;name=** DE : SKY ACTION **</link>
+</item>
+
+<item>
+<title>** DE : SUPER RTL **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1409.ts&amp;streamtype=TSDOWNLOADER&amp;name=** DE : SUPER RTL **</link>
+</item>
+
+<item>
+<title>** DE : SYFY **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1408.ts&amp;streamtype=TSDOWNLOADER&amp;name=** DE : SYFY **</link>
+</item>
+
+<item>
+<title>** DE : TNT FILM HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1407.ts&amp;streamtype=TSDOWNLOADER&amp;name=** DE : TNT FILM HD **</link>
+</item>
+
+<item>
+<title>** DE : TNT SERIE HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1406.ts&amp;streamtype=TSDOWNLOADER&amp;name=** DE : TNT SERIE HD **</link>
+</item>
+
+<item>
+<title>** DE : VOX HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1405.ts&amp;streamtype=TSDOWNLOADER&amp;name=** DE : VOX HD **</link>
+</item>
+
+<item>
+<title>** DE: Discovery Channel HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1364.ts&amp;streamtype=TSDOWNLOADER&amp;name=** DE: Discovery Channel HD **</link>
+</item>
+
+<item>
+<title>** DE: PHOENIX **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1427.ts&amp;streamtype=TSDOWNLOADER&amp;name=** DE: PHOENIX **</link>
+</item>
+
+<item>
+<title>** DE: PRO 7 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1426.ts&amp;streamtype=TSDOWNLOADER&amp;name=** DE: PRO 7 HD **</link>
+</item>
+
+<item>
+<title>** DE: PRO MAX 7 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1425.ts&amp;streamtype=TSDOWNLOADER&amp;name=** DE: PRO MAX 7 **</link>
+</item>
+
+<item>
+<title>** DE: RTL Crime **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1423.ts&amp;streamtype=TSDOWNLOADER&amp;name=** DE: RTL Crime **</link>
+</item>
+
+<item>
+<title>** DE: SAT 1 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1418.ts&amp;streamtype=TSDOWNLOADER&amp;name=** DE: SAT 1 HD **</link>
+</item>
+
+<item>
+<title>** DE: SERVUS TV **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1417.ts&amp;streamtype=TSDOWNLOADER&amp;name=** DE: SERVUS TV **</link>
+</item>
+
+<item>
+<title>** DE: SIXX HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1416.ts&amp;streamtype=TSDOWNLOADER&amp;name=** DE: SIXX HD **</link>
+</item>
+
+<item>
+<title>** DE: SKY ATLANTIC **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1414.ts&amp;streamtype=TSDOWNLOADER&amp;name=** DE: SKY ATLANTIC **</link>
+</item>
+
+<item>
+<title>** DE: SKY CINEMA **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1413.ts&amp;streamtype=TSDOWNLOADER&amp;name=** DE: SKY CINEMA **</link>
+</item>
+
+<item>
+<title>** DE: SKY CINEMA 1 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1412.ts&amp;streamtype=TSDOWNLOADER&amp;name=** DE: SKY CINEMA 1 **</link>
+</item>
+
+<item>
+<title>** DE: SKY CINEMA 24 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1411.ts&amp;streamtype=TSDOWNLOADER&amp;name=** DE: SKY CINEMA 24 **</link>
+</item>
+
+<item>
+<title>** DE: SKY SPORT AUSTRIA **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1410.ts&amp;streamtype=TSDOWNLOADER&amp;name=** DE: SKY SPORT AUSTRIA **</link>
+</item>
+
+<item>
+<title>** DE: WDR HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1404.ts&amp;streamtype=TSDOWNLOADER&amp;name=** DE: WDR HD **</link>
+</item>
+
+<item>
+<title>** DE: Deutsche Welle **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1403.ts&amp;streamtype=TSDOWNLOADER&amp;name=** DE: Deutsche Welle **</link>
+</item>
+
+<item>
+<title>** DE: 13STREET **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1386.ts&amp;streamtype=TSDOWNLOADER&amp;name=** DE: 13STREET **</link>
+</item>
+
+<item>
+<title>** DE: SKY CINEMA 1 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1385.ts&amp;streamtype=TSDOWNLOADER&amp;name=** DE: SKY CINEMA 1 HD **</link>
+</item>
+
+<item>
+<title>** DE: SKY CINEMA 24 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1384.ts&amp;streamtype=TSDOWNLOADER&amp;name=** DE: SKY CINEMA 24 HD **</link>
+</item>
+
+<item>
+<title>** DE: Sky Cinema Comedy **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1376.ts&amp;streamtype=TSDOWNLOADER&amp;name=** DE: Sky Cinema Comedy **</link>
+</item>
+
+<item>
+<title>** DE: Sky Cinema Emotion **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1375.ts&amp;streamtype=TSDOWNLOADER&amp;name=** DE: Sky Cinema Emotion **</link>
+</item>
+
+<item>
+<title>** DE: Sky Cinema Family **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1374.ts&amp;streamtype=TSDOWNLOADER&amp;name=** DE: Sky Cinema Family **</link>
+</item>
+
+<item>
+<title>** DE: Sky Cinema Hits **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1373.ts&amp;streamtype=TSDOWNLOADER&amp;name=** DE: Sky Cinema Hits **</link>
+</item>
+
+<item>
+<title>** DE: Sky Cinema Nostalgie **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1372.ts&amp;streamtype=TSDOWNLOADER&amp;name=** DE: Sky Cinema Nostalgie **</link>
+</item>
+
+<item>
+<title>** DE: SKY HITS HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1383.ts&amp;streamtype=TSDOWNLOADER&amp;name=** DE: SKY HITS HD **</link>
+</item>
+
+<item>
+<title>** DE: Sky Krimi **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1371.ts&amp;streamtype=TSDOWNLOADER&amp;name=** DE: Sky Krimi **</link>
+</item>
+
+<item>
+<title>** DE: Sky Sport 1 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1370.ts&amp;streamtype=TSDOWNLOADER&amp;name=** DE: Sky Sport 1 **</link>
+</item>
+
+<item>
+<title>** DE: Sky Sport 2 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1369.ts&amp;streamtype=TSDOWNLOADER&amp;name=** DE: Sky Sport 2 **</link>
+</item>
+
+<item>
+<title>** DE: Sky Sport Bundesliga 1 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1368.ts&amp;streamtype=TSDOWNLOADER&amp;name=** DE: Sky Sport Bundesliga 1 **</link>
+</item>
+
+<item>
+<title>** DE: Sky Sport Bundesliga 3 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1367.ts&amp;streamtype=TSDOWNLOADER&amp;name=** DE: Sky Sport Bundesliga 3 **</link>
+</item>
+
+<item>
+<title>** DE: Sky Sport Bundesliga 4 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1366.ts&amp;streamtype=TSDOWNLOADER&amp;name=** DE: Sky Sport Bundesliga 4 **</link>
+</item>
+
+<item>
+<title>** DE: Sky Sport Bundesliga 5 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1365.ts&amp;streamtype=TSDOWNLOADER&amp;name=** DE: Sky Sport Bundesliga 5 **</link>
+</item>
+
+<item>
+<title>** ZDF DE **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1400.ts&amp;streamtype=TSDOWNLOADER&amp;name=** ZDF DE **</link>
+</item>
+
+<item>
+<title>** US: ABC News HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2365.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: ABC News HD **</link>
+</item>
+
+<item>
+<title>** US :CNN HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2341.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US :CNN HD **</link>
+</item>
+
+<item>
+<title>** US: AMC HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2361.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: AMC HD **</link>
+</item>
+
+<item>
+<title>** US: Bloomberg TV HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2358.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: Bloomberg TV HD **</link>
+</item>
+
+<item>
+<title>** US: Bravo HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2356.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: Bravo HD **</link>
+</item>
+
+<item>
+<title>** US: BYU TV **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2355.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: BYU TV **</link>
+</item>
+
+<item>
+<title>** US: C-Span 1 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2354.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: C-Span 1 **</link>
+</item>
+
+<item>
+<title>** US: C-Span 2 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2353.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: C-Span 2 **</link>
+</item>
+
+<item>
+<title>** US: C-Span 3 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2352.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: C-Span 3 **</link>
+</item>
+
+<item>
+<title>** US: CA Sportsnet 360 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2351.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: CA Sportsnet 360 HD **</link>
+</item>
+
+<item>
+<title>** US: Cartoon Network **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2350.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: Cartoon Network **</link>
+</item>
+
+<item>
+<title>** US: CBS **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2349.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: CBS **</link>
+</item>
+
+<item>
+<title>** US: CineMax 5 StarMax **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2347.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: CineMax 5 StarMax **</link>
+</item>
+
+<item>
+<title>** US: CineMax ActionMax East **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2345.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: CineMax ActionMax East **</link>
+</item>
+
+<item>
+<title>** US: CineMax East **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2344.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: CineMax East **</link>
+</item>
+
+<item>
+<title>** US: CineMax MoreMax **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2343.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: CineMax MoreMax **</link>
+</item>
+
+<item>
+<title>** US: CNBC **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2342.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: CNBC **</link>
+</item>
+
+<item>
+<title>** US: Comedy Central HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2340.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: Comedy Central HD **</link>
+</item>
+
+<item>
+<title>** US: CW HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2339.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: CW HD **</link>
+</item>
+
+<item>
+<title>** US: CW11 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2338.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: CW11 **</link>
+</item>
+
+<item>
+<title>** US Network HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2265.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US Network HD **</link>
+</item>
+
+<item>
+<title>** US: Discovery HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2336.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: Discovery HD **</link>
+</item>
+
+<item>
+<title>** US: Discovery HD Showcase **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2337.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: Discovery HD Showcase **</link>
+</item>
+
+<item>
+<title>** US: Discovery Science HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2335.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: Discovery Science HD **</link>
+</item>
+
+<item>
+<title>** US: Discovery Velocity **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2334.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: Discovery Velocity **</link>
+</item>
+
+<item>
+<title>** US: DIY Network **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2333.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: DIY Network **</link>
+</item>
+
+<item>
+<title>** US: DW **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2332.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: DW **</link>
+</item>
+
+<item>
+<title>** US: ESPN 1 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2331.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: ESPN 1 **</link>
+</item>
+
+<item>
+<title>** US: ESPN 2 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2330.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: ESPN 2 **</link>
+</item>
+
+<item>
+<title>** US: ESPN HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2329.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: ESPN HD **</link>
+</item>
+
+<item>
+<title>** US: EUROSPORT **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1346.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: EUROSPORT **</link>
+</item>
+
+<item>
+<title>** US: Fashion One HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2328.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: Fashion One HD **</link>
+</item>
+
+<item>
+<title>** US: Fight HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2327.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: Fight HD **</link>
+</item>
+
+<item>
+<title>** US: Fight Sport **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2326.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: Fight Sport **</link>
+</item>
+
+<item>
+<title>** US: Fine Living **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2325.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: Fine Living **</link>
+</item>
+
+<item>
+<title>** US: Food Network HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2324.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: Food Network HD **</link>
+</item>
+
+<item>
+<title>** US: FOX 43 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2323.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: FOX 43 **</link>
+</item>
+
+<item>
+<title>** US: Fox 5 NY **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2318.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: Fox 5 NY **</link>
+</item>
+
+<item>
+<title>** US: Fox News HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2322.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: Fox News HD **</link>
+</item>
+
+<item>
+<title>** US: Fox Sports 1 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2321.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: Fox Sports 1 HD **</link>
+</item>
+
+<item>
+<title>** US: Fox Sports 2 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2320.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: Fox Sports 2 HD **</link>
+</item>
+
+<item>
+<title>** US: Fox Sports 506 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2319.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: Fox Sports 506 HD **</link>
+</item>
+
+<item>
+<title>** US: Free Form HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2317.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: Free Form HD **</link>
+</item>
+
+<item>
+<title>** US: FS1 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2316.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: FS1 **</link>
+</item>
+
+<item>
+<title>** US: Fuel HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2315.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: Fuel HD **</link>
+</item>
+
+<item>
+<title>** US: FX HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2314.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: FX HD **</link>
+</item>
+
+<item>
+<title>** US: H2 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2313.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: H2 **</link>
+</item>
+
+<item>
+<title>** US: Hallmark **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2312.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: Hallmark **</link>
+</item>
+
+<item>
+<title>** US: HBO Comedy **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2311.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: HBO Comedy **</link>
+</item>
+
+<item>
+<title>** US: HBO East **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2310.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: HBO East **</link>
+</item>
+
+<item>
+<title>** US: HBO Signature **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2308.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: HBO Signature **</link>
+</item>
+
+<item>
+<title>** US: HBO Zone **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2307.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: HBO Zone **</link>
+</item>
+
+<item>
+<title>** US: HGTV HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2306.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: HGTV HD **</link>
+</item>
+
+<item>
+<title>** US: History HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2304.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: History HD **</link>
+</item>
+
+<item>
+<title>** US: HSN YT LIVE 1080P HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2303.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: HSN YT LIVE 1080P HD **</link>
+</item>
+
+<item>
+<title>** US: MLB Network **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2301.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: MLB Network **</link>
+</item>
+
+<item>
+<title>** US: MSNBC HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2300.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: MSNBC HD **</link>
+</item>
+
+<item>
+<title>** US: MTV Rocks **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2299.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: MTV Rocks **</link>
+</item>
+
+<item>
+<title>** US: National Geographic **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2298.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: National Geographic **</link>
+</item>
+
+<item>
+<title>** US: NBA **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2297.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: NBA **</link>
+</item>
+
+<item>
+<title>** US: NBCSN **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2296.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: NBCSN **</link>
+</item>
+
+<item>
+<title>** US: NBCSN HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2295.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: NBCSN HD **</link>
+</item>
+
+<item>
+<title>** US: Network HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2294.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: Network HD **</link>
+</item>
+
+<item>
+<title>** US: NFL Network 1080i **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2292.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: NFL Network 1080i **</link>
+</item>
+
+<item>
+<title>** US: NFL Network HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2291.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: NFL Network HD **</link>
+</item>
+
+<item>
+<title>** US: NHL Network **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2290.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: NHL Network **</link>
+</item>
+
+<item>
+<title>** US: Outdoor Channel HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2289.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: Outdoor Channel HD **</link>
+</item>
+
+<item>
+<title>** US: PAC-12 Arizona **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2288.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: PAC-12 Arizona **</link>
+</item>
+
+<item>
+<title>** US: PAC-12 Bay Area **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2287.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: PAC-12 Bay Area **</link>
+</item>
+
+<item>
+<title>** US: PAC-12 Los Angeles **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2286.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: PAC-12 Los Angeles **</link>
+</item>
+
+<item>
+<title>** US: PAC-12 Oregon **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2285.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: PAC-12 Oregon **</link>
+</item>
+
+<item>
+<title>** US: PAC-12 Washington **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2284.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: PAC-12 Washington **</link>
+</item>
+
+<item>
+<title>** US: Showtime 2 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2282.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: Showtime 2 **</link>
+</item>
+
+<item>
+<title>** US: Showtime HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2281.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: Showtime HD **</link>
+</item>
+
+<item>
+<title>** US: Showtime West **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2280.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: Showtime West **</link>
+</item>
+
+<item>
+<title>** US: Spike HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2278.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: Spike HD **</link>
+</item>
+
+<item>
+<title>** US: Starz Cinema **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2277.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: Starz Cinema **</link>
+</item>
+
+<item>
+<title>** US: Starz Comedy **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2276.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: Starz Comedy **</link>
+</item>
+
+<item>
+<title>** US: Starz Edge HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2275.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: Starz Edge HD **</link>
+</item>
+
+<item>
+<title>** US: Starz Encore **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2274.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: Starz Encore **</link>
+</item>
+
+<item>
+<title>** US: SyFy HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2273.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: SyFy HD **</link>
+</item>
+
+<item>
+<title>** US: TBS HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2272.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: TBS HD **</link>
+</item>
+
+<item>
+<title>** US: TNT HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2271.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: TNT HD **</link>
+</item>
+
+<item>
+<title>** US: TSN 1 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2270.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: TSN 1 HD **</link>
+</item>
+
+<item>
+<title>** US: TSN 2 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2269.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: TSN 2 HD **</link>
+</item>
+
+<item>
+<title>** US: TSN 3 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2268.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: TSN 3 HD **</link>
+</item>
+
+<item>
+<title>** US: TSN 4 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2267.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: TSN 4 HD **</link>
+</item>
+
+<item>
+<title>** US: TSN 5 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2266.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: TSN 5 HD **</link>
+</item>
+
+<item>
+<title>** US: VH1 Classic **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2264.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: VH1 Classic **</link>
+</item>
+
+<item>
+<title>** US: WWE HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2263.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US: WWE HD **</link>
+</item>
+
+<item>
+<title>** US:A&E HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2367.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US:A&E HD **</link>
+</item>
+
+<item>
+<title>** US:AFN Sport 1 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2364.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US:AFN Sport 1 **</link>
+</item>
+
+<item>
+<title>** US:AFN Sport 2 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2363.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US:AFN Sport 2 **</link>
+</item>
+
+<item>
+<title>** US:Amazing Discoveries HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2362.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US:Amazing Discoveries HD **</link>
+</item>
+
+<item>
+<title>** US:Animal Planet HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2360.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US:Animal Planet HD **</link>
+</item>
+
+<item>
+<title>** US:Bloomberg Europe **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2359.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US:Bloomberg Europe **</link>
+</item>
+
+<item>
+<title>** US:Boomerang **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2357.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US:Boomerang **</link>
+</item>
+
+<item>
+<title>** US:CBSN HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2348.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US:CBSN HD **</link>
+</item>
+
+<item>
+<title>** US:CineMax Action HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2346.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US:CineMax Action HD **</link>
+</item>
+
+<item>
+<title>** US:HBO HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2309.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US:HBO HD **</link>
+</item>
+
+<item>
+<title>** US:HIFI **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2305.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US:HIFI **</link>
+</item>
+
+<item>
+<title>** US:MBL HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2302.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US:MBL HD **</link>
+</item>
+
+<item>
+<title>** US:NFL Network 1 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2293.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US:NFL Network 1 **</link>
+</item>
+
+<item>
+<title>** US:PAG HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2283.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US:PAG HD **</link>
+</item>
+
+<item>
+<title>** US:Smile Of A Child **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2279.ts&amp;streamtype=TSDOWNLOADER&amp;name=** US:Smile Of A Child **</link>
+</item>
+
+<item>
+<title>** Os Smurfs 3: EA VILA PERDIDA (2017) **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/movie/Adriana/Adriana/2960.mp4&amp;streamtype=TSDOWNLOADER&amp;name=** Os Smurfs 3: EA VILA PERDIDA (2017) **</link>
+</item>
+
+<item>
+<title>** KONG - A ILHA DA CAVEIRA (2017) **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/movie/Adriana/Adriana/2959.mp4&amp;streamtype=TSDOWNLOADER&amp;name=** KONG - A ILHA DA CAVEIRA (2017) **</link>
+</item>
+
+<item>
+<title>** REI Arthur: A Lenda da Espada (2017) **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/movie/Adriana/Adriana/2955.mp4&amp;streamtype=TSDOWNLOADER&amp;name=** REI Arthur: A Lenda da Espada (2017) **</link>
+</item>
+
+<item>
+<title>** MULHER-MARAVILHA (2017) **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/movie/Adriana/Adriana/2956.mp4&amp;streamtype=TSDOWNLOADER&amp;name=** MULHER-MARAVILHA (2017) **</link>
+</item>
+
+<item>
+<title>** O DEMÃ”NIO DA RUA WILLOW (2017) **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/movie/Adriana/Adriana/2957.mp4&amp;streamtype=TSDOWNLOADER&amp;name=** O DEMÃ”NIO DA RUA WILLOW (2017) **</link>
+</item>
+
+<item>
+<title>** APRISIONADOS (2017) **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/movie/Adriana/Adriana/2958.mp4&amp;streamtype=TSDOWNLOADER&amp;name=** APRISIONADOS (2017) **</link>
+</item>
+
+<item>
+<title>** JOHN WICK 2: UM NOVO DIA PARA MATAR (2017) **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/movie/Adriana/Adriana/2961.mp4&amp;streamtype=TSDOWNLOADER&amp;name=** JOHN WICK 2: UM NOVO DIA PARA MATAR (2017) **</link>
+</item>
+
+<item>
+<title>** T2 - TRAINSPOTTING 2: SEM LIMITES **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/movie/Adriana/Adriana/2962.mp4&amp;streamtype=TSDOWNLOADER&amp;name=** T2 - TRAINSPOTTING 2: SEM LIMITES **</link>
+</item>
+
+<item>
+<title>** A Bailarina (2017) **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/movie/Adriana/Adriana/2944.mp4&amp;streamtype=TSDOWNLOADER&amp;name=** A Bailarina (2017) **</link>
+</item>
+
+<item>
+<title>** 1000 Anos Depois (2017) **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/movie/Adriana/Adriana/2945.mp4&amp;streamtype=TSDOWNLOADER&amp;name=** 1000 Anos Depois (2017) **</link>
+</item>
+
+<item>
+<title>** Assassin's Creed (2017) **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/movie/Adriana/Adriana/2946.mp4&amp;streamtype=TSDOWNLOADER&amp;name=** Assassin's Creed (2017) **</link>
+</item>
+
+<item>
+<title>** O Exorcismo de Anna Ecklund (2017) **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/movie/Adriana/Adriana/2947.mp4&amp;streamtype=TSDOWNLOADER&amp;name=** O Exorcismo de Anna Ecklund (2017) **</link>
+</item>
+
+<item>
+<title>** Vizinhos Nada Secretos (2017) **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/movie/Adriana/Adriana/2950.mp4&amp;streamtype=TSDOWNLOADER&amp;name=** Vizinhos Nada Secretos (2017) **</link>
+</item>
+
+<item>
+<title>** Power Rangers (2017) **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/movie/Adriana/Adriana/2939.mp4&amp;streamtype=TSDOWNLOADER&amp;name=** Power Rangers (2017) **</link>
+</item>
+
+<item>
+<title>** 50 Tons Mais Escuros (2017) **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/movie/Adriana/Adriana/2628.mp4&amp;streamtype=TSDOWNLOADER&amp;name=** 50 Tons Mais Escuros (2017) **</link>
+</item>
+
+<item>
+<title>** Logan (2017) **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/movie/Adriana/Adriana/2398.mp4&amp;streamtype=TSDOWNLOADER&amp;name=** Logan (2017) **</link>
+</item>
+
+<item>
+<title>** Velozes e Furiosos 8 (2017) **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/movie/Adriana/Adriana/2388.mp4&amp;streamtype=TSDOWNLOADER&amp;name=** Velozes e Furiosos 8 (2017) **</link>
+</item>
+
+<item>
+<title>** xXx Reativado (2017) **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/movie/Adriana/Adriana/2385.mp4&amp;streamtype=TSDOWNLOADER&amp;name=** xXx Reativado (2017) **</link>
+</item>
+
+<item>
+<title>** A Cabana (2017) **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/movie/Adriana/Adriana/2386.mp4&amp;streamtype=TSDOWNLOADER&amp;name=** A Cabana (2017) **</link>
+</item>
+
+<item>
+<title>** Anjos Da Noite Guerras De Sangue 2017 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/movie/Adriana/Adriana/2401.mp4&amp;streamtype=TSDOWNLOADER&amp;name=** Anjos Da Noite Guerras De Sangue 2017 **</link>
+</item>
+
+<item>
+<title>** O Chamado 3 (2017) **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/movie/Adriana/Adriana/2404.mp4&amp;streamtype=TSDOWNLOADER&amp;name=** O Chamado 3 (2017) **</link>
+</item>
+
+<item>
+<title>** Internet o filme (2017) **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/movie/Adriana/Adriana/2390.mp4&amp;streamtype=TSDOWNLOADER&amp;name=** Internet o filme (2017) **</link>
+</item>
+
+<item>
+<title>** FRAGMENTADO (2017) **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/movie/Adriana/Adriana/2395.mp4&amp;streamtype=TSDOWNLOADER&amp;name=** FRAGMENTADO (2017) **</link>
+</item>
+
+<item>
+<title>** ARMAS NA MESA (2017) **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/movie/Adriana/Adriana/2392.mp4&amp;streamtype=TSDOWNLOADER&amp;name=** ARMAS NA MESA (2017) **</link>
+</item>
+
+<item>
+<title>** Busca explosiva 5 (2017) **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/movie/Adriana/Adriana/2391.mp4&amp;streamtype=TSDOWNLOADER&amp;name=** Busca explosiva 5 (2017) **</link>
+</item>
+
+<item>
+<title>** Corra (2017) **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/movie/Adriana/Adriana/2397.mp4&amp;streamtype=TSDOWNLOADER&amp;name=** Corra (2017) **</link>
+</item>
+
+<item>
+<title>** Resgate Suicida Dublado (2017) **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/movie/Adriana/Adriana/2396.mp4&amp;streamtype=TSDOWNLOADER&amp;name=** Resgate Suicida Dublado (2017) **</link>
+</item>
+
+<item>
+<title>** Transtornada Obsessiva Compulsiva (2017) **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/movie/Adriana/Adriana/2394.mp4&amp;streamtype=TSDOWNLOADER&amp;name=** Transtornada Obsessiva Compulsiva (2017) **</link>
+</item>
+
+<item>
+<title>** Max Steel (2017) **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/movie/Adriana/Adriana/2389.mp4&amp;streamtype=TSDOWNLOADER&amp;name=** Max Steel (2017) **</link>
+</item>
+
+<item>
+<title>** Um Limte entre nÃ³s (2017) **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/movie/Adriana/Adriana/2393.mp4&amp;streamtype=TSDOWNLOADER&amp;name=** Um Limte entre nÃ³s (2017) **</link>
+</item>
+
+<item>
+<title>** A Bela e a Fera (2017) **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/movie/Adriana/Adriana/2399.mp4&amp;streamtype=TSDOWNLOADER&amp;name=** A Bela e a Fera (2017) **</link>
+</item>
+
+<item>
+<title>** Ouija Origem Do Mal 2017 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/movie/Adriana/Adriana/2402.mp4&amp;streamtype=TSDOWNLOADER&amp;name=** Ouija Origem Do Mal 2017 **</link>
+</item>
+
+<item>
+<title>** Abandonados 2017 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/movie/Adriana/Adriana/2403.mp4&amp;streamtype=TSDOWNLOADER&amp;name=** Abandonados 2017 **</link>
+</item>
+
+<item>
+<title>** Pequenos Delitos (2017) **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/movie/Adriana/Adriana/2400.mp4&amp;streamtype=TSDOWNLOADER&amp;name=** Pequenos Delitos (2017) **</link>
+</item>
+
+<item>
+<title>** Breaking Bad O Filme (2017) **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/movie/Adriana/Adriana/2405.mp4&amp;streamtype=TSDOWNLOADER&amp;name=** Breaking Bad O Filme (2017) **</link>
+</item>
+
+<item>
+<title>** iBoy (2017) **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/movie/Adriana/Adriana/2406.mp4&amp;streamtype=TSDOWNLOADER&amp;name=** iBoy (2017) **</link>
+</item>
+
+<item>
+<title>** QUATRO VIDAS CACHORRO  (2017) **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/movie/Adriana/Adriana/2629.mp4&amp;streamtype=TSDOWNLOADER&amp;name=** QUATRO VIDAS CACHORRO  (2017) **</link>
+</item>
+
+<item>
+<title>** Apostando Tudo (2017) **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/movie/Adriana/Adriana/2630.mp4&amp;streamtype=TSDOWNLOADER&amp;name=** Apostando Tudo (2017) **</link>
+</item>
+
+<item>
+<title>** A AUTOPSIA DE JANE DOE (2017) **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/movie/Adriana/Adriana/2631.mp4&amp;streamtype=TSDOWNLOADER&amp;name=** A AUTOPSIA DE JANE DOE (2017) **</link>
+</item>
+
+<item>
+<title>** XXX 1 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/movie/Adriana/Adriana/2410.mp4&amp;streamtype=TSDOWNLOADER&amp;name=** XXX 1 **</link>
+</item>
+
+<item>
+<title>** XXX 2 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/movie/Adriana/Adriana/2411.mp4&amp;streamtype=TSDOWNLOADER&amp;name=** XXX 2 **</link>
+</item>
+
+<item>
+<title>** XXX 3 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/movie/Adriana/Adriana/2412.mp4&amp;streamtype=TSDOWNLOADER&amp;name=** XXX 3 **</link>
+</item>
+
+<item>
+<title>** XXX 4 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/movie/Adriana/Adriana/2413.mp4&amp;streamtype=TSDOWNLOADER&amp;name=** XXX 4 **</link>
+</item>
+
+<item>
+<title>** XXX 5 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/movie/Adriana/Adriana/2414.mp4&amp;streamtype=TSDOWNLOADER&amp;name=** XXX 5 **</link>
+</item>
+
+<item>
+<title>** XXX 6 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/movie/Adriana/Adriana/2415.mp4&amp;streamtype=TSDOWNLOADER&amp;name=** XXX 6 **</link>
+</item>
+
+<item>
+<title>** XXX 7 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/movie/Adriana/Adriana/2416.mp4&amp;streamtype=TSDOWNLOADER&amp;name=** XXX 7 **</link>
+</item>
+
+<item>
+<title>** XXX 8 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/movie/Adriana/Adriana/2417.mp4&amp;streamtype=TSDOWNLOADER&amp;name=** XXX 8 **</link>
+</item>
+
+<item>
+<title>** XXX 9 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/movie/Adriana/Adriana/2418.mp4&amp;streamtype=TSDOWNLOADER&amp;name=** XXX 9 **</link>
+</item>
+
+<item>
+<title>** XXX 10 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/movie/Adriana/Adriana/2419.mp4&amp;streamtype=TSDOWNLOADER&amp;name=** XXX 10 **</link>
+</item>
+
+<item>
+<title>** XXX 11 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/movie/Adriana/Adriana/2420.mp4&amp;streamtype=TSDOWNLOADER&amp;name=** XXX 11 **</link>
+</item>
+
+<item>
+<title>** PassieXxX **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/2953.ts&amp;streamtype=TSDOWNLOADER&amp;name=** PassieXxX **</link>
+</item>
+
+<item>
+<title>** Sextreme **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1483.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Sextreme **</link>
+</item>
+
+<item>
+<title>** RÃ¡dio 104 FM **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1668.ts&amp;streamtype=TSDOWNLOADER&amp;name=** RÃ¡dio 104 FM **</link>
+</item>
+
+<item>
+<title>** RÃ¡dio Band FM **</title>
+<item>
+<title>** RÃ¡dio BH FM **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1670.ts&amp;streamtype=TSDOWNLOADER&amp;name=** RÃ¡dio BH FM **</link>
+</item>
+
+<item>
+<title>** RÃ¡dio Coca Cola FM **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1667.ts&amp;streamtype=TSDOWNLOADER&amp;name=** RÃ¡dio Coca Cola FM **</link>
+</item>
+
+<item>
+<title>** RÃ¡dio Eldorado FM **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1669.ts&amp;streamtype=TSDOWNLOADER&amp;name=** RÃ¡dio Eldorado FM **</link>
+</item>
+
+<item>
+<title>** RÃ¡dio Funk Brasil **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1672.ts&amp;streamtype=TSDOWNLOADER&amp;name=** RÃ¡dio Funk Brasil **</link>
+</item>
+
+<item>
+<title>** RÃ¡dio Jovem Pan FM **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1664.ts&amp;streamtype=TSDOWNLOADER&amp;name=** RÃ¡dio Jovem Pan FM **</link>
+</item>
+
+<item>
+<title>** RÃ¡dio Mania FM **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1665.ts&amp;streamtype=TSDOWNLOADER&amp;name=** RÃ¡dio Mania FM **</link>
+</item>
+
+<item>
+<title>** RÃ¡dio Nativa FM **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1671.ts&amp;streamtype=TSDOWNLOADER&amp;name=** RÃ¡dio Nativa FM **</link>
+</item>
+
+<item>
+<title>** RÃ¡dio Transamerica FM **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/Adriana/Adriana/1666.ts&amp;streamtype=TSDOWNLOADER&amp;name=** RÃ¡dio Transamerica FM **</link>
+</item>
 
 
 
