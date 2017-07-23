@@ -2,6 +2,1592 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <items>
+<item>
+<title>** TVC1 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1111.ts&amp;streamtype=TSDOWNLOADER&amp;name=** TVC1 HD **</link>
+</item>
+
+<item>
+<title>** TVC2 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1110.ts&amp;streamtype=TSDOWNLOADER&amp;name=** TVC2 HD **</link>
+</item>
+
+<item>
+<title>** TVC3 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1109.ts&amp;streamtype=TSDOWNLOADER&amp;name=** TVC3 HD **</link>
+</item>
+
+<item>
+<title>** TVC4 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1108.ts&amp;streamtype=TSDOWNLOADER&amp;name=** TVC4 HD **</link>
+</item>
+
+<item>
+<title>** TVS HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1107.ts&amp;streamtype=TSDOWNLOADER&amp;name=** TVS HD **</link>
+</item>
+
+<item>
+<title>** FOX HD Portugal **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1051.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FOX HD Portugal **</link>
+</item>
+
+<item>
+<title>** FOX Crime HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1050.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FOX Crime HD **</link>
+</item>
+
+<item>
+<title>** FOX Comedy HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1049.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FOX Comedy HD **</link>
+</item>
+
+<item>
+<title>** FOX Life HD Portugal **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1052.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FOX Life HD Portugal **</link>
+</item>
+
+<item>
+<title>** FOX Movies **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1053.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FOX Movies **</link>
+</item>
+
+<item>
+<title>** AXN Black HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1014.ts&amp;streamtype=TSDOWNLOADER&amp;name=** AXN Black HD **</link>
+</item>
+
+<item>
+<title>** AXN HD Portugal **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1015.ts&amp;streamtype=TSDOWNLOADER&amp;name=** AXN HD Portugal **</link>
+</item>
+
+<item>
+<title>** AXN White HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1016.ts&amp;streamtype=TSDOWNLOADER&amp;name=** AXN White HD **</link>
+</item>
+
+<item>
+<title>** Hollywood HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1057.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Hollywood HD **</link>
+</item>
+
+<item>
+<title>** SyFy HD Portugal **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1102.ts&amp;streamtype=TSDOWNLOADER&amp;name=** SyFy HD Portugal **</link>
+</item>
+
+<item>
+<title>** AMC HD Portugal **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1013.ts&amp;streamtype=TSDOWNLOADER&amp;name=** AMC HD Portugal **</link>
+</item>
+
+<item>
+<title>** A&E Portugal **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1011.ts&amp;streamtype=TSDOWNLOADER&amp;name=** A&E Portugal **</link>
+</item>
+
+<item>
+<title>** Cinemundo **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1030.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Cinemundo **</link>
+</item>
+
+<item>
+<title>** Sundance HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1101.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Sundance HD **</link>
+</item>
+
+<item>
+<title>** BBC Entertainment **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1019.ts&amp;streamtype=TSDOWNLOADER&amp;name=** BBC Entertainment **</link>
+</item>
+
+<item>
+<title>** SPORT·TV+ **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1099.ts&amp;streamtype=TSDOWNLOADER&amp;name=** SPORT·TV+ **</link>
+</item>
+
+<item>
+<title>** SPORT·TV1 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1098.ts&amp;streamtype=TSDOWNLOADER&amp;name=** SPORT·TV1 HD **</link>
+</item>
+
+<item>
+<title>** SPORT·TV2 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1097.ts&amp;streamtype=TSDOWNLOADER&amp;name=** SPORT·TV2 HD **</link>
+</item>
+
+<item>
+<title>** SPORT·TV3 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1096.ts&amp;streamtype=TSDOWNLOADER&amp;name=** SPORT·TV3 HD **</link>
+</item>
+
+<item>
+<title>** SPORT·TV4 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1095.ts&amp;streamtype=TSDOWNLOADER&amp;name=** SPORT·TV4 HD **</link>
+</item>
+
+<item>
+<title>** SPORT·TV5 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1094.ts&amp;streamtype=TSDOWNLOADER&amp;name=** SPORT·TV5 HD **</link>
+</item>
+
+<item>
+<title>** BTV HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1022.ts&amp;streamtype=TSDOWNLOADER&amp;name=** BTV HD **</link>
+</item>
+
+<item>
+<title>** Sporting TV HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1100.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Sporting TV HD **</link>
+</item>
+
+<item>
+<title>** Eurosport 1 Portugal **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1044.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Eurosport 1 Portugal **</link>
+</item>
+
+<item>
+<title>** Eurosport 2 Portugal **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1043.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Eurosport 2 Portugal **</link>
+</item>
+
+<item>
+<title>** Eurosport News **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1041.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Eurosport News **</link>
+</item>
+
+<item>
+<title>** A Bola TV **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1010.ts&amp;streamtype=TSDOWNLOADER&amp;name=** A Bola TV **</link>
+</item>
+
+<item>
+<title>** Fuel TV HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1055.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Fuel TV HD **</link>
+</item>
+
+<item>
+<title>** MCS Extreme **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1065.ts&amp;streamtype=TSDOWNLOADER&amp;name=** MCS Extreme **</link>
+</item>
+
+<item>
+<title>** Fight Network HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1046.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Fight Network HD **</link>
+</item>
+
+<item>
+<title>** Kombat Sport **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1060.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Kombat Sport **</link>
+</item>
+
+<item>
+<title>** Motorvision HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1069.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Motorvision HD **</link>
+</item>
+
+<item>
+<title>** Motors TV **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1068.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Motors TV **</link>
+</item>
+
+<item>
+<title>** Outdoor Channel HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1076.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Outdoor Channel HD **</link>
+</item>
+
+<item>
+<title>** Caça e Pesca **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1024.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Caça e Pesca **</link>
+</item>
+
+<item>
+<title>** Caçavision **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1025.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Caçavision **</link>
+</item>
+
+<item>
+<title>** Toros TV **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1104.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Toros TV **</link>
+</item>
+
+<item>
+<title>** TVI Reality **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1121.ts&amp;streamtype=TSDOWNLOADER&amp;name=** TVI Reality **</link>
+</item>
+
+<item>
+<title>** TVI Reality Camara Exclusiva 1 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1120.ts&amp;streamtype=TSDOWNLOADER&amp;name=** TVI Reality Camara Exclusiva 1 **</link>
+</item>
+
+<item>
+<title>** TVI Reality Camara Exclusiva 2 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1119.ts&amp;streamtype=TSDOWNLOADER&amp;name=** TVI Reality Camara Exclusiva 2 **</link>
+</item>
+
+<item>
+<title>** TVI Reality Camara Exclusiva 3 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1118.ts&amp;streamtype=TSDOWNLOADER&amp;name=** TVI Reality Camara Exclusiva 3 **</link>
+</item>
+
+<item>
+<title>** TVI Reality Camara Exclusiva 4 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1117.ts&amp;streamtype=TSDOWNLOADER&amp;name=** TVI Reality Camara Exclusiva 4 **</link>
+</item>
+
+<item>
+<title>** TVI Reality Mosaico **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1116.ts&amp;streamtype=TSDOWNLOADER&amp;name=** TVI Reality Mosaico **</link>
+</item>
+
+<item>
+<title>** RTP1 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1078.ts&amp;streamtype=TSDOWNLOADER&amp;name=** RTP1 **</link>
+</item>
+
+<item>
+<title>** RTP2 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1079.ts&amp;streamtype=TSDOWNLOADER&amp;name=** RTP2 **</link>
+</item>
+
+<item>
+<title>** RTP Açores **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1081.ts&amp;streamtype=TSDOWNLOADER&amp;name=** RTP Açores **</link>
+</item>
+
+<item>
+<title>** RTP Madeira **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1084.ts&amp;streamtype=TSDOWNLOADER&amp;name=** RTP Madeira **</link>
+</item>
+
+<item>
+<title>** RTP Africa **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1082.ts&amp;streamtype=TSDOWNLOADER&amp;name=** RTP Africa **</link>
+</item>
+
+<item>
+<title>** RTP Memória **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1085.ts&amp;streamtype=TSDOWNLOADER&amp;name=** RTP Memória **</link>
+</item>
+
+<item>
+<title>** SIC **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1086.ts&amp;streamtype=TSDOWNLOADER&amp;name=** SIC **</link>
+</item>
+
+<item>
+<title>** SIC Radical **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1092.ts&amp;streamtype=TSDOWNLOADER&amp;name=** SIC Radical **</link>
+</item>
+
+<item>
+<title>** SIC Mulher **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1090.ts&amp;streamtype=TSDOWNLOADER&amp;name=** SIC Mulher **</link>
+</item>
+
+<item>
+<title>** SIC Caras **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1087.ts&amp;streamtype=TSDOWNLOADER&amp;name=** SIC Caras **</link>
+</item>
+
+<item>
+<title>** TVI **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1112.ts&amp;streamtype=TSDOWNLOADER&amp;name=** TVI **</link>
+</item>
+
+<item>
+<title>** TVI Ficção **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1114.ts&amp;streamtype=TSDOWNLOADER&amp;name=** TVI Ficção **</link>
+</item>
+
+<item>
+<title>** Canal Q **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1027.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Canal Q **</link>
+</item>
+
+<item>
+<title>** Porto Canal **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1077.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Porto Canal **</link>
+</item>
+
+<item>
+<title>** E! Portugal **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1038.ts&amp;streamtype=TSDOWNLOADER&amp;name=** E! Portugal **</link>
+</item>
+
+<item>
+<title>** MCS LifeStyle **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1066.ts&amp;streamtype=TSDOWNLOADER&amp;name=** MCS LifeStyle **</link>
+</item>
+
+<item>
+<title>** Fine Living Network HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1047.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Fine Living Network HD **</link>
+</item>
+
+<item>
+<title>** Travel Channel HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1106.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Travel Channel HD **</link>
+</item>
+
+<item>
+<title>** 24Kitchen HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1009.ts&amp;streamtype=TSDOWNLOADER&amp;name=** 24Kitchen HD **</link>
+</item>
+
+<item>
+<title>** Food Network Portugal **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1048.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Food Network Portugal **</link>
+</item>
+
+<item>
+<title>** CBS Reality **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1029.ts&amp;streamtype=TSDOWNLOADER&amp;name=** CBS Reality **</link>
+</item>
+
+<item>
+<title>** Crime+Investigation **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1032.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Crime+Investigation **</link>
+</item>
+
+<item>
+<title>** TLC Portugal **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1103.ts&amp;streamtype=TSDOWNLOADER&amp;name=** TLC Portugal **</link>
+</item>
+
+<item>
+<title>** MCM Pop **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1063.ts&amp;streamtype=TSDOWNLOADER&amp;name=** MCM Pop **</link>
+</item>
+
+<item>
+<title>** MCM Top **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1064.ts&amp;streamtype=TSDOWNLOADER&amp;name=** MCM Top **</link>
+</item>
+
+<item>
+<title>** MTV Portugal **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1071.ts&amp;streamtype=TSDOWNLOADER&amp;name=** MTV Portugal **</link>
+</item>
+
+<item>
+<title>** VH1 Portugal **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1122.ts&amp;streamtype=TSDOWNLOADER&amp;name=** VH1 Portugal **</link>
+</item>
+
+<item>
+<title>** VH1 Classic **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1123.ts&amp;streamtype=TSDOWNLOADER&amp;name=** VH1 Classic **</link>
+</item>
+
+<item>
+<title>** C Music TV **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1023.ts&amp;streamtype=TSDOWNLOADER&amp;name=** C Music TV **</link>
+</item>
+
+<item>
+<title>** iConcerts HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1058.ts&amp;streamtype=TSDOWNLOADER&amp;name=** iConcerts HD **</link>
+</item>
+
+<item>
+<title>** Trace Urban **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1105.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Trace Urban **</link>
+</item>
+
+<item>
+<title>** Afro Music Channel **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1012.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Afro Music Channel **</link>
+</item>
+
+<item>
+<title>** Discovery Channel Portugal **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1033.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Discovery Channel Portugal **</link>
+</item>
+
+<item>
+<title>** Discovery Showcase HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1034.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Discovery Showcase HD **</link>
+</item>
+
+<item>
+<title>** National Geographic Channel HD Portugal **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1073.ts&amp;streamtype=TSDOWNLOADER&amp;name=** National Geographic Channel HD Portugal **</link>
+</item>
+
+<item>
+<title>** Nat Geo Wild HD Portugal **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1072.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Nat Geo Wild HD Portugal **</link>
+</item>
+
+<item>
+<title>** Historia **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1056.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Historia **</link>
+</item>
+
+<item>
+<title>** Odisseia **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1075.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Odisseia **</link>
+</item>
+
+<item>
+<title>** SIC Noticias **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1091.ts&amp;streamtype=TSDOWNLOADER&amp;name=** SIC Noticias **</link>
+</item>
+
+<item>
+<title>** RTP3 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1080.ts&amp;streamtype=TSDOWNLOADER&amp;name=** RTP3 **</link>
+</item>
+
+<item>
+<title>** TVI24 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1113.ts&amp;streamtype=TSDOWNLOADER&amp;name=** TVI24 **</link>
+</item>
+
+<item>
+<title>** CMTV HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1031.ts&amp;streamtype=TSDOWNLOADER&amp;name=** CMTV HD **</link>
+</item>
+
+<item>
+<title>** Euronews **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1040.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Euronews **</link>
+</item>
+
+<item>
+<title>** Cartoon Network Portugal **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1028.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Cartoon Network Portugal **</link>
+</item>
+
+<item>
+<title>** Disney Channel Portugal **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1035.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Disney Channel Portugal **</link>
+</item>
+
+<item>
+<title>** Disney Junior Portugal **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1036.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Disney Junior Portugal **</link>
+</item>
+
+<item>
+<title>** Nickelodeon Portugal **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1074.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Nickelodeon Portugal **</link>
+</item>
+
+<item>
+<title>** Canal Panda **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1026.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Canal Panda **</link>
+</item>
+
+<item>
+<title>** Biggs **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1020.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Biggs **</link>
+</item>
+
+<item>
+<title>** SIC Kapa **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1088.ts&amp;streamtype=TSDOWNLOADER&amp;name=** SIC Kapa **</link>
+</item>
+
+<item>
+<title>** JimJam **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1059.ts&amp;streamtype=TSDOWNLOADER&amp;name=** JimJam **</link>
+</item>
+
+<item>
+<title>** Baby TV **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1018.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Baby TV **</link>
+</item>
+
+<item>
+<title>** Baby First **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1017.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Baby First **</link>
+</item>
+
+
+<item>
+<title>** Globo RJ HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/170.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Globo RJ HD **</link>
+</item>
+
+<item>
+<title>** Globo RJ **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1448.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Globo RJ **</link>
+</item>
+
+<item>
+<title>** Globo SP **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1493.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Globo SP **</link>
+</item>
+
+<item>
+<title>** Globo Brasilia **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1446.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Globo Brasilia **</link>
+</item>
+
+<item>
+<title>** Globo Minas **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1443.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Globo Minas **</link>
+</item>
+
+<item>
+<title>** RBS TV Porto Alegre **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/43.ts&amp;streamtype=TSDOWNLOADER&amp;name=** RBS TV Porto Alegre **</link>
+</item>
+
+<item>
+<title>** EPTV Riberão HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1661.ts&amp;streamtype=TSDOWNLOADER&amp;name=** EPTV Riberão HD **</link>
+</item>
+
+<item>
+<title>** EPTV Campinas HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1662.ts&amp;streamtype=TSDOWNLOADER&amp;name=** EPTV Campinas HD **</link>
+</item>
+
+<item>
+<title>** TV Tem Sorocaba **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1447.ts&amp;streamtype=TSDOWNLOADER&amp;name=** TV Tem Sorocaba **</link>
+</item>
+
+<item>
+<title>** TV Tem Bauru **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1444.ts&amp;streamtype=TSDOWNLOADER&amp;name=** TV Tem Bauru **</link>
+</item>
+
+<item>
+<title>** TV Anhanguera Goiânia **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1445.ts&amp;streamtype=TSDOWNLOADER&amp;name=** TV Anhanguera Goiânia **</link>
+</item>
+
+<item>
+<title>** Globo Portugal **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/448.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Globo Portugal **</link>
+</item>
+
+<item>
+<title>** Globo Premium **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/449.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Globo Premium **</link>
+</item>
+
+<item>
+<title>** Band HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/193.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Band HD **</link>
+</item>
+
+<item>
+<title>** Band **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/124.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Band **</link>
+</item>
+
+<item>
+<title>** SBT HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/147.ts&amp;streamtype=TSDOWNLOADER&amp;name=** SBT HD **</link>
+</item>
+
+<item>
+<title>** SBT **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/36.ts&amp;streamtype=TSDOWNLOADER&amp;name=** SBT **</link>
+</item>
+
+<item>
+<title>** RecordTV HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/149.ts&amp;streamtype=TSDOWNLOADER&amp;name=** RecordTV HD **</link>
+</item>
+
+<item>
+<title>** RecordTV **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/41.ts&amp;streamtype=TSDOWNLOADER&amp;name=** RecordTV **</link>
+</item>
+
+<item>
+<title>** RecordTV HD Portugal **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1124.ts&amp;streamtype=TSDOWNLOADER&amp;name=** RecordTV HD Portugal **</link>
+</item>
+
+<item>
+<title>** RedeTV! HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/148.ts&amp;streamtype=TSDOWNLOADER&amp;name=** RedeTV! HD **</link>
+</item>
+
+<item>
+<title>** RedeTV! **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/39.ts&amp;streamtype=TSDOWNLOADER&amp;name=** RedeTV! **</link>
+</item>
+
+<item>
+<title>** Rede Brasil **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/40.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Rede Brasil **</link>
+</item>
+
+<item>
+<title>** TV Cultura HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/564.ts&amp;streamtype=TSDOWNLOADER&amp;name=** TV Cultura HD **</link>
+</item>
+
+<item>
+<title>** TV Cultura **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/8.ts&amp;streamtype=TSDOWNLOADER&amp;name=** TV Cultura **</link>
+</item>
+
+<item>
+<title>** TV Gazeta HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/570.ts&amp;streamtype=TSDOWNLOADER&amp;name=** TV Gazeta HD **</link>
+</item>
+
+<item>
+<title>** Futura **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/91.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Futura **</link>
+</item>
+
+<item>
+<title>** TV Escola HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/565.ts&amp;streamtype=TSDOWNLOADER&amp;name=** TV Escola HD **</link>
+</item>
+
+<item>
+<title>** TV Brasil **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/9.ts&amp;streamtype=TSDOWNLOADER&amp;name=** TV Brasil **</link>
+</item>
+
+<item>
+<title>** Rede Família HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/569.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Rede Família HD **</link>
+</item>
+
+<item>
+<title>** Terra Viva **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/16.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Terra Viva **</link>
+</item>
+
+<item>
+<title>** Canal Rural **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/119.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Canal Rural **</link>
+</item>
+
+<item>
+<title>** Canal do Boi **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/566.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Canal do Boi **</link>
+</item>
+
+<item>
+<title>** Agro Canal **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/568.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Agro Canal **</link>
+</item>
+
+<item>
+<title>** Brasil Rural TV **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1439.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Brasil Rural TV **</link>
+</item>
+
+<item>
+<title>** NBR **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/63.ts&amp;streamtype=TSDOWNLOADER&amp;name=** NBR **</link>
+</item>
+
+<item>
+<title>** TV Câmara **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/567.ts&amp;streamtype=TSDOWNLOADER&amp;name=** TV Câmara **</link>
+</item>
+
+<item>
+<title>** Telecine Premium HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/138.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Telecine Premium HD **</link>
+</item>
+
+<item>
+<title>** Telecine Premium **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/18.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Telecine Premium **</link>
+</item>
+
+<item>
+<title>** Telecine Action HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/141.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Telecine Action HD **</link>
+</item>
+
+<item>
+<title>** Telecine Action **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/22.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Telecine Action **</link>
+</item>
+
+<item>
+<title>** Telecine Touch HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/137.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Telecine Touch HD **</link>
+</item>
+
+<item>
+<title>** Telecine Touch **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/17.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Telecine Touch **</link>
+</item>
+
+<item>
+<title>** Telecine Pipoca HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/139.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Telecine Pipoca HD **</link>
+</item>
+
+<item>
+<title>** Telecine Pipoca **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/19.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Telecine Pipoca **</link>
+</item>
+
+<item>
+<title>** Telecine Fun HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/140.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Telecine Fun HD **</link>
+</item>
+
+<item>
+<title>** Telecine Fun **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/20.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Telecine Fun **</link>
+</item>
+
+<item>
+<title>** Telecine Cult **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/21.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Telecine Cult **</link>
+</item>
+
+<item>
+<title>** HBO HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/165.ts&amp;streamtype=TSDOWNLOADER&amp;name=** HBO HD **</link>
+</item>
+
+<item>
+<title>** HBO **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/84.ts&amp;streamtype=TSDOWNLOADER&amp;name=** HBO **</link>
+</item>
+
+<item>
+<title>** HBO 2 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/167.ts&amp;streamtype=TSDOWNLOADER&amp;name=** HBO 2 HD **</link>
+</item>
+
+<item>
+<title>** HBO 2 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/79.ts&amp;streamtype=TSDOWNLOADER&amp;name=** HBO 2 **</link>
+</item>
+
+<item>
+<title>** HBO Plus HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/164.ts&amp;streamtype=TSDOWNLOADER&amp;name=** HBO Plus HD **</link>
+</item>
+
+<item>
+<title>** HBO Plus **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/82.ts&amp;streamtype=TSDOWNLOADER&amp;name=** HBO Plus **</link>
+</item>
+
+<item>
+<title>** HBO Plus Panregional **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/81.ts&amp;streamtype=TSDOWNLOADER&amp;name=** HBO Plus Panregional **</link>
+</item>
+
+<item>
+<title>** HBO Family HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/166.ts&amp;streamtype=TSDOWNLOADER&amp;name=** HBO Family HD **</link>
+</item>
+
+<item>
+<title>** HBO Family **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/83.ts&amp;streamtype=TSDOWNLOADER&amp;name=** HBO Family **</link>
+</item>
+
+<item>
+<title>** HBO Signature HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/163.ts&amp;streamtype=TSDOWNLOADER&amp;name=** HBO Signature HD **</link>
+</item>
+
+<item>
+<title>** HBO Signature **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/80.ts&amp;streamtype=TSDOWNLOADER&amp;name=** HBO Signature **</link>
+</item>
+
+<item>
+<title>** Max **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/73.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Max **</link>
+</item>
+
+<item>
+<title>** Max UP **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/70.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Max UP **</link>
+</item>
+
+<item>
+<title>** Max Prime **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/72.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Max Prime **</link>
+</item>
+
+<item>
+<title>** Max Prime Panregional **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/71.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Max Prime Panregional **</link>
+</item>
+
+<item>
+<title>** Cinemax **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/115.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Cinemax **</link>
+</item>
+
+<item>
+<title>** FOX HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/175.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FOX HD **</link>
+</item>
+
+<item>
+<title>** FOX **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/95.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FOX **</link>
+</item>
+
+<item>
+<title>** FOX Premium 1 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/177.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FOX Premium 1 HD **</link>
+</item>
+
+<item>
+<title>** FOX Premium 2 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/176.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FOX Premium 2 HD **</link>
+</item>
+
+<item>
+<title>** FOX Life HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/174.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FOX Life HD **</link>
+</item>
+
+<item>
+<title>** FOX Life **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/94.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FOX Life **</link>
+</item>
+
+<item>
+<title>** FX HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/171.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FX HD **</link>
+</item>
+
+<item>
+<title>** FX **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/90.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FX **</link>
+</item>
+
+<item>
+<title>** Canal Sony HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/190.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Canal Sony HD **</link>
+</item>
+
+<item>
+<title>** Canal Sony **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/118.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Canal Sony **</link>
+</item>
+
+<item>
+<title>** AXN HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/194.ts&amp;streamtype=TSDOWNLOADER&amp;name=** AXN HD **</link>
+</item>
+
+<item>
+<title>** AXN **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/128.ts&amp;streamtype=TSDOWNLOADER&amp;name=** AXN **</link>
+</item>
+
+<item>
+<title>** Warner Channel HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/580.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Warner Channel HD **</link>
+</item>
+
+<item>
+<title>** Warner Channel **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/2.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Warner Channel **</link>
+</item>
+
+<item>
+<title>** Space HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/146.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Space HD **</link>
+</item>
+
+<item>
+<title>** Space **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/32.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Space **</link>
+</item>
+
+<item>
+<title>** TNT HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/136.ts&amp;streamtype=TSDOWNLOADER&amp;name=** TNT HD **</link>
+</item>
+
+<item>
+<title>** TNT **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/13.ts&amp;streamtype=TSDOWNLOADER&amp;name=** TNT **</link>
+</item>
+
+<item>
+<title>** TNT Séries HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/135.ts&amp;streamtype=TSDOWNLOADER&amp;name=** TNT Séries HD **</link>
+</item>
+
+<item>
+<title>** TNT Séries **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/12.ts&amp;streamtype=TSDOWNLOADER&amp;name=** TNT Séries **</link>
+</item>
+
+<item>
+<title>** TBS HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/142.ts&amp;streamtype=TSDOWNLOADER&amp;name=** TBS HD **</link>
+</item>
+
+<item>
+<title>** TBS **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/24.ts&amp;streamtype=TSDOWNLOADER&amp;name=** TBS **</link>
+</item>
+
+<item>
+<title>** TCM **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/23.ts&amp;streamtype=TSDOWNLOADER&amp;name=** TCM **</link>
+</item>
+
+<item>
+<title>** I.Sat **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/78.ts&amp;streamtype=TSDOWNLOADER&amp;name=** I.Sat **</link>
+</item>
+
+<item>
+<title>** Megapix HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/160.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Megapix HD **</link>
+</item>
+
+<item>
+<title>** Megapix **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/69.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Megapix **</link>
+</item>
+
+<item>
+<title>** Universal Channel HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/134.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Universal Channel HD **</link>
+</item>
+
+<item>
+<title>** Universal Channel **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/5.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Universal Channel **</link>
+</item>
+
+<item>
+<title>** Studio Universal **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/26.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Studio Universal **</link>
+</item>
+
+<item>
+<title>** A&E **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/132.ts&amp;streamtype=TSDOWNLOADER&amp;name=** A&E **</link>
+</item>
+
+<item>
+<title>** Syfy **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/25.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Syfy **</link>
+</item>
+
+<item>
+<title>** Mais Globosat **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/74.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Mais Globosat **</link>
+</item>
+
+<item>
+<title>** Canal Brasil **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/120.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Canal Brasil **</link>
+</item>
+
+<item>
+<title>** Paramount Channel HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/155.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Paramount Channel HD **</link>
+</item>
+
+<item>
+<title>** Paramount **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/57.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Paramount **</link>
+</item>
+
+<item>
+<title>** Prime Box Brazil **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/45.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Prime Box Brazil **</link>
+</item>
+
+<item>
+<title>** SporTV HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/143.ts&amp;streamtype=TSDOWNLOADER&amp;name=** SporTV HD **</link>
+</item>
+
+<item>
+<title>** SporTV **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/31.ts&amp;streamtype=TSDOWNLOADER&amp;name=** SporTV **</link>
+</item>
+
+<item>
+<title>** SporTV 2 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/145.ts&amp;streamtype=TSDOWNLOADER&amp;name=** SporTV 2 HD **</link>
+</item>
+
+<item>
+<title>** SporTV 2 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/30.ts&amp;streamtype=TSDOWNLOADER&amp;name=** SporTV 2 **</link>
+</item>
+
+<item>
+<title>** SporTV 3 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/144.ts&amp;streamtype=TSDOWNLOADER&amp;name=** SporTV 3 HD **</link>
+</item>
+
+<item>
+<title>** SporTV 3 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/28.ts&amp;streamtype=TSDOWNLOADER&amp;name=** SporTV 3 **</link>
+</item>
+
+<item>
+<title>** FOX Sports HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/173.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FOX Sports HD **</link>
+</item>
+
+<item>
+<title>** FOX Sports **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/93.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FOX Sports **</link>
+</item>
+
+<item>
+<title>** FOX Sports 2 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/172.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FOX Sports 2 HD **</link>
+</item>
+
+<item>
+<title>** FOX Sports 2 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/92.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FOX Sports 2 **</link>
+</item>
+
+<item>
+<title>** ESPN Brasil HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/180.ts&amp;streamtype=TSDOWNLOADER&amp;name=** ESPN Brasil HD **</link>
+</item>
+
+<item>
+<title>** ESPN Brasil **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/98.ts&amp;streamtype=TSDOWNLOADER&amp;name=** ESPN Brasil **</link>
+</item>
+
+<item>
+<title>** ESPN HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/179.ts&amp;streamtype=TSDOWNLOADER&amp;name=** ESPN HD **</link>
+</item>
+
+<item>
+<title>** ESPN **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/99.ts&amp;streamtype=TSDOWNLOADER&amp;name=** ESPN **</link>
+</item>
+
+<item>
+<title>** ESPN +  HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1450.ts&amp;streamtype=TSDOWNLOADER&amp;name=** ESPN +  HD **</link>
+</item>
+
+<item>
+<title>** ESPN + **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/181.ts&amp;streamtype=TSDOWNLOADER&amp;name=** ESPN + **</link>
+</item>
+
+<item>
+<title>** Esporte Interativo HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/182.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Esporte Interativo HD **</link>
+</item>
+
+<item>
+<title>** Esporte Interativo **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/101.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Esporte Interativo **</link>
+</item>
+
+<item>
+<title>** Esporte Interativo 2 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/183.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Esporte Interativo 2 HD **</link>
+</item>
+
+<item>
+<title>** Esporte Interativo 2 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/100.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Esporte Interativo 2 **</link>
+</item>
+
+<item>
+<title>** Esporte Interativo BR **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/178.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Esporte Interativo BR **</link>
+</item>
+
+<item>
+<title>** BandSports HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/192.ts&amp;streamtype=TSDOWNLOADER&amp;name=** BandSports HD **</link>
+</item>
+
+<item>
+<title>** BandSports **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/125.ts&amp;streamtype=TSDOWNLOADER&amp;name=** BandSports **</link>
+</item>
+
+<item>
+<title>** OFF HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/156.ts&amp;streamtype=TSDOWNLOADER&amp;name=** OFF HD **</link>
+</item>
+
+<item>
+<title>** OFF **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/58.ts&amp;streamtype=TSDOWNLOADER&amp;name=** OFF **</link>
+</item>
+
+<item>
+<title>** Woohoo **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Woohoo **</link>
+</item>
+
+<item>
+<title>** FishTV **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/97.ts&amp;streamtype=TSDOWNLOADER&amp;name=** FishTV **</link>
+</item>
+
+<item>
+<title>** Combate HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/189.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Combate HD **</link>
+</item>
+
+<item>
+<title>** Combate **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/114.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Combate **</link>
+</item>
+
+<item>
+<title>** PFC Internacional **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/588.ts&amp;streamtype=TSDOWNLOADER&amp;name=** PFC Internacional **</link>
+</item>
+
+<item>
+<title>** PFC Internacional Alternativo **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1633.ts&amp;streamtype=TSDOWNLOADER&amp;name=** PFC Internacional Alternativo **</link>
+</item>
+
+<item>
+<title>** Premiere Clubes HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/154.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Premiere Clubes HD **</link>
+</item>
+
+<item>
+<title>** Premiere Clubes **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/46.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Premiere Clubes **</link>
+</item>
+
+<item>
+<title>** Premiere 2 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/153.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Premiere 2 HD **</link>
+</item>
+
+<item>
+<title>** Premiere 2 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/54.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Premiere 2 **</link>
+</item>
+
+<item>
+<title>** Premiere 3 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/152.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Premiere 3 HD **</link>
+</item>
+
+<item>
+<title>** Premiere 3 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/53.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Premiere 3 **</link>
+</item>
+
+<item>
+<title>** Premiere 4 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/151.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Premiere 4 HD **</link>
+</item>
+
+<item>
+<title>** Premiere 4 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/52.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Premiere 4 **</link>
+</item>
+
+<item>
+<title>** Premiere 5 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/150.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Premiere 5 HD **</link>
+</item>
+
+<item>
+<title>** Premiere 5 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/51.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Premiere 5 **</link>
+</item>
+
+<item>
+<title>** Premiere 6 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/50.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Premiere 6 **</link>
+</item>
+
+<item>
+<title>** Premiere 7 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/49.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Premiere 7 **</link>
+</item>
+
+<item>
+<title>** Premiere 8 - Mosaico Jogos **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/48.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Premiere 8 - Mosaico Jogos **</link>
+</item>
+
+<item>
+<title>** Premiere 9 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/47.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Premiere 9 **</link>
+</item>
+
+<item>
+<title>** Premiere 10 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/27.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Premiere 10 **</link>
+</item>
+
+<item>
+<title>** Premiere 11 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/29.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Premiere 11 **</link>
+</item>
+
+<item>
+<title>** GNT HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/169.ts&amp;streamtype=TSDOWNLOADER&amp;name=** GNT HD **</link>
+</item>
+
+<item>
+<title>** GNT **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/86.ts&amp;streamtype=TSDOWNLOADER&amp;name=** GNT **</link>
+</item>
+
+<item>
+<title>** Viva HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/133.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Viva HD **</link>
+</item>
+
+<item>
+<title>** Viva **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/3.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Viva **</link>
+</item>
+
+<item>
+<title>** Multishow HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/159.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Multishow HD **</link>
+</item>
+
+<item>
+<title>** Multishow **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/67.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Multishow **</link>
+</item>
+
+<item>
+<title>** BIS HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/191.ts&amp;streamtype=TSDOWNLOADER&amp;name=** BIS HD **</link>
+</item>
+
+<item>
+<title>** BIS **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/122.ts&amp;streamtype=TSDOWNLOADER&amp;name=** BIS **</link>
+</item>
+
+<item>
+<title>** MTV **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/68.ts&amp;streamtype=TSDOWNLOADER&amp;name=** MTV **</link>
+</item>
+
+<item>
+<title>** VH1 MegaHits **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/4.ts&amp;streamtype=TSDOWNLOADER&amp;name=** VH1 MegaHits **</link>
+</item>
+
+<item>
+<title>** Mix TV **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/572.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Mix TV **</link>
+</item>
+
+<item>
+<title>** Music Box Brazil **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/66.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Music Box Brazil **</link>
+</item>
+
+<item>
+<title>** Discovery Turbo HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/185.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Discovery Turbo HD **</link>
+</item>
+
+<item>
+<title>** Discovery Turbo **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/106.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Discovery Turbo **</link>
+</item>
+
+<item>
+<title>** TruTV **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/10.ts&amp;streamtype=TSDOWNLOADER&amp;name=** TruTV **</link>
+</item>
+
+<item>
+<title>** Comedy Central **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/113.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Comedy Central **</link>
+</item>
+
+<item>
+<title>** Investigação Discovery HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/161.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Investigação Discovery HD **</link>
+</item>
+
+<item>
+<title>** Investigação Discovery **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/77.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Investigação Discovery **</link>
+</item>
+
+<item>
+<title>** Discovery Home&Health HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/187.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Discovery Home&Health HD **</link>
+</item>
+
+<item>
+<title>** Discovery Home&Health **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/109.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Discovery Home&Health **</link>
+</item>
+
+<item>
+<title>** Lifetime **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/75.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Lifetime **</link>
+</item>
+
+<item>
+<title>** TLC **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/14.ts&amp;streamtype=TSDOWNLOADER&amp;name=** TLC **</link>
+</item>
+
+<item>
+<title>** E! **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/102.ts&amp;streamtype=TSDOWNLOADER&amp;name=** E! **</link>
+</item>
+
+<item>
+<title>** Food Network **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/96.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Food Network **</link>
+</item>
+
+<item>
+<title>** Curta! **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/112.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Curta! **</link>
+</item>
+
+<item>
+<title>** Animal Planet HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/195.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Animal Planet HD **</link>
+</item>
+
+<item>
+<title>** Animal Planet **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/131.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Animal Planet **</link>
+</item>
+
+<item>
+<title>** Discovery Channel HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/188.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Discovery Channel HD **</link>
+</item>
+
+<item>
+<title>** Discovery Channel **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/111.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Discovery Channel **</link>
+</item>
+
+<item>
+<title>** Discovery Theater HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/186.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Discovery Theater HD **</link>
+</item>
+
+<item>
+<title>** Discovery World HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/184.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Discovery World HD **</link>
+</item>
+
+<item>
+<title>** Discovery Science **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/107.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Discovery Science **</link>
+</item>
+
+<item>
+<title>** Discovery Civilization **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/110.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Discovery Civilization **</link>
+</item>
+
+<item>
+<title>** Nat Geo HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/157.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Nat Geo HD **</link>
+</item>
+
+<item>
+<title>** Nat Geo **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/64.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Nat Geo **</link>
+</item>
+
+<item>
+<title>** Nat Geo Wild HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/158.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Nat Geo Wild HD **</link>
+</item>
+
+<item>
+<title>** Nat Geo Wild **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/65.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Nat Geo Wild **</link>
+</item>
+
+<item>
+<title>** History Channel HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/162.ts&amp;streamtype=TSDOWNLOADER&amp;name=** History Channel HD **</link>
+</item>
+
+<item>
+<title>** History **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/15.ts&amp;streamtype=TSDOWNLOADER&amp;name=** History **</link>
+</item>
+
+<item>
+<title>** H2 HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/168.ts&amp;streamtype=TSDOWNLOADER&amp;name=** H2 HD **</link>
+</item>
+
+<item>
+<title>** H2 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/85.ts&amp;streamtype=TSDOWNLOADER&amp;name=** H2 **</link>
+</item>
+
+<item>
+<title>** Arte 1 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/129.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Arte 1 **</link>
+</item>
+
+<item>
+<title>** GloboNews **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/88.ts&amp;streamtype=TSDOWNLOADER&amp;name=** GloboNews **</link>
+</item>
+
+<item>
+<title>** BandNews **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/126.ts&amp;streamtype=TSDOWNLOADER&amp;name=** BandNews **</link>
+</item>
+
+<item>
+<title>** Record News **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/42.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Record News **</link>
+</item>
+
+<item>
+<title>** Boomerang **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/121.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Boomerang **</link>
+</item>
+
+<item>
+<title>** Cartoon Network HD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/127.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Cartoon Network HD **</link>
+</item>
+
+<item>
+<title>** Cartoon Network **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/116.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Cartoon Network **</link>
+</item>
+
+<item>
+<title>** Tooncast **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/11.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Tooncast **</link>
+</item>
+
+<item>
+<title>** Nick **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/60.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Nick **</link>
+</item>
+
+<item>
+<title>** Nick Jr. **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/61.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Nick Jr. **</link>
+</item>
+
+<item>
+<title>** Disney XD **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/103.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Disney XD **</link>
+</item>
+
+<item>
+<title>** Disney Channel **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/105.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Disney Channel **</link>
+</item>
+
+<item>
+<title>** Disney Junior **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/104.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Disney Junior **</link>
+</item>
+
+<item>
+<title>** Discovery Kids **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/108.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Discovery Kids **</link>
+</item>
+
+<item>
+<title>** Gloob **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/87.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Gloob **</link>
+</item>
+
+<item>
+<title>** PlayTV **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/56.ts&amp;streamtype=TSDOWNLOADER&amp;name=** PlayTV **</link>
+</item>
+
+<item>
+<title>** TV Rá Tim Bum **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/7.ts&amp;streamtype=TSDOWNLOADER&amp;name=** TV Rá Tim Bum **</link>
+</item>
+
+<item>
+<title>** Cancao Nova **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/117.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Cancao Nova **</link>
+</item>
+
+<item>
+<title>** Rede Vida **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/38.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Rede Vida **</link>
+</item>
+
+<item>
+<title>** TV Aparecida **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/130.ts&amp;streamtype=TSDOWNLOADER&amp;name=** TV Aparecida **</link>
+</item>
+
+<item>
+<title>** Rede Século 21 **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/574.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Rede Século 21 **</link>
+</item>
+
+<item>
+<title>** Rede Super **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/575.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Rede Super **</link>
+</item>
+
+<item>
+<title>** RIT **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/37.ts&amp;streamtype=TSDOWNLOADER&amp;name=** RIT **</link>
+</item>
+
+<item>
+<title>** TV Gideões **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1214.ts&amp;streamtype=TSDOWNLOADER&amp;name=** TV Gideões **</link>
+</item>
+
+<item>
+<title>** TV Novo Tempo **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/59.ts&amp;streamtype=TSDOWNLOADER&amp;name=** TV Novo Tempo **</link>
+</item>
+
+<item>
+<title>** RBI **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/44.ts&amp;streamtype=TSDOWNLOADER&amp;name=** RBI **</link>
+</item>
+
+<item>
+<title>** Ideal TV **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/76.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Ideal TV **</link>
+</item>
+
+<item>
+<title>** Shoptime **</title>
+<link>plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Rafaelhemocentro/0bxIiNJfWU/1621.ts&amp;streamtype=TSDOWNLOADER&amp;name=** Shoptime **</link>
+</item>
+
 
 
 
