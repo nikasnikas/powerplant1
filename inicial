@@ -4,10 +4,10 @@
 
 
 
-<item>
+<itemhttps://unpent-horns.000webhostapp.com/fotos/IPTV.png>
 <title>[COLOR aqua][B]WORLD DAILY SERVERS IPTV[/B] [/COLOR]</title>title>
 <thumbnail>https://unpent-horns.000webhostapp.com/fotos/IPTV.png</thumbnail>
- <fanart>https://unpent-horns.000webhostapp.com/fotos/IPTV.png</fanart>
+ <fanart></fanart>
 <link$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -23,6 +23,14 @@
 </regex>
 </item>
 
+
+<item>
+<title>[COLOR aqua][B]WORLD DAILY SERVERS IPTV[/B] [/COLOR][/B] [/COLOR] </title>
+<link>http://ignorame</link>
+<fanart>http://i.cubeupload.com/RhQ2nZ.png</fanart>
+<thumbnail>http://i.cubeupload.com/RhQ2nZ.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/nikasnikas/powerplant1/master/submenuweb</externallink>
+</item>
 
 
 
