@@ -22,7 +22,7 @@
 
 <item>
 <title>[COLOR white][B]ARENAVISION AGENDA / SCHEDULE 2[/B][/COLOR]</title>
-<link>$doregex[makelist]</link>
+<link$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
