@@ -4,25 +4,6 @@
 
 
 
-<item>
-<title>[COLOR aqua][B]WORLD DAILY SERVERS IPTV[/B] [/COLOR]</title>title>
-<thumbnail>https://unpent-horns.000webhostapp.com/fotos/IPTV.png</thumbnail>
- <fanart></fanart>
-<link$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-    <title> [COLOR white][makelist.param2][/COLOR] ( [makelist.param1] ) </title>
-<link>NA</link>
-<externallink>[makelist.param1][DE]$$TSDOWNLOADER$$</externallink>
-]]></listrepeat>
-<expres>>(http:\/\/(.*?)\/.*?get.php.*?)&lt;</expres>
-<page>http://www.m3uliste.pw/</page>
-<referer></referer>
-<cookieJar></cookieJar>
-</regex>
-</item>
-
 
 
 
@@ -36,98 +17,5 @@
 <thumbnail>http://i.cubeupload.com/RhQ2nZ.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/nikasnikas/powerplant1/master/submenuweb</externallink>
 </item>
-
-
-<item>
-<title>[COLOR aqua][B]WORLD DAILY SERVERS IPTV[/B] [/COLOR]</title>
-<link>http://ignorame</link>
-<fanart>http://i.cubeupload.com/RhQ2nZ.png</fanart>
-<thumbnail>http://i.cubeupload.com/RhQ2nZ.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/nikasnikas/powerplant1/master/dailyserver$$TSDOWNLOADER$$</externallink>
-</item>
-
-
-<item>
-<title>[COLOR aqua][B]SPORTS AGENDA[/B] [/COLOR] </title>
-<link>http://ignorame</link>
-<fanart>http://i.cubeupload.com/Bq3O5s.png</fanart>
-<thumbnail>http://i.cubeupload.com/Bq3O5s.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/nikasnikas/powerplant1/master/agenda</externallink>
-</item>
-
-
-
-<item>
-<title>[COLOR aqua][B]SPORTS[/B] [/COLOR] </title>
-<linkhttp://ignorame</link>
-<fanart>http://i.cubeupload.com/hBjBja.png</fanart>
-<thumbnail>http://i.cubeupload.com/hBjBja.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/nikasnikas/powerplant1/master/sports</externallink>
-</item>
-
-
-
-
-
-
-
-<item>
-<title>[COLOR aqua][B]DOCUMENTARIES[/B] [/COLOR] </title>
-<link>http://ignorame</link>
-<fanart>http://i.cubeupload.com/3juFJz.png</fanart>
-<thumbnail>http://i.cubeupload.com/3juFJz.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/nikasnikas/powerplant1/master/docus</externallink>
-</item>
-
-
-
-
-
-
-
-<item>
-<title>[COLOR aqua][B]YOUTUBE[/COLOR][/B]</title>
-<link_</link>
-<jsonrpc>plugin://plugin.video.youtube</jsonrpc>
-<fanart>https://unpent-horns.000webhostapp.com/fotos/YOUTUBE.png</fanart>
-<thumbnail>https://unpent-horns.000webhostapp.com/fotos/YOUTUBE.png</thumbnail>
-</item>
-
-
-
-<item>  
-<title>[COLOR aqua][B]MUSIC CHANNELS[/B][/COLOR]</title>
-<link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/nikasnikas/powerplant1/master/music</externallink>
-<fanart>http://i.cubeupload.com/um27KZ.png</fanart>
-<thumbnail>http://i.cubeupload.com/um27KZ.png</thumbnail>
-</item>
-
-
-
-<item>  
-<title>[COLOR aqua][B]RADIO ONLINE[/B][/COLOR]</title>
-<link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/nikasnikas/powerplant1/master/radio</externallink>
-<fanart>https://u.cubeupload.com/UVVA30.png</fanart>
-<thumbnail>https://u.cubeupload.com/UVVA30.png</thumbnail>
-</item>
-
-
-
-<item>  
-<title>[COLOR aqua][B]WEBCAMS[/B][/COLOR]</title>
-<link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/nikasnikas/powerplant1/master/webcam</externallink>
-<fanart>http://i.cubeupload.com/oLq1df.png</fanart>
-<thumbnail>http://i.cubeupload.com/oLq1df.png</thumbnail>
-</item>
-
-
-
-
-
-
-
 
 
